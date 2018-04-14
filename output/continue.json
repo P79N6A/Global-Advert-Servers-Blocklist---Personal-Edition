@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Global-Advert-Servers-Blocklist---Personal-Edition/domains.list": {
-        "down": 30096,
+        "down": 30350,
         "invalid": 50,
-        "tested": 88356,
-        "up": 58210
+        "tested": 89164,
+        "up": 58764
     }
 }
