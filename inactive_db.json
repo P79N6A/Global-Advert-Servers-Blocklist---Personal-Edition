@@ -1576,9 +1576,7 @@
             "ad.pxlad.io",
             "ad.qwapi.com",
             "ad.realcastmedia.com",
-            "ad.recursosgratis.com"
-        ],
-        "to_test": [
+            "ad.recursosgratis.com",
             "ad.ro2cn.com",
             "ad.sales.olympics.nl",
             "ad.sbnation.com",
@@ -1603,6 +1601,7 @@
             "ad.uk.tangozebra.com",
             "ad.uolmg.com",
             "ad.valencemedia.com",
+            "ad.visiblemeasures.com",
             "ad.vuiads.org",
             "ad.warcraftmovies.com",
             "ad.watch.impress.co.jp",
@@ -1778,7 +1777,9 @@
             "ad2.gyaloglo.hu",
             "ad2.insightexpress.com",
             "ad2.ip.ro",
-            "ad2.lbe.ru",
+            "ad2.lbe.ru"
+        ],
+        "to_test": [
             "ad2.live.liverail.com",
             "ad2.pamedia.com.au",
             "ad2.peel.com",
