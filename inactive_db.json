@@ -2025,9 +2025,7 @@
             "adeskonline.com",
             "adevents.msn.co.jp",
             "adex-group.ru",
-            "adexprt.me"
-        ],
-        "to_test": [
+            "adexprt.me",
             "adextension.com",
             "adextensioncontrol.tudou.com",
             "adfarm.snv.mediaplex.com",
@@ -2056,6 +2054,7 @@
             "adic.links.origin.channelintelligence.com",
             "adidm.supermedia.pl",
             "adidnes2.bbmedia.cz",
+            "adimage.asia1.com.sg",
             "adimage.asiaone.com.sg",
             "adimage.blm.org",
             "adimages.4sure.com",
@@ -2166,6 +2165,7 @@
             "adoimi.cn",
             "adolfopresidente.com",
             "adonn.ru",
+            "adop.info",
             "adopt.imiclk.com",
             "adoptapikachu.com",
             "adoptione2e4.info",
@@ -2185,7 +2185,6 @@
             "adpr01.ads.tnz.yahoo.co.jp",
             "adpr02.ads.tnz.yahoo.co.jp",
             "adproject.net",
-            "adprojekt.pl",
             "adpush.dreamscape.com",
             "adqa.ads.yahoo.com",
             "adready.net",
@@ -2235,7 +2234,9 @@
             "ads.633f94d3.info",
             "ads.64r.net",
             "ads.6agenten.dk",
-            "ads.6arab.com",
+            "ads.6arab.com"
+        ],
+        "to_test": [
             "ads.6server.com",
             "ads.91s.com",
             "ads.aapeli.com",
