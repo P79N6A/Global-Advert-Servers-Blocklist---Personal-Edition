@@ -1777,9 +1777,7 @@
             "ad2.gyaloglo.hu",
             "ad2.insightexpress.com",
             "ad2.ip.ro",
-            "ad2.lbe.ru"
-        ],
-        "to_test": [
+            "ad2.lbe.ru",
             "ad2.live.liverail.com",
             "ad2.pamedia.com.au",
             "ad2.peel.com",
@@ -2027,7 +2025,9 @@
             "adeskonline.com",
             "adevents.msn.co.jp",
             "adex-group.ru",
-            "adexprt.me",
+            "adexprt.me"
+        ],
+        "to_test": [
             "adextension.com",
             "adextensioncontrol.tudou.com",
             "adfarm.snv.mediaplex.com",
