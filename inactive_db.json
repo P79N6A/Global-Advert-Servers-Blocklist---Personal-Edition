@@ -2777,9 +2777,7 @@
             "ads.maksimum.net",
             "ads.maktoob.com",
             "ads.malaysiadirectory.com",
-            "ads.mambocommunities.com"
-        ],
-        "to_test": [
+            "ads.mambocommunities.com",
             "ads.manavell.com",
             "ads.maotec-00.de",
             "ads.market.ru",
@@ -2802,7 +2800,6 @@
             "ads.medianine.com",
             "ads.mediaskill.de",
             "ads.mediatechnet.com",
-            "ads.mediaturf.net",
             "ads.mediaweb.hu",
             "ads.members.com.es",
             "ads.meninpain.com",
@@ -2823,6 +2820,7 @@
             "ads.mininova.org",
             "ads.minnesota.com",
             "ads.mischost.co.uk",
+            "ads.mitex.nu",
             "ads.mitra.net.id",
             "ads.mixcloud.com",
             "ads.mm.ap.org",
@@ -2876,6 +2874,7 @@
             "ads.net2day.de",
             "ads.netclusive.de",
             "ads.netinfo.ee",
+            "ads.netmechanic.com",
             "ads.netmx.com.mx",
             "ads.netmyne.com.my",
             "ads.netopia.pt",
@@ -2945,7 +2944,9 @@
             "ads.pc.nj.adsonar.com",
             "ads.pc.sj.adsonar.com",
             "ads.pcper.com",
-            "ads.pdaverticals.com",
+            "ads.pdaverticals.com"
+        ],
+        "to_test": [
             "ads.pdfdownloadfree.org",
             "ads.pdidc.com",
             "ads.peninsulaclarion.com",
