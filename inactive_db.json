@@ -3342,9 +3342,7 @@
             "ads.x-project.net",
             "ads.x10.co.uk",
             "ads.x10.com",
-            "ads.xbox-scene.com"
-        ],
-        "to_test": [
+            "ads.xbox-scene.com",
             "ads.xe.gr",
             "ads.xilu.com",
             "ads.xpogames.co.il",
@@ -3419,6 +3417,7 @@
             "ads2.ah-ha.com",
             "ads2.bpath.com",
             "ads2.callwave.com",
+            "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.coreroot.com",
             "ads2.drivelinemedia.com",
@@ -3490,7 +3489,9 @@
             "ads48.bpath.com",
             "ads48.hyperbanner.net",
             "ads49.bpath.com",
-            "ads49.hyperbanner.net",
+            "ads49.hyperbanner.net"
+        ],
+        "to_test": [
             "ads4texas.com",
             "ads5.peel.com",
             "ads50.bpath.com",
