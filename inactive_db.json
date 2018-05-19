@@ -3986,9 +3986,7 @@
             "adverlinkz.com",
             "advert.api.no",
             "advert.trainingtools.com",
-            "advert1.ru"
-        ],
-        "to_test": [
+            "advert1.ru",
             "advertbnr.com",
             "advertise.about.com",
             "advertisedpanel.net",
@@ -4000,6 +3998,7 @@
             "advertising-investments.com",
             "advertising.550access.com",
             "advertising.cz",
+            "advertising.guildlaunch.net",
             "advertising.mortgagebankers.org",
             "advertising.to",
             "advertissimo.net",
@@ -4063,6 +4062,7 @@
             "adx.arip.co.th",
             "adx.gainesvillesun.com",
             "adx.heraldtribune.com",
+            "adx.nu",
             "adx1.adrenaline.cz",
             "adxbnet.net",
             "adxcnet.net",
@@ -4071,7 +4071,6 @@
             "adxrnet.net",
             "adxtend.net",
             "adxtnet.net",
-            "adyads.com",
             "adz.afterdawn.net",
             "adzoma.com",
             "adzone.stltoday.com",
@@ -4137,6 +4136,7 @@
             "affiliates.ige.com",
             "affiliates.iwantu.com",
             "affiliates.jlist.com",
+            "affiliates.loanpush.com",
             "affiliates.matchmaker.com",
             "affiliates.turbo-surfer.com",
             "affiliates.wsfpoker.com",
@@ -4791,7 +4791,9 @@
             "ai954.insightexpressai.com",
             "ai955.insightexpressai.com",
             "ai956.insightexpressai.com",
-            "ai957.insightexpressai.com",
+            "ai957.insightexpressai.com"
+        ],
+        "to_test": [
             "ai958.insightexpressai.com",
             "ai959.insightexpressai.com",
             "ai960.insightexpressai.com",
