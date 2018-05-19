@@ -3131,9 +3131,7 @@
             "ads.stories.com",
             "ads.stratics.com",
             "ads.studivznet.net",
-            "ads.stupid.com"
-        ],
-        "to_test": [
+            "ads.stupid.com",
             "ads.substancia.com",
             "ads.sumotorrent.com",
             "ads.superspeed.ch",
@@ -3223,6 +3221,7 @@
             "ads.uploadnetwork.com",
             "ads.upperplayground.com",
             "ads.upskrits.mp",
+            "ads.urdupoint.com",
             "ads.usd.msu.edu",
             "ads.usemycomputer.com",
             "ads.userinfos.de",
@@ -3343,7 +3342,9 @@
             "ads.x-project.net",
             "ads.x10.co.uk",
             "ads.x10.com",
-            "ads.xbox-scene.com",
+            "ads.xbox-scene.com"
+        ],
+        "to_test": [
             "ads.xe.gr",
             "ads.xilu.com",
             "ads.xpogames.co.il",
