@@ -9789,9 +9789,7 @@
             "dev.realmedia.com",
             "dev.statesman.cimedia.com",
             "dev1.vip.sc9.admob.com",
-            "dev100.visiblemeasures.com"
-        ],
-        "to_test": [
+            "dev100.visiblemeasures.com",
             "dev107-ssl.websidestory.com",
             "dev2.collective-media.net",
             "dev2.fastclick.net",
@@ -9822,7 +9820,6 @@
             "dfp.doubleclick.com",
             "dfsas23.com",
             "dfudont.ru",
-            "dgbsha.poolto.be",
             "dgjir.com",
             "dh89h8hd478yh87dd.com",
             "dhd.ivwbox.de",
@@ -10025,7 +10022,7 @@
             "dl.iad.ask.com",
             "dl.kaka1l.com",
             "dl.morpheus.com",
-            "dl.newonlinedemoserv.com",
+            "dl.ncbuy.com",
             "dl.omfg.pw",
             "dl.searchforit.com",
             "dl.shuangfei.info",
@@ -10048,7 +10045,9 @@
             "dl8.spyheal.com",
             "dl9.spyfalcon.com",
             "dld.av2008dl.com",
-            "dle-news.pw",
+            "dle-news.pw"
+        ],
+        "to_test": [
             "dlink.links.channelintelligence.com",
             "dlink.links.origin.channelintelligence.com",
             "dlink2.org",
