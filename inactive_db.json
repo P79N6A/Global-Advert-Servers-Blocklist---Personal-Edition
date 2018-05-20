@@ -6578,9 +6578,7 @@
             "banners.helpmij.nl",
             "banners.hiperaktif.com",
             "banners.home.lv",
-            "banners.interclimax.com"
-        ],
-        "to_test": [
+            "banners.interclimax.com",
             "banners.isurgut.ru",
             "banners.izhnet.ru",
             "banners.jlbbooks.com",
@@ -6607,7 +6605,8 @@
             "banners.netsoftpt.com",
             "banners.newwweb.de",
             "banners.nextgen.net.mt",
-            "banners.nightsites.com",
+            "banners.nite.lv",
+            "banners.no1free.com",
             "banners.nocreditcard.com",
             "banners.nocreditcardgay.com",
             "banners.ocean.lv",
@@ -6657,7 +6656,9 @@
             "banners.zonade.com",
             "banners01.hiperaktif.com",
             "banners2.sponsoradulto.com",
-            "banners4u.biz",
+            "banners4u.biz"
+        ],
+        "to_test": [
             "bannersandpopups.com",
             "bannerserv.dragbike.com",
             "bannerserver.everycontractor.com",
