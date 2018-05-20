@@ -4980,9 +4980,7 @@
             "lantug.org",
             "lanuevaeradeldesarrollo.com",
             "lapi.ebay.com",
-            "lapsek.info"
-        ],
-        "to_test": [
+            "lapsek.info",
             "large-domain.link",
             "large-domain.net",
             "large-domain.top",
@@ -5233,7 +5231,9 @@
             "link.decideinteractive.com",
             "link.mortonssteakhouse.com",
             "link.siccash.com",
-            "linkadnetwork.biz",
+            "linkadnetwork.biz"
+        ],
+        "to_test": [
             "linkdating.net",
             "linkfordesktop.com",
             "linkit4cash.com",
