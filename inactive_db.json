@@ -3506,9 +3506,7 @@
             "ia2.voicefive.com",
             "ia3.voicefive.com",
             "ia5.voicefive.com",
-            "iacas.adbureau.net"
-        ],
-        "to_test": [
+            "iacas.adbureau.net",
             "iad-agg-n3.panthercdn.com",
             "iad.comscore.com",
             "iad.voicefive.com",
@@ -3663,6 +3661,7 @@
             "igivor.cn",
             "ignfile.cn",
             "ignphrases.com",
+            "igu.org.pl",
             "ihateadware.com",
             "ihatepops.com",
             "ihateyoujess.com",
@@ -3684,6 +3683,7 @@
             "ilapi.ebay.com",
             "ilianorkin.ru",
             "ilieva.org",
+            "iliilllio00oo0.321.cn",
             "ilim.mine.nu",
             "illegalpages.com",
             "illicit-sex.net",
@@ -3748,7 +3748,9 @@
             "images.imagesbyaz.com",
             "images.imgehost.com",
             "images.itnation.com",
-            "images.jps.ru",
+            "images.jps.ru"
+        ],
+        "to_test": [
             "images.newsx.cc",
             "images.outwar.com",
             "images.pheedo.com",
