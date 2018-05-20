@@ -5725,9 +5725,7 @@
             "mail.crypto-loot.com",
             "mail.graftpool.net",
             "mail.magiccoin.biz",
-            "mail2.nicehash.com"
-        ],
-        "to_test": [
+            "mail2.nicehash.com",
             "mailfo.adtech.de",
             "mailfreepostcards.com",
             "mailgw.adtech.de",
@@ -5779,6 +5777,7 @@
             "makotoro.com",
             "malachite.bnex.com",
             "male-next-door.com",
+            "malecafe.net",
             "maledomination.net",
             "malkutar.com",
             "maloletok.net",
@@ -5894,7 +5893,6 @@
             "mastersearchsite.com",
             "masterseoprodnew.com",
             "masterspitetds09.com",
-            "masuccessguy.com",
             "mataharirama.xyz",
             "matcher-cwb.bidder7.mookie1.com",
             "matcher.bidder7.mookie1.com",
@@ -5972,7 +5970,9 @@
             "mckinseyquarterly.com.102.112.2o7.net",
             "mcn-mro.pool.minergate.com",
             "mct.insightfirst.com",
-            "mctcollect.insightfirst.com",
+            "mctcollect.insightfirst.com"
+        ],
+        "to_test": [
             "md-multimedia-data.com",
             "md.2mdn.net",
             "md.buysell.com",
