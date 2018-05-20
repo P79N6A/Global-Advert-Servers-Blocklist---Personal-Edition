@@ -5970,9 +5970,7 @@
             "mckinseyquarterly.com.102.112.2o7.net",
             "mcn-mro.pool.minergate.com",
             "mct.insightfirst.com",
-            "mctcollect.insightfirst.com"
-        ],
-        "to_test": [
+            "mctcollect.insightfirst.com",
             "md-multimedia-data.com",
             "md.2mdn.net",
             "md.buysell.com",
@@ -6012,6 +6010,7 @@
             "media.secure-stream.org",
             "media.snitchy.com",
             "media.tattomedia.com",
+            "media.thestranger.com",
             "media.top-banners.com",
             "media.winguides.com",
             "media01.imrworldwide.com",
@@ -6134,6 +6133,7 @@
             "member.bcentral.com",
             "membersphoto.com",
             "membersplayground.com",
+            "memberweb.com.102.112.2o7.net",
             "meme.hi.cn",
             "memnon.myfoolmoon.com",
             "memorix.sdv.fr",
@@ -6144,6 +6144,7 @@
             "meqashopperinfo.com",
             "mercadoabc.com.br",
             "merckmedico.com",
+            "mercy.ga",
             "meredithlocald.openx.net",
             "merielied.cn",
             "merign.org",
@@ -6154,7 +6155,6 @@
             "meshalynn.com",
             "mesothelioma-abestos.com",
             "mesothelioma-settlementnow.com",
-            "mess.be",
             "message2enter.com",
             "message2view.com",
             "messagespace.advertserve.com",
@@ -6209,7 +6209,9 @@
             "metrics.metrindo.co.id",
             "metrics.mit.edu",
             "metrics.mms.mavenapps.net",
-            "metrics.monster.com",
+            "metrics.monster.com"
+        ],
+        "to_test": [
             "metrics.ndc.rr.com",
             "metrics.nisn.nasa.gov",
             "metrics.nokia.com",
