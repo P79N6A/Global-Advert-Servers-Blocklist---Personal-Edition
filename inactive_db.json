@@ -7999,9 +7999,7 @@
             "o.techworld.com",
             "o.u.j.cltomedia.info",
             "o0o0il1i0o.htmi3.com",
-            "o2pl.nuggad.net"
-        ],
-        "to_test": [
+            "o2pl.nuggad.net",
             "o7n9.cn",
             "oa.techcrunch.com",
             "oad-admin.realmedia.com",
@@ -8024,6 +8022,7 @@
             "oas-n.insightfirst.com",
             "oas-ncollect.insightfirst.com",
             "oas.adx.nu",
+            "oas.autotrader.co.uk",
             "oas.bestrsv.com",
             "oas.chonbuk.ac.kr",
             "oas.destination.se",
@@ -8193,6 +8192,7 @@
             "oascentral.allrecipes.com",
             "oascentral.amo-mortgage.com",
             "oascentral.ancestry.com",
+            "oascentral.artistdirect.com",
             "oascentral.auctionwatch.com",
             "oascentral.aviationnow.com",
             "oascentral.babelgum.com",
@@ -8201,7 +8201,9 @@
             "oascentral.blogher.org",
             "oascentral.bostonherald.com",
             "oascentral.bostonphoenix.com",
-            "oascentral.btobonline.com",
+            "oascentral.btobonline.com"
+        ],
+        "to_test": [
             "oascentral.capecodlivecam.com",
             "oascentral.cbot.com",
             "oascentral.clearchannel.com",
