@@ -6209,9 +6209,7 @@
             "metrics.metrindo.co.id",
             "metrics.mit.edu",
             "metrics.mms.mavenapps.net",
-            "metrics.monster.com"
-        ],
-        "to_test": [
+            "metrics.monster.com",
             "metrics.ndc.rr.com",
             "metrics.nisn.nasa.gov",
             "metrics.nokia.com",
@@ -6444,7 +6442,9 @@
             "miss6298.cn",
             "missantivirus.com",
             "missboys.ru",
-            "missing-codecs.net",
+            "missing-codecs.net"
+        ],
+        "to_test": [
             "mistikotitatuipologisti.com",
             "mistresslorisdungeon.com",
             "mitexlight.info",
