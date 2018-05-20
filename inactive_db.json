@@ -8201,9 +8201,7 @@
             "oascentral.blogher.org",
             "oascentral.bostonherald.com",
             "oascentral.bostonphoenix.com",
-            "oascentral.btobonline.com"
-        ],
-        "to_test": [
+            "oascentral.btobonline.com",
             "oascentral.capecodlivecam.com",
             "oascentral.cbot.com",
             "oascentral.clearchannel.com",
@@ -8231,6 +8229,7 @@
             "oascentral.metro.us",
             "oascentral.michigannonprofit.com",
             "oascentral.mochasofa.ca",
+            "oascentral.mokasofa.ca",
             "oascentral.motherjones.com",
             "oascentral.motricity.com",
             "oascentral.mtvla.com",
@@ -8336,7 +8335,6 @@
             "obama2welcome.ru",
             "obectloopotads.com",
             "oberpfal.ivwbox.de",
-            "obfuscated.name",
             "obiebe.com",
             "objectsoken.com",
             "obopay.com.102.112.2o7.net",
@@ -8353,7 +8351,6 @@
             "oceaninfo.co.kr",
             "ockonr.com",
             "ocscanner.com",
-            "octacet.com",
             "octane.hitbox.com",
             "octopus-multimedia.be",
             "odds.optimizely.com",
@@ -8404,7 +8401,6 @@
             "oharrowsearch.com",
             "ohbl.in",
             "ohi-ahi.com",
-            "ohtas.biz",
             "ohvideocodec.com",
             "ohyeah213.com",
             "oiewjpos.com",
@@ -8452,7 +8448,9 @@
             "olepornmovies.com",
             "oliftben.com",
             "olikar.ru",
-            "olive.insightfirst.com",
+            "olive.insightfirst.com"
+        ],
+        "to_test": [
             "olivecollect.insightfirst.com",
             "oliver-antcorp.net",
             "oliver-sonsinc.cc",
