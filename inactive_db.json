@@ -5150,12 +5150,11 @@
             "analmovi.com",
             "analplumber.com",
             "analservice.eu",
-            "analslammers.com"
-        ],
-        "to_test": [
+            "analslammers.com",
             "analytics.admob.com",
             "analytics.episodic.com",
             "analytics.ku6.com",
+            "analytics.msnbc.msn.com",
             "analytics.pl.ua",
             "analytics.worldnow.com",
             "analytics2.muffsave9.com",
@@ -5554,6 +5553,7 @@
             "api.demo.cryptokitties.co",
             "api.eth.spacepools.org",
             "api.faceboold.com",
+            "api.fyreball.com",
             "api.gravity.com",
             "api.intense.hashvault.pro",
             "api.inwemo.com",
@@ -5571,7 +5571,9 @@
             "api.widgetbucks.com",
             "api.xmr.spacepools.org",
             "api.zec.spacepools.org",
+            "api2.fyreball.com",
             "api2.moriaxmr.com",
+            "api2.murdoog.com",
             "apice-snn.com",
             "apla-staging.imrworldwide.com",
             "aplusmatting.com",
@@ -5580,7 +5582,9 @@
             "apniscmvoe.ru",
             "apollo.aterra.com",
             "apollo.deltasystem.cl",
-            "app-3Q9DW1GLNM.marketingautomation.services",
+            "app-3Q9DW1GLNM.marketingautomation.services"
+        ],
+        "to_test": [
             "app.btcchina.com",
             "app.cloudprotect.eu",
             "app.lstdesign.com",
