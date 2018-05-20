@@ -4009,9 +4009,7 @@
             "insane-mature.com",
             "insaneasia.com",
             "insanempegs.com",
-            "insecurednetwork.com"
-        ],
-        "to_test": [
+            "insecurednetwork.com",
             "insidebar.co.kr",
             "insidesecondlife.com",
             "insidewindows32.com",
@@ -4057,7 +4055,6 @@
             "installerstats.yahoo.com",
             "installs.ads-technology.net",
             "installs.hotbar.com",
-            "installs.platrium.com",
             "installs.platrium.com.edgesuite.net",
             "installs.spamblockerutility.com",
             "installs.zango.com",
@@ -4137,6 +4134,7 @@
             "internetprivacyprotection.info",
             "internetprivacyweb.info",
             "internetquicksearch.net",
+            "internetresearch.is",
             "internetresearchacademy.com",
             "internetroid.openx.net",
             "internetscanner2009.com",
@@ -4259,7 +4257,6 @@
             "irc.friendhop.net",
             "irc.hq-pornland.com",
             "irc.itexltd.com",
-            "irc.red-latina.org",
             "irc.spywire.net",
             "irc.voila.fr",
             "ircd.oharra.biz",
@@ -4274,7 +4271,9 @@
             "irwin.links.origin.channelintelligence.com",
             "irxxv.com",
             "is-antispy.com",
-            "is-dev.insightfirst.com",
+            "is-dev.insightfirst.com"
+        ],
+        "to_test": [
             "is.insightfirst.com",
             "isacasa.org",
             "isafeantivir.com",
