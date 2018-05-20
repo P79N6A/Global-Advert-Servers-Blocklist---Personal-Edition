@@ -1,10 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Global-Advert-Servers-Blocklist---Personal-Edition/domains.list": {
-        "0": [
-            "ehg-tvtv.hitbox.com"
-        ],
-        "to_test": [
-            "ehg.fedex.com",
+        "1526829940": [
             "eiareality.com.br",
             "eight.flashgear.com",
             "eingang69.de",
@@ -38,6 +34,7 @@
             "elitepartner.ch.102.112.2o7.net",
             "elitepartner.ch.ssl.d1.sc.omtrdc.net",
             "eliteshells.net",
+            "elitesock5.freehostia.com",
             "elitetechsupport.net",
             "eliteteen.net",
             "eliteteensites.com",
@@ -75,6 +72,7 @@
             "emailhacking.org",
             "emailhelplive.com",
             "emailpasswordrecoverynumber.us",
+            "emailsupport.dycineglobal.us",
             "emailtechsupporthelp.com",
             "emailtheplanet.com",
             "emalenoko.ru",
@@ -114,7 +112,6 @@
             "enablesecureum.in",
             "endfunjdaswuinjdeshihus.com",
             "endi.advertserve.com",
-            "endirect.tv",
             "endrizi.com",
             "endsolar.com",
             "endthespyware.com",
@@ -122,6 +119,7 @@
             "energyon.ivwbox.de",
             "energysavecenter.com",
             "enetcap.com",
+            "enetwork.ncbuy.com",
             "enews.ebaumsworld.com",
             "enfs1a-ext.hitbox.com",
             "enfs2-ext.hitbox.com",
@@ -138,7 +136,9 @@
             "engine.bottomdollar.com",
             "engine.mac-firewallsupport.com",
             "engine.medialand.ru",
-            "engine.messagespaceads.com",
+            "engine.messagespaceads.com"
+        ],
+        "to_test": [
             "engineering.websidestory.com",
             "engineporno.com",
             "enhancedie.com",
@@ -35344,7 +35344,9 @@
             "egtond.openx.net",
             "egyptvirysscan.com",
             "ehadnedrlop.com",
-            "ehg-fedex.hitbox.com"
+            "ehg-fedex.hitbox.com",
+            "ehg-tvtv.hitbox.com",
+            "ehg.fedex.com"
         ]
     }
 }
