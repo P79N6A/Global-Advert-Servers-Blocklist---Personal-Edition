@@ -9898,9 +9898,7 @@
             "prerelease.wap.jamster.co.uk",
             "prerelease.wap.jamster.com",
             "prerelease.www.jamster.co.uk",
-            "prerelease.www.jamster.com"
-        ],
-        "to_test": [
+            "prerelease.www.jamster.com",
             "prescriptionfree.biz",
             "presearchforyou.com",
             "prestigeplatinumcard.net",
@@ -10056,6 +10054,7 @@
             "propaid.de",
             "propetia.com",
             "proscriptio.guba.com",
+            "prosearchs.com",
             "prostolab.net",
             "proteccionconfiable.com",
             "protect-win-scanner.com",
@@ -10072,7 +10071,6 @@
             "protectionarea.256bit.at",
             "protectioninstantwinscanner.com",
             "protectionlol.info",
-            "protectionpurchase.com",
             "protectionwarning.com",
             "protectionways.com",
             "protectionwinscan.com",
@@ -10108,7 +10106,6 @@
             "prowarezsite.com",
             "proxfied.net",
             "proxim.links.channelintelligence.com",
-            "proxy.fraudcrew.com",
             "proxy01.eu.nicehash.com",
             "proxy01.usa.nicehash.com",
             "proxy02.eu.nicehash.com",
@@ -10161,7 +10158,9 @@
             "pub1.branchez-vous.com",
             "pub2.branchez-vous.com",
             "pub2.ezboard.com",
-            "pub22.ezboard.com",
+            "pub22.ezboard.com"
+        ],
+        "to_test": [
             "pub3.branchez-vous.com",
             "pub3.ezboard.com",
             "pub4.ezboard.com",
