@@ -15629,11 +15629,8 @@
             "utarget.nl",
             "utautai.sakura.ne.jp",
             "utilitesmovie.com",
-            "utils.winantivirus.com"
-        ],
-        "to_test": [
+            "utils.winantivirus.com",
             "utmtrk.vimeo.com",
-            "utopia-muenchen.de",
             "utorrent-plus.info",
             "uts-api.at.atwola.com",
             "utsouthwestern.edu.102.112.2o7.net",
@@ -15778,10 +15775,11 @@
             "vg.ad.asap-asp.net",
             "vga-lcd.com",
             "vhelpline.net",
-            "vhelpnow.com",
             "vhnlyt.t.muxa.cc",
             "vi-ads-1139.ads.vi.net",
-            "vi-ads-1195.ads.vi.net",
+            "vi-ads-1195.ads.vi.net"
+        ],
+        "to_test": [
             "vi-ads-905.ads.vi.net",
             "via.suprnova.cc",
             "viacodecright1.com",
