@@ -1868,9 +1868,7 @@
             "ads.volksbay.co.uk",
             "ads.vortexmediagroup.com",
             "ads.vpi.net",
-            "ads.wall.if.ua"
-        ],
-        "to_test": [
+            "ads.wall.if.ua",
             "ads.waterbondage.com",
             "ads.wau.nu",
             "ads.waveconcepts.com",
@@ -1912,6 +1910,7 @@
             "ads.wiroos.com",
             "ads.witzcharts.de",
             "ads.wnd.com",
+            "ads.wohnhoehle.de",
             "ads.womma.org",
             "ads.workthing.com",
             "ads.worldcarfans.com",
@@ -2007,6 +2006,7 @@
             "ads2.ah-ha.com",
             "ads2.bpath.com",
             "ads2.callwave.com",
+            "ads2.clickad.com",
             "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.coreroot.com",
@@ -2026,7 +2026,9 @@
             "ads21.hyperbanner.net",
             "ads22.bpath.com",
             "ads22.hyperbanner.net",
-            "ads23.bpath.com",
+            "ads23.bpath.com"
+        ],
+        "to_test": [
             "ads23.hyperbanner.net",
             "ads24.bpath.com",
             "ads24.hyperbanner.net",
