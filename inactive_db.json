@@ -7196,9 +7196,7 @@
             "cmtraining58.247realmedia.com",
             "cmx.tw.yahoo.overture.com",
             "cn.2mdn.net",
-            "cn.companion.yahoo.com"
-        ],
-        "to_test": [
+            "cn.companion.yahoo.com",
             "cn.dogecoin.dog",
             "cn.download.zs.yahoo.com",
             "cn.update.toolbar.yahoo.com",
@@ -7209,6 +7207,7 @@
             "cnet.links.channelintelligence.com",
             "cnet.links.origin.channelintelligence.com",
             "cnewsus.ru",
+            "cnfg.montiera.com",
             "cnnsisports.com",
             "cnnus.ru",
             "cns.3721.com",
@@ -7251,6 +7250,7 @@
             "cognigendedicated.com",
             "coinpirate.cf",
             "coins.arstechnica.com",
+            "coinspool.cu.cc",
             "colibak.com",
             "colinsdialer.com",
             "collection4u.top",
@@ -7265,7 +7265,6 @@
             "collector8.newrelic.com",
             "college-football-video.com",
             "college-football-videos.com",
-            "collegeboysgay.just404.com",
             "collegeeducationacademy.com",
             "collins-group.cc",
             "collins-groupusa.com",
@@ -7328,7 +7327,6 @@
             "coming5.007webs.com",
             "comitt.info",
             "comm1.digits.com",
-            "command.adservs.com",
             "command.weatherbug.com",
             "commerce.cimedia.com",
             "commercetraffic.com",
@@ -7415,7 +7413,9 @@
             "confmasterdump.ru",
             "confsonort.ru",
             "confunderload.ru",
-            "congar.biz",
+            "congar.biz"
+        ],
+        "to_test": [
             "conn.skype.com",
             "connect.accessplugin.com",
             "connect.mac-firewallsupport.com",
