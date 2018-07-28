@@ -1485,9 +1485,7 @@
             "ads.nowoczesny.pl",
             "ads.nsmb.com",
             "ads.nypost.com",
-            "ads.ogk.yahoo.co.jp"
-        ],
-        "to_test": [
+            "ads.ogk.yahoo.co.jp",
             "ads.oml.cl",
             "ads.omni.net.au",
             "ads.oninoelectrical.co.uk",
@@ -1518,7 +1516,6 @@
             "ads.pantyhose-movies.net",
             "ads.paprintworks.com",
             "ads.parse.nl",
-            "ads.partnerid.de",
             "ads.pastemagazine.com",
             "ads.pathfinder.gr",
             "ads.pativer.com",
@@ -1550,6 +1547,7 @@
             "ads.pogodok.com.mk",
             "ads.poker.kherson.ua",
             "ads.polderdijk.com",
+            "ads.popupsponsor.com",
             "ads.popw.com",
             "ads.porn--free.com",
             "ads.porncash.tv",
@@ -1603,6 +1601,7 @@
             "ads.redatanet.com",
             "ads.reed-elsevier.com",
             "ads.reedelsevier.com",
+            "ads.regiedepub.com",
             "ads.reklamenet.dk",
             "ads.reporting.pno.net",
             "ads.resellerratings.com",
@@ -1679,7 +1678,9 @@
             "ads.singleparents.dating-club-site.com",
             "ads.sitash.uz",
             "ads.site-reference.com",
-            "ads.site.kz",
+            "ads.site.kz"
+        ],
+        "to_test": [
             "ads.sixapart.com",
             "ads.ski.com.au",
             "ads.skins.be",
