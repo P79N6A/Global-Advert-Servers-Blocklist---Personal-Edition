@@ -4128,9 +4128,7 @@
             "aolsvc.aol.com",
             "aopad.openx.net",
             "aor64avg.com",
-            "ap.admin.decideinteractive.com"
-        ],
-        "to_test": [
+            "ap.admin.decideinteractive.com",
             "apaineal.ru",
             "apc-batna.net",
             "apelsinxxx.org",
@@ -4173,14 +4171,15 @@
             "api.sumokoin.hashvault.pro",
             "api.webtrends.akadns.net",
             "api.widgetbucks.com",
+            "api.wtpn.twenga.fr",
             "api.xmr.spacepools.org",
             "api.zec.spacepools.org",
             "api2.fyreball.com",
             "api2.moriaxmr.com",
             "api2.murdoog.com",
             "apice-snn.com",
+            "apk-bancodobrasil.com",
             "apla-staging.imrworldwide.com",
-            "aplusmatting.com",
             "aplusworkbenches.com",
             "apmtx.com",
             "apniscmvoe.ru",
@@ -4330,7 +4329,9 @@
             "artspace-sweden.net",
             "artsworld.info",
             "artvan.com.102.112.2o7.net",
-            "arweb.doubleclick.net",
+            "arweb.doubleclick.net"
+        ],
+        "to_test": [
             "arztzeit.ivwbox.de",
             "as-pro-xp-download.com",
             "as.cmpnet.com",
