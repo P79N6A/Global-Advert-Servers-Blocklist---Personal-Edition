@@ -17601,9 +17601,7 @@
             "oahu.digi-net.com",
             "oak1.omniture.com",
             "oak1dpu104.insight.omniture.com",
-            "oak1dpu105.insight.omniture.com"
-        ],
-        "to_test": [
+            "oak1dpu105.insight.omniture.com",
             "oaod.openx.net",
             "oas-c.insightfirst.com",
             "oas-ccollect.insightfirst.com",
@@ -17615,6 +17613,7 @@
             "oas-eu.247realmedia.com",
             "oas-n.insightfirst.com",
             "oas-ncollect.insightfirst.com",
+            "oas.advit.it",
             "oas.adx.nu",
             "oas.autotrader.co.uk",
             "oas.bestrsv.com",
@@ -17635,6 +17634,7 @@
             "oas.signonsandiego.com",
             "oas.tf1.fr",
             "oas.theguardian.com",
+            "oas.tppraha.cz",
             "oas.wwwheise.de",
             "oas.wwwinc.com",
             "oas.yu.ac.kr",
@@ -17830,7 +17830,9 @@
             "oascentral.mundonick.com",
             "oascentral.mydna.com",
             "oascentral.nashvillescene.com",
-            "oascentral.nerve.com",
+            "oascentral.nerve.com"
+        ],
+        "to_test": [
             "oascentral.nowtoronto.com",
             "oascentral.oceannavigator.com",
             "oascentral.ocweekly.com",
