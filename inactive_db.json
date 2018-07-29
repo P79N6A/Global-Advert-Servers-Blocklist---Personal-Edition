@@ -15791,9 +15791,7 @@
             "metrics.mit.edu",
             "metrics.mms.mavenapps.net",
             "metrics.monster.com",
-            "metrics.ndc.rr.com"
-        ],
-        "to_test": [
+            "metrics.ndc.rr.com",
             "metrics.nisn.nasa.gov",
             "metrics.nokia.com",
             "metrics.nwsource.com",
@@ -15806,7 +15804,6 @@
             "metrics.salary.com",
             "metrics.skype.com",
             "metrics.stockhawk.net",
-            "metrics.thefrisky.com",
             "metrics.vorcado.com",
             "metrics.weatherbug.com",
             "metrics.wsvn.com",
@@ -15907,7 +15904,6 @@
             "micro-codec.com",
             "microantivirusxp.com",
             "microbillsys.com",
-            "microfsot.com",
             "microlib.biz",
             "micron.com.102.112.2o7.net",
             "micros-service.com",
@@ -16010,7 +16006,9 @@
             "mirra.links.channelintelligence.com",
             "mirra.links.origin.channelintelligence.com",
             "mirror.pointroll.com",
-            "mirror.realmedia.com",
+            "mirror.realmedia.com"
+        ],
+        "to_test": [
             "mirror.top500.org",
             "mirror2.rummblelabs.com",
             "mirror3.clickgamerdownloads.com",
