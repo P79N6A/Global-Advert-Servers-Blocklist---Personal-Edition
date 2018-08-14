@@ -5455,9 +5455,7 @@
             "vpnmlb1.redsheriff.com",
             "vpos.bnex.com",
             "vps.btgpool.pro",
-            "vpsspeedin.ru"
-        ],
-        "to_test": [
+            "vpsspeedin.ru",
             "vqcentral.com",
             "vqsvr1.ads.ukl.yahoo.com",
             "vr-vip-jp.imrworldwide.com",
@@ -5516,16 +5514,21 @@
             "w2-exodus.realmedia.com",
             "w2.realmedia.com",
             "w3.ime.net",
+            "w3.mediametrie-estat.com",
             "w33o.cn",
             "w34.hitbox.com",
             "w35.hitbox.com",
             "w4.iyi.net",
+            "w4988.nb.host127-0-0-1.com",
+            "w612.nb.host127-0-0-1.com",
             "w7.b.cap-mii.net",
             "w999.hitbox.com",
             "wa0.ru",
             "wabashrangers.com",
             "wabimp.in",
-            "wac.A164.edgecastcdn.net",
+            "wac.A164.edgecastcdn.net"
+        ],
+        "to_test": [
             "wackersworld.com",
             "wads.webteh.com",
             "waigua.tw",
