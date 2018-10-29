@@ -3590,6 +3590,16 @@
             "expiration_date": "27-jun-2027",
             "state": "future"
         },
+        "ad-souk.com": {
+            "epoch": "1565827200",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "ad-space.net": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
         "ad2000.org": {
             "epoch": "1667088000",
             "expiration_date": "30-oct-2022",
@@ -4465,6 +4475,26 @@
             "expiration_date": "04-oct-2019",
             "state": "future"
         },
+        "ads.org": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "ads.pl": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "ads.ro": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "ads.ru": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
         "ads234.com": {
             "epoch": "1566777600",
             "expiration_date": "26-aug-2019",
@@ -4618,6 +4648,71 @@
         "adskape.ru": {
             "epoch": "1564272000",
             "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "adsnic.com": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "adsniffer.com": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "adsoftware.com": {
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "adsoldier.com": {
+            "epoch": "1550275200",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "adsonar.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "adsonwww.com": {
+            "epoch": "1591747200",
+            "expiration_date": "10-jun-2020",
+            "state": "future"
+        },
+        "adsperform.com": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "adspics.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "adspring.com": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "adspsp.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "adsrevenue.com": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "adsrevenue.net": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "adsrvr.com": {
+            "epoch": "1554076800",
+            "expiration_date": "01-apr-2019",
             "state": "future"
         }
     }
