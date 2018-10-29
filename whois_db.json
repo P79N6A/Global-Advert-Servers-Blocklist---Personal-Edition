@@ -15255,6 +15255,16 @@
             "expiration_date": "29-sep-2019",
             "state": "future"
         },
+        "click-safe.com": {
+            "epoch": "1566172800",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "click-to-download.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
         "click168.com": {
             "epoch": "1578268800",
             "expiration_date": "06-jan-2020",
@@ -15628,6 +15638,341 @@
         "clickov.com": {
             "epoch": "1562889600",
             "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "clickporno.com": {
+            "epoch": "1543536000",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "clickpotato.com": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "clickquick.com": {
+            "epoch": "1593561600",
+            "expiration_date": "01-jul-2020",
+            "state": "future"
+        },
+        "clicks.net": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "clicks4u.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "clicksales.com": {
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
+        "clickschool.net": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "clicksearch.com": {
+            "epoch": "1605398400",
+            "expiration_date": "15-nov-2020",
+            "state": "future"
+        },
+        "clicksearchclick.com": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "clicksforever.com": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "clickshare.com": {
+            "epoch": "1632528000",
+            "expiration_date": "25-sep-2021",
+            "state": "future"
+        },
+        "clickshield.net": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "clicksite.com": {
+            "epoch": "1553040000",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "clicksor.com": {
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "clicksor.net": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "clickspring.net": {
+            "epoch": "1570233600",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "clicksupply.com": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "clicktaxi.com": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "clickthrough.com": {
+            "epoch": "1566172800",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "clickthroughtraffic.com": {
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "clickthru.net": {
+            "epoch": "1555113600",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "clickthruhost.com": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "clickthruserver.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "clickthrutraffic.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "clicktilluwin.com": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "clicktopass.com": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "clicktorrent.info": {
+            "epoch": "1548374400",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "clicktotop.com": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "clicktrace.info": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "clicktrackerfast.pro": {
+            "epoch": "1547424000",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "clicktracking.info": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "clicktracks.com": {
+            "epoch": "1543795200",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "clicktrade.com": {
+            "epoch": "1556668800",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "clicktrade.net": {
+            "epoch": "1597017600",
+            "expiration_date": "10-aug-2020",
+            "state": "future"
+        },
+        "clicktru.com": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "clicktv.com": {
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "clickvacations.com": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "clickwith.bid": {
+            "epoch": "1548806400",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "clickwith.date": {
+            "epoch": "1548806400",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "clickxchange.com": {
+            "epoch": "1562976000",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "clickxchange.net": {
+            "epoch": "1601164800",
+            "expiration_date": "27-sep-2020",
+            "state": "future"
+        },
+        "clickyourteen.com": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "clickz.com": {
+            "epoch": "1553212800",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "clickzs.com": {
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "clicmanager.fr": {
+            "epoch": "1564185600",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "clicshop.com": {
+            "epoch": "1614902400",
+            "expiration_date": "05-mar-2021",
+            "state": "future"
+        },
+        "clictrafic.com": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "clicz.com": {
+            "epoch": "1561766400",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "clients-support.com": {
+            "epoch": "1555027200",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "clikand.com": {
+            "epoch": "1566259200",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "climaxmature.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "climbtime.com": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "clinicalsolutions.com": {
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "clinkc.com": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "clip24h.com": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "clipdirectory.com": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "cliphunter.com": {
+            "epoch": "1565049600",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "clipmovie.net": {
+            "epoch": "1562976000",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "clippersmobile.com": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "clips1000.com": {
+            "epoch": "1544227200",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "clipsfestival.com": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "cliptrakker.com": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "clipurl.com": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "clito57.com": {
+            "epoch": "1550880000",
+            "expiration_date": "23-feb-2019",
+            "state": "future"
+        },
+        "clitty.com": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "clixgalore.com": {
+            "epoch": "1553212800",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "cliximages.com": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
             "state": "future"
         },
         "clk4.com": {
