@@ -2650,6 +2650,11 @@
             "expiration_date": "13-aug-2018",
             "state": "past"
         },
+        "a--e.com": {
+            "epoch": "1561766400",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
         "a013.com": {
             "epoch": "1565913600",
             "expiration_date": "16-aug-2019",
@@ -3598,6 +3603,21 @@
         "ad-space.net": {
             "epoch": "1560556800",
             "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "ad-universe.com": {
+            "epoch": "1537488000",
+            "expiration_date": "21-sep-2018",
+            "state": "past"
+        },
+        "ad-up.com": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "ad-x.com": {
+            "epoch": "1561939200",
+            "expiration_date": "01-jul-2019",
             "state": "future"
         },
         "ad2000.org": {
@@ -4793,6 +4813,966 @@
         "adswap.com": {
             "epoch": "1593302400",
             "expiration_date": "28-jun-2020",
+            "state": "future"
+        },
+        "adult-models.org": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "adult-mpg.net": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "adult-profit.com": {
+            "epoch": "1546992000",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "adult-search-engine.net": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "adult-sex-shop.com": {
+            "epoch": "1546300800",
+            "expiration_date": "01-jan-2019",
+            "state": "future"
+        },
+        "adult-toons.org": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "adult-traf.com": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "adult-traffic.biz": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "adult-webmaster-events.com": {
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "adult-women.com": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "adult-xxx-world.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "adultlinks.net": {
+            "epoch": "1546732800",
+            "expiration_date": "06-jan-2019",
+            "state": "future"
+        },
+        "adultlinksco.com": {
+            "epoch": "1571011200",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "adultloveline.com": {
+            "epoch": "1553299200",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "adultlovesearcher.com": {
+            "epoch": "1553385600",
+            "expiration_date": "24-mar-2019",
+            "state": "future"
+        },
+        "adultmastercash.com": {
+            "epoch": "1566086400",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "adultmatchfirm.com": {
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "adultmegacash.com": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "adultmegamall.com": {
+            "epoch": "1563926400",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "adultmegaporn.com": {
+            "epoch": "1545004800",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "adultmoviemax.com": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "adultmovienetwork.com": {
+            "epoch": "1554768000",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "adultmovies4free.com": {
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "adultmoviespost.com": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "adultn.com": {
+            "epoch": "1543795200",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "adultnetsurprise.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "adultoweb.com": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "adultpatrol.com": {
+            "epoch": "1555200000",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "adultpersonalsguide.com": {
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "adultplatinum.com": {
+            "epoch": "1562198400",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "adultplex.com": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "adultpornguide.com": {
+            "epoch": "1561420800",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "adultprovide.com": {
+            "epoch": "1644192000",
+            "expiration_date": "07-feb-2022",
+            "state": "future"
+        },
+        "adultrevenueservice.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "adultsallowed.com": {
+            "epoch": "1542844800",
+            "expiration_date": "22-nov-2018",
+            "state": "future"
+        },
+        "adultsearchplanet.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "adultsexmall.com": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "adultsights.com": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "adultsingles.com": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "adultsitesallowed.com": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "adultsmeeting.com": {
+            "epoch": "1542499200",
+            "expiration_date": "18-nov-2018",
+            "state": "future"
+        },
+        "adultsonlyvids.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "adultstar.com": {
+            "epoch": "1685145600",
+            "expiration_date": "27-may-2023",
+            "state": "future"
+        },
+        "adulttds.com": {
+            "epoch": "1561420800",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "adulttoolkit.com": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "adulttopvids.info": {
+            "epoch": "1547510400",
+            "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "adulttraffic.ru": {
+            "epoch": "1564099200",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "adulttraffictrade.com": {
+            "epoch": "1558915200",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "adultvidsportal.com": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "adultwebfind.com": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "adultwebmasterempire.com": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "adultwebmasterempire.net": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "adultwebmastergold.com": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "adultwebmasterinfo.com": {
+            "epoch": "1566086400",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "adultxxxbiz.com": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "adultxxxcash.com": {
+            "epoch": "1540684800",
+            "expiration_date": "28-oct-2018",
+            "state": "past"
+        },
+        "adv-tecsystems.net": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "advancecashloans.com": {
+            "epoch": "1557360000",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "advancedadapters.com": {
+            "epoch": "1621641600",
+            "expiration_date": "22-may-2021",
+            "state": "future"
+        },
+        "advancedetective.com": {
+            "epoch": "1541462400",
+            "expiration_date": "06-nov-2018",
+            "state": "future"
+        },
+        "advancedhunt.com": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "advancedsearchbar.com": {
+            "epoch": "1632873600",
+            "expiration_date": "29-sep-2021",
+            "state": "future"
+        },
+        "advancedsoftwaresupport.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "advancedwebanalytic.com": {
+            "epoch": "1563494400",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "advancepcguard.com": {
+            "epoch": "1551744000",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "advantagecareers.com": {
+            "epoch": "1570924800",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "advantagesupplements.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "advariant.com": {
+            "epoch": "1564790400",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "adventory.com": {
+            "epoch": "1571702400",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "adventuresinnetmarketing.com": {
+            "epoch": "1563062400",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "adverity.com": {
+            "epoch": "1562544000",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "adverlead.com": {
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "adverline.com": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "adverline.fr": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "adversa.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "adversalservers.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "adverserve.net": {
+            "epoch": "1665532800",
+            "expiration_date": "12-oct-2022",
+            "state": "future"
+        },
+        "advertads.com": {
+            "epoch": "1543881600",
+            "expiration_date": "04-dec-2018",
+            "state": "future"
+        },
+        "advertbar.com": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "adverticum.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "adverticum.net": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "advertiseireland.com": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "advertisementbanners.com": {
+            "epoch": "1564444800",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "advertisementserver.com": {
+            "epoch": "1551830400",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "advertiser.net": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "advertising-money.info": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "advertising.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "advertising.cz": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "advertising.dk": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "advertising.net": {
+            "epoch": "1655769600",
+            "expiration_date": "21-jun-2022",
+            "state": "future"
+        },
+        "advertising.nu": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "advertising.org": {
+            "epoch": "1567555200",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "advertising.se": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "advertising.tv": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "advertising.us": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "advertisingagent.com": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "advertisingbanners.com": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "advertisingbay.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "advertisingbox.com": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "advertisory.com": {
+            "epoch": "1568678400",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "advertmarket.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "advertology.com": {
+            "epoch": "1553472000",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "advertserve.com": {
+            "epoch": "1676073600",
+            "expiration_date": "11-feb-2023",
+            "state": "future"
+        },
+        "advertstream.com": {
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "advertwizard.com": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "advertyz.com": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "adviva.com": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "adviva.net": {
+            "epoch": "1565827200",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "advmaker.ru": {
+            "epoch": "1547424000",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "advnt.com": {
+            "epoch": "1564012800",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "advnt05.com": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "advokat-grodno.com": {
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "advsoftware.org": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "adware-2009.com": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "adware.com": {
+            "epoch": "1674432000",
+            "expiration_date": "23-jan-2023",
+            "state": "future"
+        },
+        "adware.pro": {
+            "epoch": "1570060800",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "adwarealert.com": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "adwareaway.com": {
+            "epoch": "1589673600",
+            "expiration_date": "17-may-2020",
+            "state": "future"
+        },
+        "adwareblaster.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "adwareblocker.com": {
+            "epoch": "1546041600",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "adwarebot.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "adwarecheck.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "adwarechecker.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "adwarecleaner.com": {
+            "epoch": "1541808000",
+            "expiration_date": "10-nov-2018",
+            "state": "future"
+        },
+        "adwarecommander.com": {
+            "epoch": "1542153600",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "adwarecops.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "adwaredelete.com": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "adwaredeluxe.com": {
+            "epoch": "1542153600",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "adwaredestroyer.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "adwaredetector.com": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "adwarefilter.com": {
+            "epoch": "1571961600",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "adwaregold.com": {
+            "epoch": "1542153600",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "adwareguard.com": {
+            "epoch": "1541808000",
+            "expiration_date": "10-nov-2018",
+            "state": "future"
+        },
+        "adwarehitman.com": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "adwarehunter.com": {
+            "epoch": "1544313600",
+            "expiration_date": "09-dec-2018",
+            "state": "future"
+        },
+        "adwarekiller.net": {
+            "epoch": "1564012800",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "adwarekillers.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "adwarenuker.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "adwarepatrol.com": {
+            "epoch": "1549238400",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "adwareplatinum.com": {
+            "epoch": "1542153600",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "adwarepolice.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "adwarepro.com": {
+            "epoch": "1541635200",
+            "expiration_date": "08-nov-2018",
+            "state": "future"
+        },
+        "adwareprofessional.com": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "adwareprotectionsite.com": {
+            "epoch": "1549584000",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "adwareremoval.net": {
+            "epoch": "1553904000",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "adwareremover.com": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "adwareremovergold.com": {
+            "epoch": "1542240000",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "adwares.net": {
+            "epoch": "1550361600",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "adwaresafe.com": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "adwaresafety.com": {
+            "epoch": "1542153600",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "adwarescanner.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "adwareshield.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "adwaresoft.com": {
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "adwaresoftware.com": {
+            "epoch": "1541808000",
+            "expiration_date": "10-nov-2018",
+            "state": "future"
+        },
+        "adwarespy.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "adwarestopper.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "adwaresweeper.com": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "adwareterminator.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "adwarewatch.com": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "adwarexeliminator.com": {
+            "epoch": "1547683200",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "adwarexp.com": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "adwarexterminator.com": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "adwash.com": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "adwave.com": {
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
+        },
+        "adwhirl.com": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "adwisdom.com": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "adwordsformoney.cn": {
+            "epoch": "1566172800",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "adwordsoptimization.com": {
+            "epoch": "1561593600",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "adworldmedia.com": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "adworldnetwork.com": {
+            "epoch": "1547424000",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "adxchange.com": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "adxgate.net": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "adxtn.com": {
+            "epoch": "1559952000",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "adyads.com": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "adyea.com": {
+            "epoch": "1558742400",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "adzerver.com": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "adzone.ro": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "adzones.com": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "aeakemegood24.com": {
+            "epoch": "1542412800",
+            "expiration_date": "17-nov-2018",
+            "state": "future"
+        },
+        "aebn.net": {
+            "epoch": "1550275200",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "aedem.info": {
+            "epoch": "1548720000",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "aegisconsult.com": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "aeiou.com": {
+            "epoch": "1566086400",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "aens.net": {
+            "epoch": "1555113600",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "aenta.com": {
+            "epoch": "1690416000",
+            "expiration_date": "27-jul-2023",
+            "state": "future"
+        },
+        "aerobins.com": {
+            "epoch": "1562630400",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "aerokazachok.ru": {
+            "epoch": "1550102400",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "aerometrics.com": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "aetest.info": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "afakemegood24.com": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "afbtracking09.com": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "afcyhf.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
             "state": "future"
         }
     }
