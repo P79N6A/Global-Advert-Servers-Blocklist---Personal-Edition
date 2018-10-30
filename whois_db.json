@@ -47290,6 +47290,31 @@
             "expiration_date": "26-apr-2019",
             "state": "future"
         },
+        "my-find.com": {
+            "epoch": "1557100800",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "my-finder.com": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "my-free-music.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "my-internet.info": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "my-mortgagerates.com": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
         "my-pretty.com": {
             "epoch": "1548547200",
             "expiration_date": "27-jan-2019",
@@ -47438,6 +47463,496 @@
         "mycomputersearch.com": {
             "epoch": "1586649600",
             "expiration_date": "12-apr-2020",
+            "state": "future"
+        },
+        "mycomscore.com": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "mycomscore.net": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "mycoupons.com": {
+            "epoch": "1613433600",
+            "expiration_date": "16-feb-2021",
+            "state": "future"
+        },
+        "mycpworld.com": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "mycrypto.com": {
+            "epoch": "1808697600",
+            "expiration_date": "26-apr-2027",
+            "state": "future"
+        },
+        "mydas.mobi": {
+            "epoch": "1632096000",
+            "expiration_date": "20-sep-2021",
+            "state": "future"
+        },
+        "mydesignergames.com": {
+            "epoch": "1589155200",
+            "expiration_date": "11-may-2020",
+            "state": "future"
+        },
+        "mydesigngroup.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "mydomain.com": {
+            "epoch": "1596672000",
+            "expiration_date": "06-aug-2020",
+            "state": "future"
+        },
+        "myebiz.com": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "myecardsonline.com": {
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "myecom.net": {
+            "epoch": "1602028800",
+            "expiration_date": "07-oct-2020",
+            "state": "future"
+        },
+        "myeherwalliet.com": {
+            "epoch": "1546041600",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "myehterumsvallet.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "myehterurnsvallet.com": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "myeitherwallet.biz": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myelthearwallet.com": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "myemoticons.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "myeterwalliet.com": {
+            "epoch": "1545004800",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "myethearwallct.com": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "myetherenwallet.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "myetherermwallet.com": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "myethereumbigwallet.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "myethereumnwallet.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "myethereumwallet.express": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myethereurnbigvallet.com": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "myetheriuwallet.com": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myetherumswallet.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "myetherurnvalllet.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "myetherurnwalllet.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "myetheruwallet.com": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myetheruwallet.info": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myetherwailet.com": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "myetherwallct.info": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "myetherwallet.click": {
+            "epoch": "1542153600",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "myetherwallets.net": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "myetherwallit.com": {
+            "epoch": "1545609600",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "myethierwaillet.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "myethierwallet.biz": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myethiterwallet.com": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myethiterwallet.org": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myethuerwallet.info": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myethwalilet.com": {
+            "epoch": "1543363200",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "myetthearwallet.info": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "myexgirlfriendz.com": {
+            "epoch": "1541721600",
+            "expiration_date": "09-nov-2018",
+            "state": "future"
+        },
+        "myeytherwallet.biz": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myeytherwallet.info": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "myfamil.com": {
+            "epoch": "1559520000",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "myfamilyprotection.com": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "myfamilytoolbar.com": {
+            "epoch": "1546300800",
+            "expiration_date": "01-jan-2019",
+            "state": "future"
+        },
+        "myfamly.com": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "myfastinternet.com": {
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "myfastmail.com": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "myfastsearch.com": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "myfavoriteteens.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "myfico.com": {
+            "epoch": "1624752000",
+            "expiration_date": "27-jun-2021",
+            "state": "future"
+        },
+        "myfindonline.com": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "myfoolmoon.com": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "myformfiller.com": {
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
+        "myforumtoolbar.com": {
+            "epoch": "1546300800",
+            "expiration_date": "01-jan-2019",
+            "state": "future"
+        },
+        "myfree.com": {
+            "epoch": "1570233600",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "myfreebies.com": {
+            "epoch": "1542240000",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "myfreebitcoin.com": {
+            "epoch": "1563926400",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "myfreecomputer.net": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "myfreecursors.com": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "myfreedinner.com": {
+            "epoch": "1563840000",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "myfreegamedownloads.com": {
+            "epoch": "1600128000",
+            "expiration_date": "15-sep-2020",
+            "state": "future"
+        },
+        "myfreemp3player.com": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "myfreepaysite.com": {
+            "epoch": "1551657600",
+            "expiration_date": "04-mar-2019",
+            "state": "future"
+        },
+        "myfreepaysite.info": {
+            "epoch": "1540944000",
+            "expiration_date": "31-oct-2018",
+            "state": "future"
+        },
+        "myfuncards.com": {
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
+        },
+        "mygeek.com": {
+            "epoch": "1696982400",
+            "expiration_date": "11-oct-2023",
+            "state": "future"
+        },
+        "mygeek.net": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "mygeeksearch.com": {
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
+        },
+        "myglobalsearch.com": {
+            "epoch": "1571097600",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "mygoldenticket.com": {
+            "epoch": "1567555200",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "myhitbox.com": {
+            "epoch": "1542067200",
+            "expiration_date": "13-nov-2018",
+            "state": "future"
+        },
+        "myhq.com": {
+            "epoch": "1556668800",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "myiee.com": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "myinks.com": {
+            "epoch": "1550880000",
+            "expiration_date": "23-feb-2019",
+            "state": "future"
+        },
+        "myipodcity.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "myipodplanet.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "mykgb.com": {
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "mykings.top": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "mykr.net": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "myleague.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "mylibrarytoolbar.com": {
+            "epoch": "1546300800",
+            "expiration_date": "01-jan-2019",
+            "state": "future"
+        },
+        "mylinksite.com": {
+            "epoch": "1550793600",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
+        "mylottoadserv.com": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "mymacmail.com": {
+            "epoch": "1563408000",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "mymailnotifier.com": {
+            "epoch": "1593388800",
+            "expiration_date": "29-jun-2020",
+            "state": "future"
+        },
+        "mymailsignature.com": {
+            "epoch": "1589500800",
+            "expiration_date": "15-may-2020",
+            "state": "future"
+        },
+        "mymailstamp.com": {
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
+            "state": "future"
+        },
+        "mymailstationary.com": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "mymailstationery.com": {
+            "epoch": "1566259200",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "mymatchmaker.com": {
+            "epoch": "1554422400",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "mymay.com": {
+            "epoch": "1566518400",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "mymoble.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
             "state": "future"
         },
         "mymusicinc.com": {
@@ -47713,6 +48228,11 @@
         "mystat-in.net": {
             "epoch": "1557792000",
             "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "mystat.pl": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
             "state": "future"
         },
         "mystats.com": {
