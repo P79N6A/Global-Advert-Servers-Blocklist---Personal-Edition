@@ -79159,6 +79159,46 @@
             "epoch": "1627257600",
             "expiration_date": "26-jul-2021",
             "state": "future"
+        },
+        "wwwthesharperimage.com": {
+            "epoch": "1605744000",
+            "expiration_date": "19-nov-2020",
+            "state": "future"
+        },
+        "wwwthestreet.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "wwwtravelosity.com": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "wwwtrip.com": {
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "wwwtripod.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "wwwtwa.com": {
+            "epoch": "1534464000",
+            "expiration_date": "17-aug-2018",
+            "state": "past"
+        },
+        "wwwty.com": {
+            "epoch": "1621036800",
+            "expiration_date": "15-may-2021",
+            "state": "future"
+        },
+        "wwwubid.com": {
+            "epoch": "1550102400",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
         }
     }
 }
