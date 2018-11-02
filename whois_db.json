@@ -79079,6 +79079,36 @@
             "epoch": "1615334400",
             "expiration_date": "10-mar-2021",
             "state": "future"
+        },
+        "wwwprincess.com": {
+            "epoch": "1617580800",
+            "expiration_date": "05-apr-2021",
+            "state": "future"
+        },
+        "wwwquicken.com": {
+            "epoch": "1628985600",
+            "expiration_date": "15-aug-2021",
+            "state": "future"
+        },
+        "wwwramada.com": {
+            "epoch": "1628640000",
+            "expiration_date": "11-aug-2021",
+            "state": "future"
+        },
+        "wwwreal.com": {
+            "epoch": "1605830400",
+            "expiration_date": "20-nov-2020",
+            "state": "future"
+        },
+        "wwwrealator.com": {
+            "epoch": "1723334400",
+            "expiration_date": "11-aug-2024",
+            "state": "future"
+        },
+        "wwwrealitor.com": {
+            "epoch": "1570233600",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
         }
     }
 }
