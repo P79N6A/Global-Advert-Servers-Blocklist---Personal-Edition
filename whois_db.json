@@ -81010,6 +81010,11 @@
             "expiration_date": "21-nov-2018",
             "state": "future"
         },
+        "z-quest.com": {
+            "epoch": "1546732800",
+            "expiration_date": "06-jan-2019",
+            "state": "future"
+        },
         "z.cash": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
@@ -81358,6 +81363,176 @@
         "zetabank.info": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "zoo-pictures.org": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "zoosexart.com": {
+            "epoch": "1546732800",
+            "expiration_date": "06-jan-2019",
+            "state": "future"
+        },
+        "zoosexmania.com": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "zoosexparty.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "zooshock.com": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "zootoplist.com": {
+            "epoch": "1563062400",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "zootravel.com": {
+            "epoch": "1683936000",
+            "expiration_date": "13-may-2023",
+            "state": "future"
+        },
+        "zopesite.com": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "zoranjuric.com": {
+            "epoch": "1554249600",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "zorbas.com": {
+            "epoch": "1561939200",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "zorwrite.com": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "zoy.org": {
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
+        },
+        "zpool.ca": {
+            "epoch": "1688342400",
+            "expiration_date": "03-jul-2023",
+            "state": "future"
+        },
+        "zpx520.com": {
+            "epoch": "1563840000",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "zqwe.com": {
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
+        "zr0.net": {
+            "epoch": "1559692800",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "zsw8.cc": {
+            "epoch": "1571702400",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "ztrack.net": {
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
+        "zuhub.com": {
+            "epoch": "1548288000",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "zuverink.net": {
+            "epoch": "1545609600",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "zuvio.com": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "zuzazu.com": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "zuzuki.com": {
+            "epoch": "1620432000",
+            "expiration_date": "08-may-2021",
+            "state": "future"
+        },
+        "zvco6m.com": {
+            "epoch": "1545436800",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "zwinky.com": {
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
+            "state": "future"
+        },
+        "zwinkyblog.com": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "zxad.com": {
+            "epoch": "1545177600",
+            "expiration_date": "19-dec-2018",
+            "state": "future"
+        },
+        "zxad.net": {
+            "epoch": "1545177600",
+            "expiration_date": "19-dec-2018",
+            "state": "future"
+        },
+        "zxlinks.com": {
+            "epoch": "1544486400",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "zyonline.com": {
+            "epoch": "1565395200",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "zyworld.com": {
+            "epoch": "1565395200",
+            "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "zzdnet.com": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "zzztech.com": {
+            "epoch": "1545782400",
+            "expiration_date": "26-dec-2018",
+            "state": "future"
+        },
+        "zzzzzz.com": {
+            "epoch": "1703808000",
+            "expiration_date": "29-dec-2023",
             "state": "future"
         }
     }
