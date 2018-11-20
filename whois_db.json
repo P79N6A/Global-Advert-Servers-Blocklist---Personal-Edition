@@ -4880,6 +4880,11 @@
             "expiration_date": "23-jun-2019",
             "state": "future"
         },
+        "ads.it": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
         "ads.kr": {
             "epoch": "1560988800",
             "expiration_date": "20-jun-2019",
@@ -4898,6 +4903,21 @@
         "ads.lt": {
             "epoch": "1570147200",
             "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "ads.ma": {
+            "epoch": "1546992000",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "ads.me": {
+            "epoch": "1556496000",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "ads.ms": {
+            "epoch": "1550534400",
+            "expiration_date": "19-feb-2019",
             "state": "future"
         },
         "ads.org": {
@@ -5178,6 +5198,31 @@
         "adskape.ru": {
             "epoch": "1564272000",
             "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "adsmart.com": {
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
+            "state": "future"
+        },
+        "adsmart.net": {
+            "epoch": "1561334400",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "adsmart.ru": {
+            "epoch": "1559606400",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "adsmin.net": {
+            "epoch": "1546387200",
+            "expiration_date": "02-jan-2019",
+            "state": "future"
+        },
+        "adsmusic.com": {
+            "epoch": "1557100800",
+            "expiration_date": "06-may-2019",
             "state": "future"
         },
         "adsnic.com": {
