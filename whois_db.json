@@ -2811,8 +2811,8 @@
             "state": "future"
         },
         "a2tv.org": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "a2zlinks.com": {
@@ -2920,14 +2920,19 @@
             "expiration_date": "25-oct-2019",
             "state": "future"
         },
+        "aaasexypics.com": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
         "aaathemes.com": {
             "epoch": "1570233600",
             "expiration_date": "05-oct-2019",
             "state": "future"
         },
         "aabb1122.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "aadcom.com": {
@@ -2993,6 +2998,11 @@
         "abandonedclover.com": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "abandonware.nu": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "abc-search4u.com": {
@@ -3071,9 +3081,9 @@
             "state": "future"
         },
         "abletostop.com": {
-            "epoch": "1540684800",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
         },
         "ablocco.com": {
             "epoch": "1545264000",
@@ -3201,9 +3211,9 @@
             "state": "future"
         },
         "abtrcking.com": {
-            "epoch": "1535932800",
-            "expiration_date": "03-sep-2018",
-            "state": "past"
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "abu-movies.com": {
             "epoch": "1571443200",
@@ -3426,8 +3436,8 @@
             "state": "future"
         },
         "acegates.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "acegroup.net": {
@@ -3443,7 +3453,7 @@
         "acemedic.com": {
             "epoch": "1542672000",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "acestats.com": {
             "epoch": "1548633600",
@@ -3486,13 +3496,13 @@
             "state": "future"
         },
         "achtungachtung.com": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "acidhost.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "acim.com": {
@@ -3546,13 +3556,13 @@
             "state": "future"
         },
         "acrobat-2007.com": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "acrobat-8.com": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "acrobat-center.com": {
@@ -3630,6 +3640,11 @@
             "expiration_date": "08-feb-2019",
             "state": "future"
         },
+        "activexmediasoftware.com": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
         "activexmediasource.com": {
             "epoch": "1571184000",
             "expiration_date": "16-oct-2019",
@@ -3643,6 +3658,11 @@
         "activexupdate.com": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "activexvideotool.com": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "activityschool.com": {
@@ -3681,14 +3701,14 @@
             "state": "future"
         },
         "actuel-sexe.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "aculcoradio.com": {
-            "epoch": "1535500800",
-            "expiration_date": "29-aug-2018",
-            "state": "past"
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
         },
         "acupuncturealliance.org": {
             "epoch": "1611360000",
@@ -3696,8 +3716,8 @@
             "state": "future"
         },
         "acustat.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "acutechno.com": {
