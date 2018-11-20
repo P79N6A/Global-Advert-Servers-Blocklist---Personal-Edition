@@ -11085,6 +11085,36 @@
             "expiration_date": "30-oct-2019",
             "state": "future"
         },
+        "bankads.com": {
+            "epoch": "1555459200",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "banksturbo.com": {
+            "epoch": "1601337600",
+            "expiration_date": "29-sep-2020",
+            "state": "future"
+        },
+        "banmanpro.com": {
+            "epoch": "1567209600",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "bannanarepublic.com": {
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
+        "bannedhost.net": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "bannedstuff.com": {
+            "epoch": "1548288000",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
         "banner-farm.com": {
             "epoch": "1566345600",
             "expiration_date": "21-aug-2019",
@@ -11105,6 +11135,11 @@
             "expiration_date": "02-jun-2023",
             "state": "future"
         },
+        "banner.cz": {
+            "epoch": "1571529600",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
         "banner.dk": {
             "epoch": "1553990400",
             "expiration_date": "31-mar-2019",
@@ -11113,6 +11148,11 @@
         "banner.net": {
             "epoch": "1565740800",
             "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "banner2u.com": {
+            "epoch": "1557619200",
+            "expiration_date": "12-may-2019",
             "state": "future"
         },
         "bannerbank.com": {
@@ -11178,6 +11218,11 @@
         "bannerexchange.com": {
             "epoch": "1546473600",
             "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "bannerexchange2.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "bannerforge.com": {
