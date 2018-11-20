@@ -4815,6 +4815,11 @@
             "expiration_date": "21-oct-2019",
             "state": "future"
         },
+        "ads.am": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
         "ads.cl": {
             "epoch": "1580774400",
             "expiration_date": "04-feb-2020",
@@ -4978,6 +4983,11 @@
         "ads4me.com": {
             "epoch": "1572048000",
             "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "ads4texas.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "ads520.com": {
