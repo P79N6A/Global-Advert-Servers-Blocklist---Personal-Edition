@@ -1631,8 +1631,8 @@
             "state": "future"
         },
         "4-job.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "4-v.net": {
@@ -1900,6 +1900,11 @@
             "expiration_date": "03-jul-2019",
             "state": "future"
         },
+        "54417.cn": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
         "550access.com": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
@@ -1933,6 +1938,11 @@
         "55880.cn": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "56c.us": {
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "570klif.com": {
