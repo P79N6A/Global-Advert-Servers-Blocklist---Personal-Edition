@@ -2800,6 +2800,11 @@
             "expiration_date": "29-jun-2019",
             "state": "future"
         },
+        "a-hosting-guide.com": {
+            "epoch": "1557360000",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
         "a-o.ninja": {
             "epoch": "1561248000",
             "expiration_date": "23-jun-2019",
@@ -6786,8 +6791,8 @@
             "state": "future"
         },
         "aeakemegood24.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "aebn.net": {
@@ -6853,6 +6858,366 @@
         "afcyhf.com": {
             "epoch": "1554508800",
             "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "affili.net": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "affili24.com": {
+            "epoch": "1542931200",
+            "expiration_date": "23-nov-2018",
+            "state": "future"
+        },
+        "affili24.net": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "affiliatebrand.com": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "affiliateclick.com": {
+            "epoch": "1547510400",
+            "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "affiliatecube.com": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "affiliatedave.com": {
+            "epoch": "1565913600",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "affiliatefind.com": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "affiliatefuel.com": {
+            "epoch": "1613347200",
+            "expiration_date": "15-feb-2021",
+            "state": "future"
+        },
+        "affiliatefuture.com": {
+            "epoch": "1595203200",
+            "expiration_date": "20-jul-2020",
+            "state": "future"
+        },
+        "affiliatekeeper.com": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "affiliatematch.com": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "affiliatemoneytree.com": {
+            "epoch": "1545177600",
+            "expiration_date": "19-dec-2018",
+            "state": "future"
+        },
+        "affiliatequality.com": {
+            "epoch": "1560124800",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "affiliates.net": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "affiliates.org": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "affiliateshop.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "affiliatesuccess.net": {
+            "epoch": "1547596800",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "affiliatetalk.net": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "affiliatetracking.com": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "affiliatetracking.net": {
+            "epoch": "1554768000",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "affiliatewindow.com": {
+            "epoch": "1557100800",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "affiliationcash.com": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "affina.com": {
+            "epoch": "1610150400",
+            "expiration_date": "09-jan-2021",
+            "state": "future"
+        },
+        "affinia.com": {
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
+            "state": "future"
+        },
+        "affistats.com": {
+            "epoch": "1564185600",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "afind.com": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "afminer.com": {
+            "epoch": "1537401600",
+            "expiration_date": "20-sep-2018",
+            "state": "past"
+        },
+        "afraid.org": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "afreehome.com": {
+            "epoch": "1567209600",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "africaboys.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "africancowboys.com": {
+            "epoch": "1569369600",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "africandevelopmentbank.com": {
+            "epoch": "1556409600",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "africanpalacecasino.com": {
+            "epoch": "1603670400",
+            "expiration_date": "26-oct-2020",
+            "state": "future"
+        },
+        "africanroots.biz": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "africaplc.com": {
+            "epoch": "1620518400",
+            "expiration_date": "09-may-2021",
+            "state": "future"
+        },
+        "afrosluts.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "afterlifetelegrams.com": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "aftonbladet.se": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "aftrk.com": {
+            "epoch": "1615420800",
+            "expiration_date": "11-mar-2021",
+            "state": "future"
+        },
+        "afy11.net": {
+            "epoch": "1620172800",
+            "expiration_date": "05-may-2021",
+            "state": "future"
+        },
+        "agame.ca": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "agava.com": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "agava.ru": {
+            "epoch": "1554076800",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "agedwhores.com": {
+            "epoch": "1561593600",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "agelis.ru": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "agentstudio.com": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "agenturadomov.cz": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "agility-ml.com": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "aginfort.com": {
+            "epoch": "1614038400",
+            "expiration_date": "23-feb-2021",
+            "state": "future"
+        },
+        "aginvestments.in": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "agitato.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "agloco.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "agooddaytoday.com": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "agoogle.com": {
+            "epoch": "1681689600",
+            "expiration_date": "17-apr-2023",
+            "state": "future"
+        },
+        "agosar.com": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "agreeableprice.com": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "agri.net": {
+            "epoch": "1556409600",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "agriculturetoday.in": {
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "agriexpo.in": {
+            "epoch": "1558915200",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "agta.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "ah-ha.com": {
+            "epoch": "1570060800",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "ahamembership.com": {
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "ahardcorebabe.com": {
+            "epoch": "1570233600",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "ahashpool.com": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "aheadday.com": {
+            "epoch": "1554249600",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "aheol.com": {
+            "epoch": "1564099200",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "ahhhah.com": {
+            "epoch": "1598486400",
+            "expiration_date": "27-aug-2020",
+            "state": "future"
+        },
+        "ahomefinder.com": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "ahotmail.com": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "ahyea.com": {
+            "epoch": "1548720000",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "ahz1000.cn": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
             "state": "future"
         },
         "ai.com": {
@@ -7081,9 +7446,9 @@
             "state": "future"
         },
         "ajplugins.com": {
-            "epoch": "1540684800",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
         },
         "ak-networks.com": {
             "epoch": "1609286400",
