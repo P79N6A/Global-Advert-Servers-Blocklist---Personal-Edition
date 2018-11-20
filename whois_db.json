@@ -14196,9 +14196,9 @@
             "state": "future"
         },
         "boom.ro": {
-            "epoch": "1533686400",
-            "expiration_date": "08-aug-2018",
-            "state": "past"
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "boombots.com": {
             "epoch": "1543795200",
@@ -14236,9 +14236,9 @@
             "state": "future"
         },
         "bootiegirl.com": {
-            "epoch": "1535328000",
-            "expiration_date": "27-aug-2018",
-            "state": "past"
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "bootservice.com": {
             "epoch": "1553040000",
@@ -14306,13 +14306,13 @@
             "state": "future"
         },
         "boston-bachelor-party.com": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "boston-stripper.com": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "boston-strippers.com": {
@@ -14358,6 +14358,11 @@
         "botmaster.ru": {
             "epoch": "1554854400",
             "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "botsystems.net": {
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "bottomdollar.com": {
@@ -14450,6 +14455,11 @@
             "expiration_date": "04-oct-2019",
             "state": "future"
         },
+        "bqgate.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
         "braincash.com": {
             "epoch": "1557619200",
             "expiration_date": "12-may-2019",
@@ -14483,6 +14493,351 @@
         "brandera.com": {
             "epoch": "1572220800",
             "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "brandibelle.com": {
+            "epoch": "1668384000",
+            "expiration_date": "14-nov-2022",
+            "state": "future"
+        },
+        "brandiyoung.com": {
+            "epoch": "1543363200",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "brandmarketresearch.com": {
+            "epoch": "1543708800",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "brandnewdns.com": {
+            "epoch": "1567987200",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "brandreachsys.com": {
+            "epoch": "1633132800",
+            "expiration_date": "02-oct-2021",
+            "state": "future"
+        },
+        "brandycasino.com": {
+            "epoch": "1609459200",
+            "expiration_date": "01-jan-2021",
+            "state": "future"
+        },
+        "brandyonline.com": {
+            "epoch": "1568332800",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "brandysbubble.com": {
+            "epoch": "1544140800",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "braodcast.com": {
+            "epoch": "1549670400",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "brasilnet.net": {
+            "epoch": "1548892800",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "brassrule.com": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "bratschool.com": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "bravegirls.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "bravenet.com": {
+            "epoch": "1551225600",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "bravenetmedianetwork.com": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "bravepages.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "bravo-mining.com": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "bravonestor.com": {
+            "epoch": "1549238400",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "bravovids.com": {
+            "epoch": "1571702400",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "brbg.ru": {
+            "epoch": "1551139200",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "breadapp.com": {
+            "epoch": "1728086400",
+            "expiration_date": "05-oct-2024",
+            "state": "future"
+        },
+        "breakteen.com": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "breakthru.com": {
+            "epoch": "1620518400",
+            "expiration_date": "09-may-2021",
+            "state": "future"
+        },
+        "breatheeasy.org": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "breezybath.com": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "brevardmusic.com": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "bridalaccents.com": {
+            "epoch": "1558742400",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "bride.ru": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "bridesagency.com": {
+            "epoch": "1545782400",
+            "expiration_date": "26-dec-2018",
+            "state": "future"
+        },
+        "bridesservice.com": {
+            "epoch": "1545782400",
+            "expiration_date": "26-dec-2018",
+            "state": "future"
+        },
+        "bridgetrack.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "briggsstraton.com": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "brightbreeze.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "brightondm.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "brightonsales.com": {
+            "epoch": "1564099200",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "brilliantdigital.com": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "brilliantteens.com": {
+            "epoch": "1543190400",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "brinkster.com": {
+            "epoch": "1594512000",
+            "expiration_date": "12-jul-2020",
+            "state": "future"
+        },
+        "brisas.com": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "british-banners.com": {
+            "epoch": "1597536000",
+            "expiration_date": "16-aug-2020",
+            "state": "future"
+        },
+        "britnyspears.com": {
+            "epoch": "1536192000",
+            "expiration_date": "06-sep-2018",
+            "state": "past"
+        },
+        "broadbandlove.com": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "broadbandreport.com": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "broadboundary.com": {
+            "epoch": "1584748800",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "broadcastbed.com": {
+            "epoch": "1548115200",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "broaddoor.com": {
+            "epoch": "1564790400",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "broadjump.com": {
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
+            "state": "future"
+        },
+        "broadspring.com": {
+            "epoch": "1646179200",
+            "expiration_date": "02-mar-2022",
+            "state": "future"
+        },
+        "broadwords.com": {
+            "epoch": "1563235200",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "brodia.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "brokeneye.com": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "brokenurls.com": {
+            "epoch": "1549584000",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "brominer.com": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "bronsy.com": {
+            "epoch": "1549670400",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "brookebanks.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "brookeburn.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "brooksdunn.com": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "brothersoft.com": {
+            "epoch": "1594512000",
+            "expiration_date": "12-jul-2020",
+            "state": "future"
+        },
+        "brownbucks.com": {
+            "epoch": "1567209600",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "browndrives.com": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "browsehosts.com": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "browseraccelerator.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "browseraid.com": {
+            "epoch": "1543881600",
+            "expiration_date": "04-dec-2018",
+            "state": "future"
+        },
+        "browserdl.com": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "browsermine.com": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "browserplugin.com": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "browsertoolbar.com": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "browservillage.com": {
+            "epoch": "1548720000",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "browsezilla.org": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
             "state": "future"
         },
         "bruinalumni.com": {
@@ -14521,13 +14876,13 @@
             "state": "future"
         },
         "bruunsbazar.dk": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "bsearch.biz": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "bsmikedpage.com": {
@@ -14636,8 +14991,8 @@
             "state": "future"
         },
         "budubabu.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "buebook.com": {
@@ -14653,6 +15008,11 @@
         "buffingtonlaw.com": {
             "epoch": "1617148800",
             "expiration_date": "31-mar-2021",
+            "state": "future"
+        },
+        "bufur.cz": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
             "state": "future"
         },
         "bugdoctor.com": {
@@ -14711,8 +15071,8 @@
             "state": "future"
         },
         "buldog-stats.com": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "bulenkov.com": {
@@ -14838,6 +15198,11 @@
         "burningsite.com": {
             "epoch": "1570060800",
             "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "burnsrecyclinginc.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "burst.net": {
