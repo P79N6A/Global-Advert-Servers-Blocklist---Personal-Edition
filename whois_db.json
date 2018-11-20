@@ -16988,7 +16988,7 @@
         "cebus.com": {
             "epoch": "1542672000",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cec-il.org": {
             "epoch": "1549929600",
@@ -17066,8 +17066,8 @@
             "state": "future"
         },
         "celebstape.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "celebwelove.com": {
@@ -17175,6 +17175,41 @@
             "expiration_date": "06-jul-2019",
             "state": "future"
         },
+        "cerestech.com": {
+            "epoch": "1602806400",
+            "expiration_date": "16-oct-2020",
+            "state": "future"
+        },
+        "cerials.net": {
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
+        "cerinc.org": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "cernvir.cz": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "certemail.com": {
+            "epoch": "1623369600",
+            "expiration_date": "11-jun-2021",
+            "state": "future"
+        },
+        "certified-email.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "certinvest.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
         "ceskarepublika.net": {
             "epoch": "1562457600",
             "expiration_date": "07-jul-2019",
@@ -17203,6 +17238,16 @@
         "cfaw.us": {
             "epoch": "1564617600",
             "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
+        "cfcdist.gdn": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "cfcnet.gdn": {
+            "epoch": "1548288000",
+            "expiration_date": "24-jan-2019",
             "state": "future"
         },
         "cfeaccounting.com": {
