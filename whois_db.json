@@ -19776,8 +19776,8 @@
             "state": "future"
         },
         "cockformen.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "coco-ifc.net": {
@@ -19798,6 +19798,11 @@
         "codebreakers.com": {
             "epoch": "1559779200",
             "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "codec-fun.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "codechost.com": {
@@ -19821,8 +19826,8 @@
             "state": "future"
         },
         "codialer.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "codwellbanker.com": {
@@ -19836,8 +19841,8 @@
             "state": "future"
         },
         "coeds-reality.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "coffeecup.com": {
@@ -19871,8 +19876,8 @@
             "state": "future"
         },
         "coin-service.com": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "coinbase.com": {
@@ -19961,8 +19966,8 @@
             "state": "future"
         },
         "coinhiveproxy.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "coinhiver.com": {
@@ -19981,8 +19986,8 @@
             "state": "future"
         },
         "coinimp.com": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "coinive.com": {
@@ -19998,6 +20003,11 @@
         "coinlab.biz": {
             "epoch": "1570060800",
             "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "coinmine.pl": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
             "state": "future"
         },
         "coinnebula.com": {
@@ -20191,9 +20201,9 @@
             "state": "future"
         },
         "comairairlines.com": {
-            "epoch": "1535587200",
-            "expiration_date": "30-aug-2018",
-            "state": "past"
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "comantra.net": {
             "epoch": "1566950400",
@@ -20216,8 +20226,8 @@
             "state": "future"
         },
         "comdestino.com": {
-            "epoch": "1542499200",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574035200",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "comedycenteral.com": {
@@ -20391,8 +20401,8 @@
             "state": "future"
         },
         "compareyourclicks.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "compassestate.com": {
@@ -20676,9 +20686,9 @@
             "state": "future"
         },
         "consumercreditusa.com": {
-            "epoch": "1534982400",
-            "expiration_date": "23-aug-2018",
-            "state": "past"
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "consumeridentity.com": {
             "epoch": "1560902400",
@@ -20711,8 +20721,8 @@
             "state": "future"
         },
         "contactreel.com": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "contenidospc.com": {
@@ -20751,8 +20761,8 @@
             "state": "future"
         },
         "contextpanel.com": {
-            "epoch": "1542499200",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574035200",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "contextplus.net": {
@@ -20811,8 +20821,13 @@
             "state": "past"
         },
         "contracklift.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
+        "controlmeh.com": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "controlp.com": {
