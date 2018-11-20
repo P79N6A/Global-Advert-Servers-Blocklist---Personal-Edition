@@ -106,8 +106,8 @@
             "state": "future"
         },
         "056789.cn": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "05916.com": {
@@ -196,13 +196,18 @@
             "state": "future"
         },
         "0ptonline.net": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "0scan.com": {
             "epoch": "1568505600",
             "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "0texkax7c6hzuidk.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "0xs.com": {
@@ -326,8 +331,8 @@
             "state": "future"
         },
         "101lottery.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "101malls.com": {
@@ -481,9 +486,9 @@
             "state": "future"
         },
         "123found.com": {
-            "epoch": "1534550400",
-            "expiration_date": "18-aug-2018",
-            "state": "past"
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "123go.com": {
             "epoch": "1570665600",
@@ -670,6 +675,11 @@
             "expiration_date": "16-apr-2019",
             "state": "future"
         },
+        "17-plus.com": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
         "17173.com": {
             "epoch": "1616976000",
             "expiration_date": "29-mar-2021",
@@ -696,8 +706,8 @@
             "state": "future"
         },
         "177bt.com": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "17bs.com": {
@@ -713,6 +723,56 @@
         "17ge.cn": {
             "epoch": "1551744000",
             "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "17money.com": {
+            "epoch": "1566086400",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "17tahun.com": {
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
+        "17webplace.com": {
+            "epoch": "1601510400",
+            "expiration_date": "01-oct-2020",
+            "state": "future"
+        },
+        "1800djsareus.com": {
+            "epoch": "1554768000",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "1800freehits.com": {
+            "epoch": "1561766400",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "180searchassistant.com": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "180solutions.com": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "180solutions.net": {
+            "epoch": "1553212800",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "186188.com": {
+            "epoch": "1563840000",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "188tan.cn": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
             "state": "future"
         },
         "1cash.net": {
