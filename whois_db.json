@@ -46491,8 +46491,8 @@
             "state": "future"
         },
         "k-litepro.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "k-litetk.com": {
@@ -46760,9 +46760,49 @@
             "expiration_date": "31-jan-2019",
             "state": "future"
         },
+        "ke-tai.net": {
+            "epoch": "1551830400",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "kerristrug.com": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "kettydreams.com": {
+            "epoch": "1545177600",
+            "expiration_date": "19-dec-2018",
+            "state": "future"
+        },
+        "kevinlewisdesign.com": {
+            "epoch": "1631664000",
+            "expiration_date": "15-sep-2021",
+            "state": "future"
+        },
+        "kexx.org": {
+            "epoch": "1542931200",
+            "expiration_date": "23-nov-2018",
+            "state": "future"
+        },
+        "keyboardandmouse.com": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "keyboardcash.com": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
         "keygen.us": {
             "epoch": "1597795200",
             "expiration_date": "19-aug-2020",
+            "state": "future"
+        },
+        "keygendb.com": {
+            "epoch": "1590796800",
+            "expiration_date": "30-may-2020",
             "state": "future"
         },
         "keylaw.com": {
@@ -47201,14 +47241,14 @@
             "state": "future"
         },
         "kkexe.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "kkkse.com": {
-            "epoch": "1534464000",
-            "expiration_date": "17-aug-2018",
-            "state": "past"
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "klasgrup.net": {
             "epoch": "1560470400",
@@ -47326,9 +47366,9 @@
             "state": "future"
         },
         "klounada.net": {
-            "epoch": "1534896000",
-            "expiration_date": "22-aug-2018",
-            "state": "past"
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
         },
         "klsoft.com": {
             "epoch": "1546905600",
@@ -47346,8 +47386,8 @@
             "state": "future"
         },
         "km153.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "kmartstores.com": {
@@ -47716,8 +47756,8 @@
             "state": "future"
         },
         "kscengineers.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "ksenia.com": {
@@ -47761,18 +47801,263 @@
             "state": "future"
         },
         "kukutrustnet888.info": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "kukutrustnet987.info": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "kupalnik.net": {
+            "epoch": "1559779200",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "kuranty.net": {
+            "epoch": "1550275200",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "kutsap.com": {
+            "epoch": "1558051200",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "kuub.com": {
+            "epoch": "1548115200",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "kvadrika.com": {
+            "epoch": "1542844800",
+            "expiration_date": "22-nov-2018",
+            "state": "future"
+        },
+        "kvickley.dk": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "kwik-search.com": {
+            "epoch": "1589932800",
+            "expiration_date": "20-may-2020",
+            "state": "future"
+        },
+        "kx5.net": {
+            "epoch": "1556668800",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "kyliessecret.com": {
+            "epoch": "1633996800",
+            "expiration_date": "12-oct-2021",
+            "state": "future"
+        },
+        "kylotto.com": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "kypu.net": {
+            "epoch": "1568764800",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "kzdh.com": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "l-ai.cn": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
             "state": "future"
         },
         "l-virgin.com": {
             "epoch": "1560038400",
             "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "l19f.com": {
+            "epoch": "1543968000",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "l33tsite.info": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "l90.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "la2onix.ru": {
+            "epoch": "1543190400",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "la34.info": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "lab.com": {
+            "epoch": "1754784000",
+            "expiration_date": "10-aug-2025",
+            "state": "future"
+        },
+        "labcash.com": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "labelfreak.com": {
+            "epoch": "1564012800",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "labelhopi.com": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "labels-systems.com": {
+            "epoch": "1637884800",
+            "expiration_date": "26-nov-2021",
+            "state": "future"
+        },
+        "lacodeworks.com": {
+            "epoch": "1600041600",
+            "expiration_date": "14-sep-2020",
+            "state": "future"
+        },
+        "lacyhart.com": {
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "ladadc.com": {
+            "epoch": "1567987200",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "ladiestricks.com": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "ladynow.com": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "ladypee.net": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "laexotic.com": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "lafabbricadelleidee.net": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "laffnet.com": {
+            "epoch": "1547510400",
+            "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "lafirpo.com": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "lagrangedailynews.com": {
+            "epoch": "1615939200",
+            "expiration_date": "17-mar-2021",
+            "state": "future"
+        },
+        "lah3.com": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "laic.com": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "lailatalqadr.com": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "lakebaikal.info": {
+            "epoch": "1556409600",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "lakeforestgolfclub.com": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "lakelanierisland.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "lakequincy.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "lamanweb.com": {
+            "epoch": "1649030400",
+            "expiration_date": "04-apr-2022",
+            "state": "future"
+        },
+        "lamboo.net": {
+            "epoch": "1569369600",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "lamorecosmetics.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "lamsa1.com": {
+            "epoch": "1563408000",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "lanasbigboobs.com": {
+            "epoch": "1566345600",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "land-xxx.com": {
+            "epoch": "1591660800",
+            "expiration_date": "09-jun-2020",
+            "state": "future"
+        },
+        "landslide.com": {
+            "epoch": "1598140800",
+            "expiration_date": "23-aug-2020",
+            "state": "future"
+        },
+        "lang34.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
             "state": "future"
         },
         "lanpower.se": {
