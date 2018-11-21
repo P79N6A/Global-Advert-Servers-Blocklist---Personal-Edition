@@ -70536,8 +70536,8 @@
             "state": "future"
         },
         "romancasino.com": {
-            "epoch": "1542326400",
-            "expiration_date": "16-nov-2018",
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
             "state": "future"
         },
         "romeomustdie.com": {
@@ -70845,9 +70845,14 @@
             "expiration_date": "28-mar-2019",
             "state": "future"
         },
+        "ru-traffic.com": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
         "ru4.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "ru44.com": {
@@ -70861,8 +70866,8 @@
             "state": "future"
         },
         "rubli.biz": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "ruboskizo.com": {
@@ -70973,6 +70978,156 @@
         "ruserv.com": {
             "epoch": "1575417600",
             "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "rushpost.com": {
+            "epoch": "1560902400",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "ruspatch.info": {
+            "epoch": "1548892800",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "russiaadoption.com": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "russianamerica.com": {
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "russiankiss.com": {
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
+        },
+        "russianschoolgirls.net": {
+            "epoch": "1563840000",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "russiansubmitter.com": {
+            "epoch": "1574035200",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
+        "russianwoodshed.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "rusteensex.com": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "rustelekom.biz": {
+            "epoch": "1569369600",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "rutop.biz": {
+            "epoch": "1541116800",
+            "expiration_date": "02-nov-2018",
+            "state": "past"
+        },
+        "ruworld.com": {
+            "epoch": "1555286400",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "rw.com": {
+            "epoch": "1600041600",
+            "expiration_date": "14-sep-2020",
+            "state": "future"
+        },
+        "rwarez.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "rwj.org": {
+            "epoch": "1548374400",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "rwsa.com": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "rx444.com": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "rxserver.com": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "ryanaer.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "ryanairlines.com": {
+            "epoch": "1685491200",
+            "expiration_date": "31-may-2023",
+            "state": "future"
+        },
+        "ryanir.com": {
+            "epoch": "1695254400",
+            "expiration_date": "21-sep-2023",
+            "state": "future"
+        },
+        "ryannair.com": {
+            "epoch": "1682294400",
+            "expiration_date": "24-apr-2023",
+            "state": "future"
+        },
+        "ryansbeachhouse.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "ryanspeers.com": {
+            "epoch": "1553040000",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "ryenair.com": {
+            "epoch": "1696982400",
+            "expiration_date": "11-oct-2023",
+            "state": "future"
+        },
+        "ryerose.net": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "rynair.com": {
+            "epoch": "1687478400",
+            "expiration_date": "23-jun-2023",
+            "state": "future"
+        },
+        "ryonair.com": {
+            "epoch": "1694822400",
+            "expiration_date": "16-sep-2023",
+            "state": "future"
+        },
+        "rzcool.com": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "rzms.net": {
+            "epoch": "1672876800",
+            "expiration_date": "05-jan-2023",
             "state": "future"
         },
         "s-affiliate.com": {
