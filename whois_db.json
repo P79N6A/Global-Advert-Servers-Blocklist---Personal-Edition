@@ -95151,8 +95151,8 @@
             "state": "future"
         },
         "wxdownloadmanager.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "wxpay.com": {
@@ -95168,6 +95168,46 @@
         "wz101.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "wzdq.cn": {
+            "epoch": "1556409600",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "x-click.net": {
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "x-diesel.biz": {
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "x-diesel.com": {
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
+        "x-diesel.info": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "x-diesel.net": {
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
+        "x-diesel.org": {
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
+        "x-gold.ru": {
+            "epoch": "1570406400",
+            "expiration_date": "07-oct-2019",
             "state": "future"
         },
         "x-park.net": {
@@ -95233,6 +95273,256 @@
         "x-y.net": {
             "epoch": "1617926400",
             "expiration_date": "09-apr-2021",
+            "state": "future"
+        },
+        "x07.org": {
+            "epoch": "1558656000",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "x1.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "x10-beta.com": {
+            "epoch": "1539043200",
+            "expiration_date": "09-oct-2018",
+            "state": "past"
+        },
+        "x10.com": {
+            "epoch": "1658534400",
+            "expiration_date": "23-jul-2022",
+            "state": "future"
+        },
+        "x10.net": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "x10hosting.com": {
+            "epoch": "1584748800",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "x4team.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "x5x.ru": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "x6x6.info": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "x83.ru": {
+            "epoch": "1566345600",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "xaker.cn": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "xalax.com": {
+            "epoch": "1566086400",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "xanga.com": {
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
+        },
+        "xaoyo.com": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "xat.com": {
+            "epoch": "1600473600",
+            "expiration_date": "19-sep-2020",
+            "state": "future"
+        },
+        "xaxis.com": {
+            "epoch": "1553299200",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "xaxis.us": {
+            "epoch": "1548288000",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "xazxy.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "xb.com": {
+            "epoch": "1590451200",
+            "expiration_date": "26-may-2020",
+            "state": "future"
+        },
+        "xbasfbno.info": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "xbloom.com": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
+        "xbmc.com": {
+            "epoch": "1581724800",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "xbr.ru": {
+            "epoch": "1554076800",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "xbstw.com": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "xbuzzer.com": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "xchange.com": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "xchargebacks.com": {
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "xclicks.net": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "xcnn.com": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "xcounter.com": {
+            "epoch": "1556668800",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "xcounters.com": {
+            "epoch": "1549584000",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "xcx.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "xdiablox.com": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "xdosug.net": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "xe.net": {
+            "epoch": "1553385600",
+            "expiration_date": "24-mar-2019",
+            "state": "future"
+        },
+        "xearl.com": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "xebay.com": {
+            "epoch": "1623888000",
+            "expiration_date": "17-jun-2021",
+            "state": "future"
+        },
+        "xeboo.com": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "xeec.com": {
+            "epoch": "1686096000",
+            "expiration_date": "07-jun-2023",
+            "state": "future"
+        },
+        "xep.ru": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "xepace.cn": {
+            "epoch": "1567900800",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "xes.ru": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "xeti.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "xexe.info": {
+            "epoch": "1551225600",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "xflashgames.com": {
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "xgate.info": {
+            "epoch": "1559952000",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "xgguy.com": {
+            "epoch": "1558224000",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "xgmc6lu8fs.me": {
+            "epoch": "1545350400",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "xgmm.com": {
+            "epoch": "1551830400",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "xh0088.cn": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
             "state": "future"
         },
         "xhosted.com": {
@@ -95351,8 +95641,8 @@
             "state": "future"
         },
         "xlsearch.net": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "xmailer.ru": {
