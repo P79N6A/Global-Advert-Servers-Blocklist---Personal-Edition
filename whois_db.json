@@ -94380,6 +94380,11 @@
             "expiration_date": "10-jul-2019",
             "state": "future"
         },
+        "www.gl": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
         "www.is": {
             "epoch": "1574899200",
             "expiration_date": "28-nov-2019",
@@ -94711,9 +94716,9 @@
             "state": "future"
         },
         "wwwgamepro.com": {
-            "epoch": "1534291200",
-            "expiration_date": "15-aug-2018",
-            "state": "past"
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "wwwgameshark.com": {
             "epoch": "1555113600",
@@ -94733,6 +94738,26 @@
         "wwwgeico.com": {
             "epoch": "1564272000",
             "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "wwwgm.com": {
+            "epoch": "1625529600",
+            "expiration_date": "06-jul-2021",
+            "state": "future"
+        },
+        "wwwgmacmortgage.com": {
+            "epoch": "1571097600",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "wwwgoggle.com": {
+            "epoch": "1600905600",
+            "expiration_date": "24-sep-2020",
+            "state": "future"
+        },
+        "wwwgolfsmith.com": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
             "state": "future"
         },
         "wwwgoogles.com": {
