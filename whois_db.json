@@ -91728,7 +91728,7 @@
         "web-search.biz": {
             "epoch": "1542499200",
             "expiration_date": "18-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "web-stat.com": {
             "epoch": "1612742400",
@@ -92155,6 +92155,11 @@
             "expiration_date": "19-jun-2019",
             "state": "future"
         },
+        "webmine.cz": {
+            "epoch": "1570060800",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
         "webmine.pro": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
@@ -92176,8 +92181,8 @@
             "state": "future"
         },
         "webmining.co": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "webnext.com": {
@@ -92234,6 +92239,11 @@
             "epoch": "1538611200",
             "expiration_date": "04-oct-2018",
             "state": "past"
+        },
+        "webpages.pl": {
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "webpath.com": {
             "epoch": "1544572800",
@@ -92446,9 +92456,9 @@
             "state": "future"
         },
         "webstars2000.com": {
-            "epoch": "1535587200",
-            "expiration_date": "30-aug-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "webstat.com": {
             "epoch": "1565395200",
@@ -92696,8 +92706,8 @@
             "state": "future"
         },
         "wepayforuglyhouses.com": {
-            "epoch": "1542326400",
-            "expiration_date": "16-nov-2018",
+            "epoch": "1605484800",
+            "expiration_date": "16-nov-2020",
             "state": "future"
         },
         "werather.com": {
@@ -92726,8 +92736,8 @@
             "state": "future"
         },
         "westfrontier.com": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "westinn.com": {
@@ -92940,14 +92950,404 @@
             "expiration_date": "27-sep-2019",
             "state": "future"
         },
+        "whips-n-women.com": {
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "whipsandwomen.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "whiptone.com": {
+            "epoch": "1562371200",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "whiptones.com": {
+            "epoch": "1562371200",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "whir.com": {
+            "epoch": "1593648000",
+            "expiration_date": "02-jul-2020",
+            "state": "future"
+        },
+        "whispa.com": {
+            "epoch": "1672704000",
+            "expiration_date": "03-jan-2023",
+            "state": "future"
+        },
+        "white-pages.ws": {
+            "epoch": "1649289600",
+            "expiration_date": "07-apr-2022",
+            "state": "future"
+        },
+        "white9.com": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "whitecottonpantie.com": {
+            "epoch": "1553731200",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "whitecottons.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "whitedove.com": {
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "whitehat.ro": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "whitelolita.com": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "whitepages.com": {
+            "epoch": "1649462400",
+            "expiration_date": "09-apr-2022",
+            "state": "future"
+        },
+        "whnttv.com": {
+            "epoch": "1625097600",
+            "expiration_date": "01-jul-2021",
+            "state": "future"
+        },
+        "who-remembers-me.com": {
+            "epoch": "1558483200",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "whois.ws": {
+            "epoch": "1584748800",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "whoisonline.net": {
+            "epoch": "1551398400",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "whoisprivacyprotect.com": {
+            "epoch": "1787961600",
+            "expiration_date": "29-aug-2026",
+            "state": "future"
+        },
+        "wholeporno.com": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "wholesalegopher.com": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "wholesalelists.net": {
+            "epoch": "1549497600",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "wholesaletraffic.info": {
+            "epoch": "1561766400",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "wholevideos.com": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "wholeworldmarket.com": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "whonami.info": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "whopass.com": {
+            "epoch": "1563235200",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "whosbest.com": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "whost.org": {
+            "epoch": "1643414400",
+            "expiration_date": "29-jan-2022",
+            "state": "future"
+        },
+        "whrilpool.com": {
+            "epoch": "1683763200",
+            "expiration_date": "11-may-2023",
+            "state": "future"
+        },
+        "whtt.org": {
+            "epoch": "1570924800",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "whydowork.com": {
+            "epoch": "1626998400",
+            "expiration_date": "23-jul-2021",
+            "state": "future"
+        },
+        "whypayshipping.com": {
+            "epoch": "1549929600",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "wibf.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "wickedbucks.com": {
+            "epoch": "1604448000",
+            "expiration_date": "04-nov-2020",
+            "state": "future"
+        },
+        "wickedgooddeals.com": {
+            "epoch": "1549152000",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "wideareawireless.com": {
+            "epoch": "1594080000",
+            "expiration_date": "07-jul-2020",
+            "state": "future"
+        },
+        "widewayinc.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "widgetbucks.com": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "widgetserver.com": {
+            "epoch": "1560643200",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "widlak-market.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "widnr.com": {
+            "epoch": "1628985600",
+            "expiration_date": "15-aug-2021",
+            "state": "future"
+        },
+        "widowsweb.com": {
+            "epoch": "1560988800",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "wigetmedia.com": {
+            "epoch": "1604793600",
+            "expiration_date": "08-nov-2020",
+            "state": "future"
+        },
+        "wiki-security.com": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "wildarcade.com": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "wildcash.com": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "wildcherries.com": {
+            "epoch": "1551398400",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "wildersecurity.com": {
+            "epoch": "1564963200",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "wildeva.com": {
+            "epoch": "1546992000",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "wildflics.com": {
+            "epoch": "1565913600",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "wildmail.com": {
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
+        "wildmaturesex.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "wildmistress.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "wildpornpass.com": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "wildpornreviews.com": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "wildrhino.com": {
+            "epoch": "1548892800",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "wildsexparties.com": {
+            "epoch": "1614988800",
+            "expiration_date": "06-mar-2021",
+            "state": "future"
+        },
+        "wildtangent.com": {
+            "epoch": "1599696000",
+            "expiration_date": "10-sep-2020",
+            "state": "future"
+        },
+        "wildthumbs.com": {
+            "epoch": "1614211200",
+            "expiration_date": "25-feb-2021",
+            "state": "future"
+        },
+        "wildvideoparty.com": {
+            "epoch": "1545436800",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "wildwebsites.com": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "wildwestdomains.com": {
+            "epoch": "1635724800",
+            "expiration_date": "01-nov-2021",
+            "state": "future"
+        },
+        "willacrit.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "williamsanoma.com": {
+            "epoch": "1675468800",
+            "expiration_date": "04-feb-2023",
+            "state": "future"
+        },
+        "wilsone5.com": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "wimage.net": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "wimpsauce.com": {
+            "epoch": "1589155200",
+            "expiration_date": "11-may-2020",
+            "state": "future"
+        },
         "win-fix.com": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "win-tools.com": {
             "epoch": "1588291200",
             "expiration_date": "01-may-2020",
+            "state": "future"
+        },
+        "win496.com": {
+            "epoch": "1558828800",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "winamp-hq.com": {
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
+        },
+        "winanewcar.com": {
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "winantivirus.com": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "winantiviruspro.com": {
+            "epoch": "1557705600",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "winanylotto.com": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "winbigrewards.com": {
+            "epoch": "1553904000",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "wincleaner.com": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "winclear.com": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "wincognito.com": {
+            "epoch": "1562630400",
+            "expiration_date": "09-jul-2019",
             "state": "future"
         },
         "windefender.com": {
@@ -93141,8 +93541,8 @@
             "state": "future"
         },
         "winshredder.com": {
-            "epoch": "1542499200",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574035200",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "winsite.com": {
@@ -93283,7 +93683,7 @@
         "wittyoffers.club": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "wixww.com": {
             "epoch": "1555545600",
@@ -93311,9 +93711,9 @@
             "state": "future"
         },
         "wjar10.com": {
-            "epoch": "1534291200",
-            "expiration_date": "15-aug-2018",
-            "state": "past"
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "wkcash.com": {
             "epoch": "1566950400",
