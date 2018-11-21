@@ -30401,8 +30401,8 @@
             "state": "future"
         },
         "exocrew.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "exodus.com": {
@@ -30421,8 +30421,8 @@
             "state": "future"
         },
         "expandsearch.com": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "expect.dk": {
@@ -30433,6 +30433,16 @@
         "experclick.com": {
             "epoch": "1554422400",
             "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "experimentariet.dk": {
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "expert-alu.pl": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
             "state": "future"
         },
         "expert-mails.com": {
@@ -30561,8 +30571,8 @@
             "state": "future"
         },
         "extractorandburner.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "extrapornmovies.com": {
@@ -30623,6 +30633,11 @@
         "extremekream.com": {
             "epoch": "1546387200",
             "expiration_date": "02-jan-2019",
+            "state": "future"
+        },
+        "extremepaidsurveys.com": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "extremepool.org": {
@@ -30850,6 +30865,11 @@
             "expiration_date": "07-mar-2019",
             "state": "future"
         },
+        "f1organizer.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
         "f2pool.com": {
             "epoch": "1619136000",
             "expiration_date": "23-apr-2021",
@@ -31051,8 +31071,8 @@
             "state": "future"
         },
         "fanclips.com": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "fancube.com": {
@@ -31205,6 +31225,26 @@
             "expiration_date": "21-feb-2019",
             "state": "future"
         },
+        "fast-direct-access.com": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "fast-email.com": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "fast-finder.com": {
+            "epoch": "1550102400",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "fast-mail.org": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
         "fastadvert.com": {
             "epoch": "1555804800",
             "expiration_date": "21-apr-2019",
@@ -31213,6 +31253,296 @@
         "fastatlast.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "fastbrakes.com": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "fastclick.com": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "fastclick.net": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "fastcounter.com": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "fasteasyfree.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "fasteddiesclips.com": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "fastem.com": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "fastemailer.com": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "faster-hosting.com": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "fasterbucks.com": {
+            "epoch": "1558396800",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "fasterections.com": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "fastfind.org": {
+            "epoch": "1619913600",
+            "expiration_date": "02-may-2021",
+            "state": "future"
+        },
+        "fastfreedownload.com": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "fastgoal.ru": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "fastgoogle.com": {
+            "epoch": "1646006400",
+            "expiration_date": "28-feb-2022",
+            "state": "future"
+        },
+        "fastgraphics.com": {
+            "epoch": "1542931200",
+            "expiration_date": "23-nov-2018",
+            "state": "future"
+        },
+        "fastimap.com": {
+            "epoch": "1551744000",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "fastlineonline.com": {
+            "epoch": "1551484800",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "fastlink2.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "fastmailbox.net": {
+            "epoch": "1549497600",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "fastmap33.com": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "fastmessaging.com": {
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "fastmoviedownloads.com": {
+            "epoch": "1544227200",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "fastnofaxpaydayloans.com": {
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "fastonlineusers.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "fastsearch.biz": {
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
+        "fastseeker.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "fastssearch.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "fastsupport.com": {
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "fasttrack.nu": {
+            "epoch": "1561939200",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "fasttracklab.com": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "fasttvdownloads.com": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "fastwebfinder.com": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "fastwincasino.com": {
+            "epoch": "1561593600",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "fatal.ru": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "fatasshole.com": {
+            "epoch": "1554595200",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "fatclicks.com": {
+            "epoch": "1545004800",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "fathone.com": {
+            "epoch": "1538352000",
+            "expiration_date": "01-oct-2018",
+            "state": "past"
+        },
+        "fatpickle.com": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "fatpockets.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "faucethub.io": {
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "faultycanvas.com": {
+            "epoch": "1571961600",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "faultyfowl.com": {
+            "epoch": "1584748800",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "favemail.com": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "favicon.com": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "favoredtube.com": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "favorit-network.com": {
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "favorites1.com": {
+            "epoch": "1600992000",
+            "expiration_date": "25-sep-2020",
+            "state": "future"
+        },
+        "favouriteshop.com": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "favourlinks.com": {
+            "epoch": "1571961600",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "faxporn.com": {
+            "epoch": "1547683200",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "faza.ru": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "fb-l.com": {
+            "epoch": "1543190400",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "fbcbn.net": {
+            "epoch": "1544140800",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "fbhosting.com": {
+            "epoch": "1551139200",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "fcarsenal.ru": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "fcc.net": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "fcm.com": {
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
             "state": "future"
         },
         "feelergauge.net": {
