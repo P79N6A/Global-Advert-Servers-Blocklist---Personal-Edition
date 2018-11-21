@@ -96396,8 +96396,8 @@
             "state": "future"
         },
         "xxxhardcore.net": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "xxxle.com": {
@@ -96421,8 +96421,8 @@
             "state": "future"
         },
         "xxxparadise.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "xxxpassword.com": {
@@ -96520,6 +96520,11 @@
             "expiration_date": "25-mar-2024",
             "state": "future"
         },
+        "xy7c.com": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
         "xybiz.com": {
             "epoch": "1550361600",
             "expiration_date": "17-feb-2019",
@@ -96545,14 +96550,24 @@
             "expiration_date": "12-oct-2019",
             "state": "future"
         },
+        "xzoomy.com": {
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
         "xzpool.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "xzwrn.cn": {
             "epoch": "1571875200",
             "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "y-e-l-l-o-w.com": {
+            "epoch": "1561420800",
+            "expiration_date": "25-jun-2019",
             "state": "future"
         },
         "y-sex.com": {
@@ -96563,6 +96578,456 @@
         "y2kjapan.com": {
             "epoch": "1568764800",
             "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "ya.com": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "ya.ru": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "yada.com": {
+            "epoch": "1549584000",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "yadro.ru": {
+            "epoch": "1548115200",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "yafoo.biz": {
+            "epoch": "1568764800",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "yahaoo.com": {
+            "epoch": "1555200000",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "yahho.com": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "yaho0.com": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "yahoo-party.com": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "yahoo-tech.org": {
+            "epoch": "1557619200",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "yahoo1.com": {
+            "epoch": "1554595200",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "yahool.com": {
+            "epoch": "1557705600",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "yahooparty.com": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "yahou.com": {
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "yahub.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "yahuo.com": {
+            "epoch": "1547683200",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "yalupa.com": {
+            "epoch": "1536710400",
+            "expiration_date": "12-sep-2018",
+            "state": "past"
+        },
+        "yamagiku.net": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "yambo.biz": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "yanaha.com": {
+            "epoch": "1624406400",
+            "expiration_date": "23-jun-2021",
+            "state": "future"
+        },
+        "yandex.ru": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "yandex.ws": {
+            "epoch": "1649289600",
+            "expiration_date": "07-apr-2022",
+            "state": "future"
+        },
+        "yapbrowser.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "yapsearch.com": {
+            "epoch": "1568332800",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "yasir.biz": {
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "yasmin.ws": {
+            "epoch": "1743984000",
+            "expiration_date": "07-apr-2025",
+            "state": "future"
+        },
+        "yastatic.net": {
+            "epoch": "1543363200",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "yaty.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "yazminx.com": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "yazo.com": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "yazzle.net": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "yb-sport-555.cn": {
+            "epoch": "1559779200",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "ybcoin.com": {
+            "epoch": "1559779200",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "yceml.net": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "ye-h.com": {
+            "epoch": "1553212800",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "yeah.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "yeah.net": {
+            "epoch": "1597795200",
+            "expiration_date": "19-aug-2020",
+            "state": "future"
+        },
+        "yeahuo.net": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "yeasearch.com": {
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "yeblya.com": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "yeegoo.com": {
+            "epoch": "1641340800",
+            "expiration_date": "05-jan-2022",
+            "state": "future"
+        },
+        "yegate.com": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "yellow2.com": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "yellow500.com": {
+            "epoch": "1555891200",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "yellowcatstyle.com": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "yellowstoneentertainmentgroup.com": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "yellowstuff.com": {
+            "epoch": "1560124800",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "yelvshi.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "yep.com": {
+            "epoch": "1647648000",
+            "expiration_date": "19-mar-2022",
+            "state": "future"
+        },
+        "yep2.com": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "yepmail.net": {
+            "epoch": "1548633600",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
+        "yesadvertising.com": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "yesandns.cn": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "yesfree.com": {
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "yeshost.com": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "yesmail.com": {
+            "epoch": "1554076800",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "yesonamendment3.com": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "yesup.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "yesup.net": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "yfdirect.com": {
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "ygla.ru": {
+            "epoch": "1559952000",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "ygpfb.com": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "yhaho.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "yieldads.com": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
+        "yieldmanager.com": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "yieldmanager.net": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "yihaha.cn": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "yinav.com": {
+            "epoch": "1553040000",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "yingzi.com": {
+            "epoch": "1679011200",
+            "expiration_date": "17-mar-2023",
+            "state": "future"
+        },
+        "yiqilai.com": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "yixe.com": {
+            "epoch": "1546992000",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "ymk.com": {
+            "epoch": "1546992000",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "ymlsw.cn": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "ymuv.com": {
+            "epoch": "1591056000",
+            "expiration_date": "02-jun-2020",
+            "state": "future"
+        },
+        "ync.net": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "ynlsw.cn": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "ynotbob.com": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "ynotmasters.com": {
+            "epoch": "1548720000",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "yobit.net": {
+            "epoch": "1724544000",
+            "expiration_date": "25-aug-2024",
+            "state": "future"
+        },
+        "yobt.com": {
+            "epoch": "1628035200",
+            "expiration_date": "04-aug-2021",
+            "state": "future"
+        },
+        "yobt.info": {
+            "epoch": "1547510400",
+            "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "yobt.net": {
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
+            "state": "future"
+        },
+        "yobt.org": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "yobt.us": {
+            "epoch": "1538697600",
+            "expiration_date": "05-oct-2018",
+            "state": "past"
+        },
+        "yohaoo.com": {
+            "epoch": "1610841600",
+            "expiration_date": "17-jan-2021",
+            "state": "future"
+        },
+        "yohou.com": {
+            "epoch": "1545177600",
+            "expiration_date": "19-dec-2018",
+            "state": "future"
+        },
+        "yokohamatires.com": {
+            "epoch": "1684108800",
+            "expiration_date": "15-may-2023",
+            "state": "future"
+        },
+        "yomobi.ru": {
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
+        "yomua.com": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "yondex.com": {
+            "epoch": "1569369600",
+            "expiration_date": "25-sep-2019",
             "state": "future"
         },
         "yoosms.com": {
@@ -97081,9 +97546,9 @@
             "state": "future"
         },
         "ysbweb.com": {
-            "epoch": "1534377600",
-            "expiration_date": "16-aug-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "ysj.com": {
             "epoch": "1546992000",
@@ -97191,8 +97656,8 @@
             "state": "future"
         },
         "yzzs.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "z-quest.com": {
@@ -97361,8 +97826,8 @@
             "state": "future"
         },
         "zapmeta.com": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "zappbrannigan.com": {
