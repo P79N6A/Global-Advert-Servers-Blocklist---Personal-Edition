@@ -66801,9 +66801,9 @@
             "state": "future"
         },
         "pricelessblabla.com": {
-            "epoch": "1535846400",
-            "expiration_date": "02-sep-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "priceline.com": {
             "epoch": "1586131200",
@@ -66946,13 +66946,13 @@
             "state": "future"
         },
         "privacy-protect.cn": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "privacy-solution.com": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "privacyassure.com": {
@@ -67146,8 +67146,8 @@
             "state": "future"
         },
         "pro-market.net": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "pro-scanner.com": {
@@ -67226,8 +67226,8 @@
             "state": "future"
         },
         "profitstudio.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "profitzap.com": {
@@ -67451,8 +67451,8 @@
             "state": "future"
         },
         "protectionfield.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "protectionlist.com": {
@@ -67466,8 +67466,13 @@
             "state": "future"
         },
         "protectionstack.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "protectionways.com": {
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "protectpage.com": {
