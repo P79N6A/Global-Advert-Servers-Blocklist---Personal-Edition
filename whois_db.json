@@ -89225,6 +89225,11 @@
             "expiration_date": "24-oct-2019",
             "state": "future"
         },
+        "v-os.net": {
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
         "v1.cc": {
             "epoch": "1564012800",
             "expiration_date": "25-jul-2019",
@@ -89970,6 +89975,61 @@
             "expiration_date": "22-feb-2020",
             "state": "future"
         },
+        "videoprofessor.net": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "videoprofessornow.com": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "videorencontres.com": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "videosboard.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "videosecret.com": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "videosecrets.com": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "videosfan.com": {
+            "epoch": "1557014400",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "videosgalleries.com": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "videosoftonline.com": {
+            "epoch": "1590624000",
+            "expiration_date": "28-may-2020",
+            "state": "future"
+        },
+        "videosring.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "videossoftware.com": {
+            "epoch": "1559865600",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
         "videoxyz.com": {
             "epoch": "1572048000",
             "expiration_date": "26-oct-2019",
@@ -90146,8 +90206,8 @@
             "state": "future"
         },
         "vioclicks.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "violentcomix.com": {
@@ -90713,12 +90773,12 @@
         "vizit.us": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "vjccc.com": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "vjcyehtqm9.me": {
             "epoch": "1545350400",
@@ -90791,8 +90851,8 @@
             "state": "future"
         },
         "vmousetrap.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "vnax.com": {
@@ -90973,6 +91033,141 @@
         "vortexmediagroup.com": {
             "epoch": "1545955200",
             "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "vosar.com": {
+            "epoch": "1567987200",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "votex.us": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "vovanux.info": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "voyageclub.ru": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "voyeuratwork.com": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "voyeurbrazilhouse.com": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "voyeurdorm.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "voyeurismos.com": {
+            "epoch": "1561939200",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "voyeurpornweb.com": {
+            "epoch": "1546300800",
+            "expiration_date": "01-jan-2019",
+            "state": "future"
+        },
+        "vpartnerships.com": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "vpiol.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "vpk66.ru": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "vplaymate.com": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "vpll.com": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "vpol.net": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "vpopku.org": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "vpptechnologies.com": {
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "vpsearch.com": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "vpsvip.com": {
+            "epoch": "1557446400",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "vrbilliard.com": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "vret.org": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "vrihedasunmdecin.com": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "vrizon.com": {
+            "epoch": "1697846400",
+            "expiration_date": "21-oct-2023",
+            "state": "future"
+        },
+        "vrr.dk": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "vrrnscdremer.biz": {
+            "epoch": "1542326400",
+            "expiration_date": "16-nov-2018",
+            "state": "past"
+        },
+        "vrstandard.com": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "vru4.com": {
+            "epoch": "1553299200",
+            "expiration_date": "23-mar-2019",
             "state": "future"
         },
         "w-e-g.cn": {
