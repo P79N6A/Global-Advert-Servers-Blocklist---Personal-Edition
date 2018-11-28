@@ -26321,9 +26321,14 @@
             "state": "future"
         },
         "dfgdfgfdg.biz": {
-            "epoch": "1538179200",
-            "expiration_date": "29-sep-2018",
-            "state": "past"
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "dflam.com": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
         },
         "dfrgc.cn": {
             "epoch": "1571875200",
@@ -26403,6 +26408,11 @@
         "diabloteen.com": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "dialer-shop.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "dialer.org": {
@@ -26746,8 +26756,8 @@
             "state": "future"
         },
         "dildo-pleasure.info": {
-            "epoch": "1543104000",
-            "expiration_date": "25-nov-2018",
+            "epoch": "1574640000",
+            "expiration_date": "25-nov-2019",
             "state": "future"
         },
         "dildodays.com": {
@@ -27001,13 +27011,13 @@
             "state": "future"
         },
         "discoverallnow.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "discoverwhy.com": {
-            "epoch": "1543104000",
-            "expiration_date": "25-nov-2018",
+            "epoch": "1574640000",
+            "expiration_date": "25-nov-2019",
             "state": "future"
         },
         "discovry.com": {
@@ -27026,9 +27036,9 @@
             "state": "future"
         },
         "disk11.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
-            "state": "past"
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "disk919.com": {
             "epoch": "1544832000",
