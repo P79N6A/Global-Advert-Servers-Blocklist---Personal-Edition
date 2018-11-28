@@ -1166,8 +1166,8 @@
             "state": "future"
         },
         "24-7searching-and-more.com": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "241hits.com": {
@@ -1460,6 +1460,11 @@
             "expiration_date": "24-feb-2019",
             "state": "future"
         },
+        "3-a.net": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
         "3000.it": {
             "epoch": "1545177600",
             "expiration_date": "19-dec-2018",
@@ -1643,6 +1648,126 @@
         "38to.cn": {
             "epoch": "1570924800",
             "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "39-93.com": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "39broadway.com": {
+            "epoch": "1807747200",
+            "expiration_date": "15-apr-2027",
+            "state": "future"
+        },
+        "3bsoftware.com": {
+            "epoch": "1562198400",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "3by3.com": {
+            "epoch": "1553385600",
+            "expiration_date": "24-mar-2019",
+            "state": "future"
+        },
+        "3d-icons.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "3d2f.com": {
+            "epoch": "1637193600",
+            "expiration_date": "18-nov-2021",
+            "state": "future"
+        },
+        "3daytrial.com": {
+            "epoch": "1560902400",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "3dcgfx.net": {
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "3dfreestats.com": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "3dme.com": {
+            "epoch": "1611878400",
+            "expiration_date": "29-jan-2021",
+            "state": "future"
+        },
+        "3dnation.com": {
+            "epoch": "1557014400",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "3dstats.com": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "3file.info": {
+            "epoch": "1565049600",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "3hosting.net": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "3ming.com": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "3rat.com": {
+            "epoch": "1546128000",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "3rbw.com": {
+            "epoch": "1553040000",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "3traff.cn": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "3ttman.com": {
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
+        },
+        "3turtles.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "3uz.net": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "3x-mpeg.com": {
+            "epoch": "1571011200",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "3x18.com": {
+            "epoch": "1551657600",
+            "expiration_date": "04-mar-2019",
+            "state": "future"
+        },
+        "3xcontent.com": {
+            "epoch": "1548547200",
+            "expiration_date": "27-jan-2019",
             "state": "future"
         },
         "4-free-screensavers.com": {
