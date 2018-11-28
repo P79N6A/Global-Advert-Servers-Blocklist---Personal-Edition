@@ -4486,8 +4486,8 @@
             "state": "future"
         },
         "adjuggler.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "adjustnetwork.com": {
@@ -4656,8 +4656,8 @@
             "state": "future"
         },
         "adnetinternational.com": {
-            "epoch": "1543017600",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "adnetserver.com": {
@@ -4703,6 +4703,11 @@
         "adobetag.com": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "adobeus.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "adoc.fr": {
