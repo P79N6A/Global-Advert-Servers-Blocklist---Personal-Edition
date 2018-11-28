@@ -19666,9 +19666,9 @@
             "state": "future"
         },
         "china-click.com": {
-            "epoch": "1536278400",
-            "expiration_date": "07-sep-2018",
-            "state": "past"
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "china.com": {
             "epoch": "1850601600",
@@ -19781,9 +19781,9 @@
             "state": "future"
         },
         "chloescorner.com": {
-            "epoch": "1536192000",
-            "expiration_date": "06-sep-2018",
-            "state": "past"
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
         },
         "chmails.com": {
             "epoch": "1554681600",
@@ -19910,6 +19910,11 @@
             "expiration_date": "22-jan-2019",
             "state": "future"
         },
+        "chubbys.org": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
         "chueca.com": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
@@ -20031,8 +20036,8 @@
             "state": "future"
         },
         "cinvestav.com": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "cipu.com": {
@@ -21041,8 +21046,8 @@
             "state": "future"
         },
         "clickyourteen.com": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "clickz.com": {
