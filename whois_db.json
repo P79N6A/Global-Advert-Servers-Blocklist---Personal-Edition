@@ -6681,13 +6681,13 @@
             "state": "future"
         },
         "adwarecleaner.com": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "adwarecommander.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "adwarecops.com": {
@@ -6696,13 +6696,13 @@
             "state": "future"
         },
         "adwaredelete.com": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "adwaredeluxe.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "adwaredestroyer.com": {
@@ -6721,13 +6721,13 @@
             "state": "future"
         },
         "adwaregold.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "adwareguard.com": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "adwarehitman.com": {
@@ -6761,8 +6761,8 @@
             "state": "future"
         },
         "adwareplatinum.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "adwarepolice.com": {
@@ -6771,8 +6771,8 @@
             "state": "future"
         },
         "adwarepro.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "adwareprofessional.com": {
@@ -6796,8 +6796,8 @@
             "state": "future"
         },
         "adwareremovergold.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "adwares.net": {
@@ -6811,8 +6811,8 @@
             "state": "future"
         },
         "adwaresafety.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "adwarescanner.com": {
@@ -6831,8 +6831,8 @@
             "state": "future"
         },
         "adwaresoftware.com": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "adwarespy.com": {
@@ -7031,8 +7031,8 @@
             "state": "future"
         },
         "affili24.com": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "affili24.net": {
@@ -7326,6 +7326,11 @@
             "state": "future"
         },
         "agta.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "agv.dk": {
             "epoch": "1572480000",
             "expiration_date": "31-oct-2019",
             "state": "future"
