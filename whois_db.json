@@ -39675,6 +39675,11 @@
             "expiration_date": "19-mar-2020",
             "state": "future"
         },
+        "go-to-search.com": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
         "go.com": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
@@ -40380,9 +40385,14 @@
             "expiration_date": "28-may-2019",
             "state": "future"
         },
+        "goole.ws": {
+            "epoch": "1550793600",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
         "goolges.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "goonerblog.com": {
@@ -40401,8 +40411,8 @@
             "state": "future"
         },
         "gooogles.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "goooogle.com": {
@@ -40471,8 +40481,8 @@
             "state": "future"
         },
         "goporntube.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "gopready.com": {
@@ -40553,6 +40563,151 @@
         "gostats.com": {
             "epoch": "1606780800",
             "expiration_date": "01-dec-2020",
+            "state": "future"
+        },
+        "gotargeted.com": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "gotfruit.com": {
+            "epoch": "1568764800",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "gothamistllc.com": {
+            "epoch": "1550966400",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "gotlaughs.com": {
+            "epoch": "1564963200",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "goto.com": {
+            "epoch": "1623283200",
+            "expiration_date": "10-jun-2021",
+            "state": "future"
+        },
+        "gotoast.com": {
+            "epoch": "1589500800",
+            "expiration_date": "15-may-2020",
+            "state": "future"
+        },
+        "gotomypc.com": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "gotoo.com": {
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
+        },
+        "gotoscreensavers.com": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "gotothechronicle.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "gotoworld.com": {
+            "epoch": "1560643200",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "gotsavings.com": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "gouqle.com": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "goutee.top": {
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "govno.ws": {
+            "epoch": "1666915200",
+            "expiration_date": "28-oct-2022",
+            "state": "future"
+        },
+        "gowk.me": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "goxmrminer.com": {
+            "epoch": "1546905600",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "gozilla.com": {
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
+            "state": "future"
+        },
+        "gpftt.com": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "gphosted.com": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "gplanet.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "gppl.com": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "gr1innovations.com": {
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
+        },
+        "gr2.cc": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "gr8search.com": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "grab-credit4u.com": {
+            "epoch": "1564876800",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "grab.com": {
+            "epoch": "1604188800",
+            "expiration_date": "01-nov-2020",
+            "state": "future"
+        },
+        "grabsoft.info": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "graceinthedesert.org": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
             "state": "future"
         },
         "graf-euro.com": {
