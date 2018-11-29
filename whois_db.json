@@ -48716,8 +48716,8 @@
             "state": "future"
         },
         "jkgarments.com": {
-            "epoch": "1543017600",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "jlma.com": {
@@ -49181,8 +49181,8 @@
             "state": "future"
         },
         "juicypussyclips.com": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "juicyteenporn.com": {
@@ -49488,7 +49488,7 @@
         "kamerali.com": {
             "epoch": "1543449600",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "kamikazewargames.com": {
             "epoch": "1555027200",
@@ -49501,9 +49501,9 @@
             "state": "future"
         },
         "kamz.net": {
-            "epoch": "1534118400",
-            "expiration_date": "13-aug-2018",
-            "state": "past"
+            "epoch": "1574640000",
+            "expiration_date": "25-nov-2019",
+            "state": "future"
         },
         "kangk.cn": {
             "epoch": "1555977600",
@@ -49648,6 +49648,41 @@
         "katteracer.dk": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "kavkazweb.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "kawasakie.com": {
+            "epoch": "1536969600",
+            "expiration_date": "15-sep-2018",
+            "state": "past"
+        },
+        "kawasiki.com": {
+            "epoch": "1620518400",
+            "expiration_date": "09-may-2021",
+            "state": "future"
+        },
+        "kawaski.com": {
+            "epoch": "1670457600",
+            "expiration_date": "08-dec-2022",
+            "state": "future"
+        },
+        "kayaks.cz": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "kayjewlery.com": {
+            "epoch": "1699574400",
+            "expiration_date": "10-nov-2023",
+            "state": "future"
+        },
+        "kaysjewlers.com": {
+            "epoch": "1686614400",
+            "expiration_date": "13-jun-2023",
             "state": "future"
         },
         "ke-tai.net": {
