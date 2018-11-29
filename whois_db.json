@@ -46040,6 +46040,11 @@
             "expiration_date": "10-jun-2020",
             "state": "future"
         },
+        "impol.cz": {
+            "epoch": "1558137600",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
         "impossibleexpansion.com": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
@@ -46053,6 +46058,11 @@
         "imprese.cz": {
             "epoch": "1566950400",
             "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "impressionmedia.cz": {
+            "epoch": "1563840000",
+            "expiration_date": "23-jul-2019",
             "state": "future"
         },
         "impressionpromotion.info": {
@@ -46816,8 +46826,8 @@
             "state": "future"
         },
         "inside-her.com": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "insideposition.com": {
