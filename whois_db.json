@@ -71755,6 +71755,11 @@
             "expiration_date": "14-jan-2019",
             "state": "future"
         },
+        "qtas.net": {
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
         "qtgate.com": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
@@ -72296,8 +72301,8 @@
             "state": "future"
         },
         "ramrod.net": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "ramrodder.com": {
@@ -72376,13 +72381,13 @@
             "state": "future"
         },
         "rapid-pass.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "rapid-pass.net": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "rapidclick.com": {
@@ -72401,8 +72406,8 @@
             "state": "future"
         },
         "rapidpass.net": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "rapturewear.com": {
