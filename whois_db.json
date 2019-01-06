@@ -65566,8 +65566,8 @@
             "state": "future"
         },
         "p0.com": {
-            "epoch": "1544918400",
-            "expiration_date": "16-dec-2018",
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
             "state": "future"
         },
         "p01.com": {
@@ -65641,8 +65641,8 @@
             "state": "future"
         },
         "p3marketing.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "p4pnet.net": {
@@ -65671,8 +65671,8 @@
             "state": "future"
         },
         "page-not-found.net": {
-            "epoch": "1544745600",
-            "expiration_date": "14-dec-2018",
+            "epoch": "1576281600",
+            "expiration_date": "14-dec-2019",
             "state": "future"
         },
         "pagecount.com": {
@@ -65691,8 +65691,8 @@
             "state": "future"
         },
         "pageranktop.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "pagesuploader.net": {
@@ -65701,8 +65701,8 @@
             "state": "future"
         },
         "pagesx.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
             "state": "future"
         },
         "pagetools.com": {
@@ -65766,8 +65766,8 @@
             "state": "future"
         },
         "paisvirtual.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
             "state": "future"
         },
         "pakdef.com": {
@@ -66001,18 +66001,18 @@
             "state": "future"
         },
         "parapay.com": {
-            "epoch": "1545523200",
-            "expiration_date": "23-dec-2018",
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
             "state": "future"
         },
         "parentpatch.com": {
-            "epoch": "1545868800",
-            "expiration_date": "27-dec-2018",
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
             "state": "future"
         },
         "paretologic.com": {
-            "epoch": "1544918400",
-            "expiration_date": "16-dec-2018",
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
             "state": "future"
         },
         "parisa.lt": {
@@ -66070,6 +66070,11 @@
             "expiration_date": "13-nov-2019",
             "state": "future"
         },
+        "partner-source.com": {
+            "epoch": "1607299200",
+            "expiration_date": "07-dec-2020",
+            "state": "future"
+        },
         "partner2profit.com": {
             "epoch": "1557792000",
             "expiration_date": "14-may-2019",
@@ -66081,13 +66086,13 @@
             "state": "future"
         },
         "partnersclick.com": {
-            "epoch": "1545523200",
-            "expiration_date": "23-dec-2018",
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
             "state": "future"
         },
         "partnersinpeace.org": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
             "state": "future"
         },
         "party-ticket.com": {
@@ -66101,8 +66106,8 @@
             "state": "future"
         },
         "partypartytime.com": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
             "state": "future"
         },
         "partypoker.com": {
@@ -66118,7 +66123,7 @@
         "pascal3.science": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pasqualina.com": {
             "epoch": "1572998400",
@@ -66340,6 +66345,11 @@
             "expiration_date": "06-jul-2019",
             "state": "future"
         },
+        "payingforums.com": {
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
         "payinout.com": {
             "epoch": "1549929600",
             "expiration_date": "12-feb-2019",
@@ -66386,8 +66396,8 @@
             "state": "future"
         },
         "payperphone.com": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "payperpost.com": {
@@ -66411,8 +66421,8 @@
             "state": "future"
         },
         "paysefeed.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "payserve.com": {
