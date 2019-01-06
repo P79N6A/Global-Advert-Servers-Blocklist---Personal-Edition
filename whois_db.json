@@ -76056,13 +76056,13 @@
             "state": "future"
         },
         "search-photo.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "search-rc.org": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "search-results.com": {
@@ -76076,8 +76076,13 @@
             "state": "future"
         },
         "search-solver.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "search-space.com": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "search-to-find.com": {
@@ -76601,8 +76606,8 @@
             "state": "future"
         },
         "searchnet.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "searchnetscape.com": {
@@ -76651,13 +76656,13 @@
             "state": "future"
         },
         "searchramp.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "searchreferral.com": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
             "state": "future"
         },
         "searchrelevancy.com": {
@@ -76701,8 +76706,8 @@
             "state": "future"
         },
         "searchrr.com": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "searchs.com": {
@@ -76766,8 +76771,8 @@
             "state": "future"
         },
         "searchthemes.com": {
-            "epoch": "1545696000",
-            "expiration_date": "25-dec-2018",
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
             "state": "future"
         },
         "searchtimes.com": {
@@ -76798,7 +76803,7 @@
         "searchwebpage.com": {
             "epoch": "1542153600",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "searchwho.com": {
             "epoch": "1557273600",
@@ -76811,9 +76816,9 @@
             "state": "future"
         },
         "searchx.cc": {
-            "epoch": "1535155200",
-            "expiration_date": "25-aug-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "searchx.com": {
             "epoch": "1583280000",
@@ -76931,8 +76936,8 @@
             "state": "future"
         },
         "securelifetime.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "securelive.com": {
@@ -77001,8 +77006,8 @@
             "state": "future"
         },
         "securetroy.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "securewebinfo.com": {
@@ -77016,9 +77021,9 @@
             "state": "future"
         },
         "security-web.biz": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
-            "state": "past"
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
         },
         "security-web.info": {
             "epoch": "1557360000",
@@ -77041,8 +77046,8 @@
             "state": "future"
         },
         "securitybulletin.net": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "securitycaution.com": {
@@ -77296,13 +77301,13 @@
             "state": "future"
         },
         "seespyware.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "seework.info": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "seework.top": {
@@ -77401,13 +77406,13 @@
             "state": "future"
         },
         "select-pharma.com": {
-            "epoch": "1545091200",
-            "expiration_date": "18-dec-2018",
+            "epoch": "1576627200",
+            "expiration_date": "18-dec-2019",
             "state": "future"
         },
         "selectedsecurity.com": {
-            "epoch": "1545782400",
-            "expiration_date": "26-dec-2018",
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "selectedsex.com": {
@@ -77551,8 +77556,8 @@
             "state": "future"
         },
         "sens-interdits.com": {
-            "epoch": "1544572800",
-            "expiration_date": "12-dec-2018",
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "sensicacciaepesca.com": {
@@ -77573,7 +77578,7 @@
         "sentrol.cl": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "sentry.io": {
             "epoch": "1712448000",
@@ -77581,9 +77586,9 @@
             "state": "future"
         },
         "seo4india.com": {
-            "epoch": "1538956800",
-            "expiration_date": "08-oct-2018",
-            "state": "past"
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
         },
         "seobucks.com": {
             "epoch": "1569974400",
@@ -77616,8 +77621,8 @@
             "state": "future"
         },
         "seoplus.org": {
-            "epoch": "1545004800",
-            "expiration_date": "17-dec-2018",
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
             "state": "future"
         },
         "seorule.com": {
@@ -77691,8 +77696,8 @@
             "state": "future"
         },
         "serialzdb.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "serie-vostfr.com": {
@@ -77766,8 +77771,8 @@
             "state": "future"
         },
         "servegame.org": {
-            "epoch": "1543968000",
-            "expiration_date": "05-dec-2018",
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
             "state": "future"
         },
         "servehttp.com": {
@@ -77806,8 +77811,8 @@
             "state": "future"
         },
         "serverlogic3.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "serverpages.com": {
@@ -77843,7 +77848,7 @@
         "serviceloven.dk": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "servicemerchadise.com": {
             "epoch": "1549238400",
