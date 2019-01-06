@@ -98671,8 +98671,8 @@
             "state": "future"
         },
         "wwwshockwave.com": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
             "state": "future"
         },
         "wwwsixflags.com": {
@@ -98691,9 +98691,9 @@
             "state": "future"
         },
         "wwwsparknotes.com": {
-            "epoch": "1536969600",
-            "expiration_date": "15-sep-2018",
-            "state": "past"
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
         },
         "wwwsprintpcs.com": {
             "epoch": "1552176000",
