@@ -74945,6 +74945,11 @@
             "expiration_date": "19-sep-2019",
             "state": "future"
         },
+        "s5.com": {
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
         "sabaru.com": {
             "epoch": "1683331200",
             "expiration_date": "06-may-2023",
@@ -74956,9 +74961,9 @@
             "state": "future"
         },
         "sabenaairlines.com": {
-            "epoch": "1536192000",
-            "expiration_date": "06-sep-2018",
-            "state": "past"
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
         },
         "sabre.com": {
             "epoch": "1599955200",
@@ -74971,8 +74976,8 @@
             "state": "future"
         },
         "sacoinc.com": {
-            "epoch": "1546128000",
-            "expiration_date": "30-dec-2018",
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "sacvalleyhomes.com": {
@@ -75016,13 +75021,18 @@
             "state": "future"
         },
         "safeapplications.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "safedatatech.com": {
             "epoch": "1596326400",
             "expiration_date": "02-aug-2020",
+            "state": "future"
+        },
+        "safeguardbar.com": {
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "safeguardprotect.com": {
@@ -75046,8 +75056,8 @@
             "state": "future"
         },
         "safermarkets.org": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
             "state": "future"
         },
         "safesearch.com": {
@@ -75056,8 +75066,8 @@
             "state": "future"
         },
         "safesharing.com": {
-            "epoch": "1543881600",
-            "expiration_date": "04-dec-2018",
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
             "state": "future"
         },
         "safeshortcuts.com": {
@@ -75076,13 +75086,13 @@
             "state": "future"
         },
         "safetyhomepage.com": {
-            "epoch": "1545523200",
-            "expiration_date": "23-dec-2018",
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
             "state": "future"
         },
         "safetysettings.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "safewebsurfer.com": {
@@ -75090,9 +75100,14 @@
             "expiration_date": "15-feb-2019",
             "state": "future"
         },
+        "sagacloud.net": {
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
         "sageanalyst.net": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "sagej.com": {
@@ -75101,8 +75116,8 @@
             "state": "future"
         },
         "saharaairlines.com": {
-            "epoch": "1544140800",
-            "expiration_date": "07-dec-2018",
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "sailhousepublishing.com": {
@@ -75121,8 +75136,8 @@
             "state": "future"
         },
         "sajobelectronics.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
             "state": "future"
         },
         "sakthikaa.com": {
@@ -75211,9 +75226,9 @@
             "state": "future"
         },
         "saltlakecitytribune.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "saltlaketribune.com": {
             "epoch": "1680739200",
@@ -75376,8 +75391,8 @@
             "state": "future"
         },
         "savagebabes.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "savantmedia.com": {
@@ -75451,8 +75466,8 @@
             "state": "future"
         },
         "sawlog.com": {
-            "epoch": "1545004800",
-            "expiration_date": "17-dec-2018",
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
             "state": "future"
         },
         "sawt-gharb.com": {
@@ -75471,8 +75486,8 @@
             "state": "future"
         },
         "sayyesfoods.com": {
-            "epoch": "1544486400",
-            "expiration_date": "11-dec-2018",
+            "epoch": "1576022400",
+            "expiration_date": "11-dec-2019",
             "state": "future"
         },
         "sb01.com": {
@@ -75491,9 +75506,9 @@
             "state": "future"
         },
         "sbapodremer.biz": {
-            "epoch": "1542326400",
-            "expiration_date": "16-nov-2018",
-            "state": "past"
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
         },
         "sbee.com": {
             "epoch": "1552608000",
@@ -75561,9 +75576,9 @@
             "state": "future"
         },
         "scareface.com": {
-            "epoch": "1536883200",
-            "expiration_date": "14-sep-2018",
-            "state": "past"
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
         },
         "scaricamp3.com": {
             "epoch": "1572048000",
@@ -75651,8 +75666,8 @@
             "state": "future"
         },
         "scmg.net": {
-            "epoch": "1546128000",
-            "expiration_date": "30-dec-2018",
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "scoobidoo.com": {
@@ -75663,12 +75678,12 @@
         "scootergaleri.dk": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "scootergallari.dk": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "scootergalleriet.dk": {
             "epoch": "1548892800",
@@ -75713,6 +75728,11 @@
         "scoringsessions.com": {
             "epoch": "1570838400",
             "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "scorpionsearch.com": {
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "scoshe.com": {
@@ -75760,9 +75780,14 @@
             "expiration_date": "13-feb-2020",
             "state": "future"
         },
+        "screen-mates.com": {
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
         "screenmates.com": {
-            "epoch": "1544486400",
-            "expiration_date": "11-dec-2018",
+            "epoch": "1576022400",
+            "expiration_date": "11-dec-2019",
             "state": "future"
         },
         "screensaver.com": {
@@ -75796,8 +75821,8 @@
             "state": "future"
         },
         "screensavers-themes.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "screensavers.com": {
@@ -75876,8 +75901,8 @@
             "state": "future"
         },
         "sculptureandstatue.com": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
             "state": "future"
         },
         "scut.ru": {
@@ -75891,8 +75916,8 @@
             "state": "past"
         },
         "sd3x.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "sdfp.info": {
