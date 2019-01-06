@@ -97995,6 +97995,21 @@
             "expiration_date": "04-feb-2019",
             "state": "future"
         },
+        "wwwairtran.com": {
+            "epoch": "1562976000",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "wwwal.com": {
+            "epoch": "1613779200",
+            "expiration_date": "20-feb-2021",
+            "state": "future"
+        },
+        "wwwalaskaair.com": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
         "wwwamericangreetings.com": {
             "epoch": "1557619200",
             "expiration_date": "12-may-2019",
@@ -98011,8 +98026,8 @@
             "state": "future"
         },
         "wwwaolmail.com": {
-            "epoch": "1545436800",
-            "expiration_date": "22-dec-2018",
+            "epoch": "1640131200",
+            "expiration_date": "22-dec-2021",
             "state": "future"
         },
         "wwwarizonalottery.com": {
