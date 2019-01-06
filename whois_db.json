@@ -97731,8 +97731,8 @@
             "state": "future"
         },
         "wowtw.com": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "wowweb.net": {
@@ -97753,7 +97753,7 @@
         "wpi.biz": {
             "epoch": "1546473600",
             "expiration_date": "03-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "wpills.info": {
             "epoch": "1565136000",
@@ -97801,9 +97801,9 @@
             "state": "future"
         },
         "wsb750.com": {
-            "epoch": "1536710400",
-            "expiration_date": "12-sep-2018",
-            "state": "past"
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "wsel.net": {
             "epoch": "1569542400",
@@ -97871,8 +97871,8 @@
             "state": "future"
         },
         "wty46.com": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
             "state": "future"
         },
         "wundercounter.com": {
@@ -97900,6 +97900,11 @@
             "expiration_date": "26-jul-2019",
             "state": "future"
         },
+        "wvg2.cn": {
+            "epoch": "1576627200",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
         "wvolante.com": {
             "epoch": "1590019200",
             "expiration_date": "21-may-2020",
@@ -97916,8 +97921,8 @@
             "state": "future"
         },
         "wwj666.com": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
             "state": "future"
         },
         "wwkiosk.com": {
