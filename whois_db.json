@@ -91531,8 +91531,8 @@
             "state": "future"
         },
         "uclaprofs.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1604448000",
+            "expiration_date": "04-nov-2020",
             "state": "future"
         },
         "uclick.com": {
@@ -91541,8 +91541,8 @@
             "state": "future"
         },
         "ucmore.com": {
-            "epoch": "1544572800",
-            "expiration_date": "12-dec-2018",
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "ucomic.com": {
@@ -91566,18 +91566,18 @@
             "state": "future"
         },
         "udderlyart.com": {
-            "epoch": "1544918400",
-            "expiration_date": "16-dec-2018",
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
             "state": "future"
         },
         "udefender.com": {
-            "epoch": "1543881600",
-            "expiration_date": "04-dec-2018",
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
             "state": "future"
         },
         "udimo.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
             "state": "future"
         },
         "udmserve.net": {
@@ -91586,8 +91586,8 @@
             "state": "future"
         },
         "uebawtz7.me": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "uecc.net": {
@@ -91676,8 +91676,8 @@
             "state": "future"
         },
         "uipx.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "uk-adultcash.com": {
@@ -91711,14 +91711,14 @@
             "state": "future"
         },
         "ukiee.com": {
-            "epoch": "1545782400",
-            "expiration_date": "26-dec-2018",
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "ukp2pool.uk": {
             "epoch": "1546387200",
             "expiration_date": "02-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ukr-girls.com": {
             "epoch": "1558656000",
@@ -91815,6 +91815,11 @@
             "expiration_date": "29-aug-2019",
             "state": "future"
         },
+        "ultralinks.info": {
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
         "ultraoranges.com": {
             "epoch": "1584748800",
             "expiration_date": "21-mar-2020",
@@ -91846,13 +91851,13 @@
             "state": "future"
         },
         "umaxforum.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "umaxlogin.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "umaxsearch.com": {
@@ -91931,8 +91936,8 @@
             "state": "future"
         },
         "underwritersdigital.com": {
-            "epoch": "1545696000",
-            "expiration_date": "25-dec-2018",
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
             "state": "future"
         },
         "unfaithful.com": {
@@ -91941,8 +91946,8 @@
             "state": "future"
         },
         "unflatten.com": {
-            "epoch": "1544918400",
-            "expiration_date": "16-dec-2018",
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
             "state": "future"
         },
         "unfurled.com": {
@@ -92106,13 +92111,13 @@
             "state": "future"
         },
         "unix-service.com": {
-            "epoch": "1545782400",
-            "expiration_date": "26-dec-2018",
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "unknownip.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "unknowntray.com": {
@@ -92261,8 +92266,8 @@
             "state": "future"
         },
         "update2date.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "updatead.com": {
@@ -92276,8 +92281,8 @@
             "state": "future"
         },
         "updatecenter.com": {
-            "epoch": "1546128000",
-            "expiration_date": "30-dec-2018",
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "updateconnection.com": {
@@ -92335,9 +92340,14 @@
             "expiration_date": "06-feb-2019",
             "state": "future"
         },
+        "updatesearches.com": {
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
         "updatesgate.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "updatesmicrosoft.net": {
