@@ -63635,6 +63635,11 @@
             "expiration_date": "15-jan-2019",
             "state": "future"
         },
+        "ocalalivestockmarket.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
         "oceancitymotels.com": {
             "epoch": "1560988800",
             "expiration_date": "20-jun-2019",
