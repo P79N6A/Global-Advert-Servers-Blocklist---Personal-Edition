@@ -98835,6 +98835,11 @@
             "expiration_date": "16-oct-2019",
             "state": "future"
         },
+        "wyxing.cn": {
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
         "wyzo.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
@@ -99003,7 +99008,7 @@
         "xaker.cn": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "xalax.com": {
             "epoch": "1566086400",
@@ -99045,6 +99050,11 @@
             "expiration_date": "26-may-2020",
             "state": "future"
         },
+        "xbanner.cz": {
+            "epoch": "1567209600",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
         "xbasfbno.info": {
             "epoch": "1569024000",
             "expiration_date": "21-sep-2019",
@@ -99080,14 +99090,19 @@
             "expiration_date": "28-may-2019",
             "state": "future"
         },
+        "xchange.ro": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
         "xchargebacks.com": {
             "epoch": "1574985600",
             "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "xclicks.net": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "xcnn.com": {
@@ -99111,8 +99126,8 @@
             "state": "future"
         },
         "xdiablox.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "xdosug.net": {
