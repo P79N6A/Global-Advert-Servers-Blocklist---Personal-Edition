@@ -3410,9 +3410,9 @@
         "state": "future"
     },
     "abx4.com": {
-        "epoch": "1536883200",
-        "expiration_date": "14-sep-2018",
-        "state": "past"
+        "epoch": 1575244800,
+        "expiration_date": "02-dec-2019",
+        "state": "future"
     },
     "abyssmedia.com": {
         "epoch": "1547510400",
@@ -10375,8 +10375,8 @@
         "state": "future"
     },
     "asap.com": {
-        "epoch": "1554163200",
-        "expiration_date": "02-apr-2019",
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
         "state": "future"
     },
     "asapsolve.com": {
@@ -16465,8 +16465,8 @@
         "state": "future"
     },
     "broadbandreport.com": {
-        "epoch": "1550448000",
-        "expiration_date": "18-feb-2019",
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
         "state": "future"
     },
     "broadboundary.com": {
@@ -30064,6 +30064,11 @@
         "expiration_date": "13-nov-2019",
         "state": "future"
     },
+    "egold-roulette.com": {
+        "epoch": 1584748800,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
     "egoldservice.com": {
         "epoch": "1566259200",
         "expiration_date": "20-aug-2019",
@@ -37072,6 +37077,11 @@
     "frontpagecash.com": {
         "epoch": "1590192000",
         "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "frt7k.com": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
         "state": "future"
     },
     "frugalsimplicity.com": {
@@ -44890,8 +44900,8 @@
         "state": "future"
     },
     "i-dealdirect.com": {
-        "epoch": "1556064000",
-        "expiration_date": "24-apr-2019",
+        "epoch": 1587686400,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "i-df.com": {
@@ -51542,6 +51552,11 @@
     "lesbiantaste.com": {
         "epoch": "1559952000",
         "expiration_date": "08-jun-2019",
+        "state": "future"
+    },
+    "lesboarchives.com": {
+        "epoch": 1572652800,
+        "expiration_date": "02-nov-2019",
         "state": "future"
     },
     "lesbofever.com": {
@@ -63445,9 +63460,9 @@
         "state": "future"
     },
     "nude-live-cams.com": {
-        "epoch": "1551916800",
+        "epoch": 1551916800,
         "expiration_date": "07-mar-2019",
-        "state": "future"
+        "state": "past"
     },
     "nude-photography.net": {
         "epoch": "1580860800",
@@ -92259,6 +92274,11 @@
         "expiration_date": "03-aug-2019",
         "state": "future"
     },
+    "up-the-creek.com": {
+        "epoch": 1804032000,
+        "expiration_date": "03-mar-2027",
+        "state": "future"
+    },
     "up2you.com": {
         "epoch": "1784851200",
         "expiration_date": "24-jul-2026",
@@ -92390,8 +92410,8 @@
         "state": "future"
     },
     "uploader.ws": {
-        "epoch": "1541548800",
-        "expiration_date": "07-nov-2018",
+        "epoch": "1568419200",
+        "expiration_date": "14-sep-2019",
         "state": "future"
     },
     "uploadjockey.com": {
