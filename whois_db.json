@@ -1094,6 +1094,11 @@
         "expiration_date": "11-jul-2019",
         "state": "future"
     },
+    "21890.gov.cn": {
+        "epoch": 1587081600,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
     "21andover.com": {
         "epoch": "1551916800",
         "expiration_date": "07-mar-2019",
@@ -1792,6 +1797,11 @@
     "4-wheelers.com": {
         "epoch": "1555977600",
         "expiration_date": "23-apr-2019",
+        "state": "future"
+    },
+    "411vegas.com": {
+        "epoch": 1563580800,
+        "expiration_date": "20-jul-2019",
         "state": "future"
     },
     "4email.net": {
@@ -12069,6 +12079,11 @@
         "expiration_date": "09-apr-2019",
         "state": "future"
     },
+    "babez.tv": {
+        "epoch": 1569196800,
+        "expiration_date": "23-sep-2019",
+        "state": "future"
+    },
     "babi.dk": {
         "epoch": "1543536000",
         "expiration_date": "30-nov-2018",
@@ -16315,8 +16330,8 @@
         "state": "future"
     },
     "braodcast.com": {
-        "epoch": "1549670400",
-        "expiration_date": "09-feb-2019",
+        "epoch": 1581206400,
+        "expiration_date": "09-feb-2020",
         "state": "future"
     },
     "brasilnet.net": {
@@ -20085,8 +20100,8 @@
         "state": "future"
     },
     "cistus.cz": {
-        "epoch": "1545091200",
-        "expiration_date": "18-dec-2018",
+        "epoch": 1576627200,
+        "expiration_date": "18-dec-2019",
         "state": "future"
     },
     "citcuitcity.com": {
@@ -28095,8 +28110,8 @@
         "state": "future"
     },
     "downcode.com": {
-        "epoch": "1549411200",
-        "expiration_date": "06-feb-2019",
+        "epoch": 1580947200,
+        "expiration_date": "06-feb-2020",
         "state": "future"
     },
     "download-2007.com": {
@@ -37310,9 +37325,9 @@
         "state": "future"
     },
     "fuckspy.biz": {
-        "epoch": "1538438400",
-        "expiration_date": "02-oct-2018",
-        "state": "past"
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
     },
     "fuckteencunt.com": {
         "epoch": "1561075200",
@@ -49792,6 +49807,11 @@
     "kaysjewlers.com": {
         "epoch": "1686614400",
         "expiration_date": "13-jun-2023",
+        "state": "future"
+    },
+    "kdowqlpt.info": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "ke-tai.net": {
@@ -75524,6 +75544,11 @@
         "expiration_date": "16-jun-2021",
         "state": "future"
     },
+    "satfiles.cc": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
     "satisfucktion.net": {
         "epoch": "1548288000",
         "expiration_date": "24-jan-2019",
@@ -78226,7 +78251,7 @@
     },
     "sexclues.com": {
         "epoch": "1566518400",
-        "expiration_date": "23-aug-2019",
+        "expiration_date": "29-jan-2019",
         "state": "future"
     },
     "sexcounter.com": {
@@ -89035,9 +89060,9 @@
         "state": "past"
     },
     "tooname.com": {
-        "epoch": "1536796800",
-        "expiration_date": "13-sep-2018",
-        "state": "past"
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
+        "state": "future"
     },
     "toonamy.com": {
         "epoch": "1536796800",
@@ -97760,8 +97785,8 @@
         "state": "future"
     },
     "worldbestdate.com": {
-        "epoch": "1545868800",
-        "expiration_date": "27-dec-2018",
+        "epoch": "1542240000",
+        "expiration_date": "15-nov-2018",
         "state": "future"
     },
     "worldbob.com": {
