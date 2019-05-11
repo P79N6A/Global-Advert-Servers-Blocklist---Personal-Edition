@@ -274,6 +274,11 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "100pantyhose.com": {
+        "epoch": 1581638400,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
     "100percentcash.com": {
         "epoch": "1571184000",
         "expiration_date": "16-oct-2019",
@@ -1795,8 +1800,8 @@
         "state": "future"
     },
     "4erdak.com": {
-        "epoch": "1554681600",
-        "expiration_date": "08-apr-2019",
+        "epoch": 1586304000,
+        "expiration_date": "08-apr-2020",
         "state": "future"
     },
     "4fk.net": {
@@ -11542,6 +11547,11 @@
     "avenuea-razorfish.com": {
         "epoch": "1561852800",
         "expiration_date": "30-jun-2019",
+        "state": "future"
+    },
+    "avenuea.ca": {
+        "epoch": 1558742400,
+        "expiration_date": "25-may-2019",
         "state": "future"
     },
     "avenuea.com": {
@@ -30200,8 +30210,8 @@
         "state": "future"
     },
     "elearningschool.org": {
-        "epoch": "1556755200",
-        "expiration_date": "02-may-2019",
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "electosake.com": {
@@ -33245,8 +33255,8 @@
         "state": "future"
     },
     "fastbrakes.com": {
-        "epoch": "1544659200",
-        "expiration_date": "13-dec-2018",
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "fastclick.com": {
@@ -34570,8 +34580,8 @@
         "state": "future"
     },
     "fitmd.com": {
-        "epoch": "1548547200",
-        "expiration_date": "27-jan-2019",
+        "epoch": 1580083200,
+        "expiration_date": "27-jan-2020",
         "state": "future"
     },
     "fitnessandhealth.com": {
@@ -38869,6 +38879,11 @@
         "expiration_date": "13-feb-2021",
         "state": "future"
     },
+    "getfreeipod.com": {
+        "epoch": 1564704000,
+        "expiration_date": "02-aug-2019",
+        "state": "future"
+    },
     "getfreexxxmovies.com": {
         "epoch": "1573084800",
         "expiration_date": "07-nov-2019",
@@ -40945,8 +40960,8 @@
         "state": "future"
     },
     "greatmemo.com": {
-        "epoch": "1543622400",
-        "expiration_date": "01-dec-2018",
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
         "state": "future"
     },
     "greatnow.com": {
@@ -41360,9 +41375,9 @@
         "state": "future"
     },
     "guadagnare-internet.com": {
-        "epoch": "1543449600",
-        "expiration_date": "29-nov-2018",
-        "state": "past"
+        "epoch": 1574985600,
+        "expiration_date": "29-nov-2019",
+        "state": "future"
     },
     "guanxi.com": {
         "epoch": "1545004800",
@@ -43130,8 +43145,8 @@
         "state": "future"
     },
     "hitspy.com": {
-        "epoch": "1545782400",
-        "expiration_date": "26-dec-2018",
+        "epoch": 1577318400,
+        "expiration_date": "26-dec-2019",
         "state": "future"
     },
     "hitstats.net": {
@@ -60450,8 +60465,8 @@
         "state": "future"
     },
     "mysearch4u.com": {
-        "epoch": "1550361600",
-        "expiration_date": "17-feb-2019",
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "mysearches.com": {
@@ -68389,6 +68404,11 @@
         "expiration_date": "26-nov-2019",
         "state": "future"
     },
+    "playuh.com": {
+        "epoch": 1569628800,
+        "expiration_date": "28-sep-2019",
+        "state": "future"
+    },
     "plemx.com": {
         "epoch": "1544745600",
         "expiration_date": "14-dec-2018",
@@ -69550,8 +69570,8 @@
         "state": "future"
     },
     "pornosex.tv": {
-        "epoch": "1556582400",
-        "expiration_date": "30-apr-2019",
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "pornosexpic.com": {
@@ -81760,8 +81780,8 @@
         "state": "future"
     },
     "soundindepth.com": {
-        "epoch": "1557360000",
-        "expiration_date": "09-may-2019",
+        "epoch": 1620518400,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "soundom.com": {
