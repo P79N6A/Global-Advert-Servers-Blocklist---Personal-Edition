@@ -1,310 +1,454 @@
 {
-    "1557760725.307417": {
-        "domain": "seasonaloffers.club",
-        "extension": "club"
-    },
-    "1557760725.3227906": {
-        "domain": "www.seasonaloffers.club",
-        "extension": "club"
-    },
-    "1557761157.22529": {
-        "domain": "wmi.oo000oo.club",
-        "extension": "club"
-    },
-    "1557765424.2884238": {
-        "domain": "candid.zone",
-        "extension": "zone"
-    },
-    "1557765424.341465": {
-        "domain": "www.candid.zone",
-        "extension": "zone"
-    },
-    "1557769049.1991978": {
-        "domain": "ny1.minez.zone",
-        "extension": "zone"
-    },
-    "1557769460.3142688": {
-        "domain": "down.oo000oo.club",
-        "extension": "club"
-    },
-    "1557777142.1813538": {
-        "domain": "beagamer.club",
-        "extension": "club"
-    },
-    "1557777142.2444475": {
-        "domain": "www.beagamer.club",
-        "extension": "club"
-    },
-    "1557777146.8228762": {
-        "domain": "bittank.club",
-        "extension": "club"
-    },
-    "1557777146.9238214": {
-        "domain": "www.bittank.club",
-        "extension": "club"
-    },
-    "1557779498.6857965": {
-        "domain": "eu.madmining.club",
-        "extension": "club"
-    },
-    "1557779653.8661573": {
-        "domain": "widgets.cointrend.club",
-        "extension": "club"
-    },
-    "1557782776.5470629": {
-        "domain": "www.cointrend.club",
-        "extension": "club"
-    },
-    "1557782776.6237347": {
-        "domain": "cointrend.club",
-        "extension": "club"
-    },
-    "1557785472.191059": {
-        "domain": "www.enjoyableoffers.club",
-        "extension": "club"
-    },
-    "1557785472.2019427": {
-        "domain": "enjoyableoffers.club",
-        "extension": "club"
-    },
-    "1557785541.7181401": {
-        "domain": "dcy.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557788477.065105": {
-        "domain": "test.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557791517.9992418": {
-        "domain": "krb.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557793841.8603": {
-        "domain": "louhimo.club",
-        "extension": "club"
-    },
-    "1557793841.9064608": {
-        "domain": "www.louhimo.club",
-        "extension": "club"
-    },
-    "1557796216.2281785": {
-        "domain": "www.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557796216.2733417": {
-        "domain": "crypto-coins.club",
-        "extension": "club"
-    },
-    "1557796954.5401454": {
-        "domain": "webdisk.bittank.club",
-        "extension": "club"
-    },
-    "1557801878.273036": {
-        "domain": "livelyoffers.club",
-        "extension": "club"
-    },
-    "1557801878.3878925": {
-        "domain": "www.livelyoffers.club",
-        "extension": "club"
-    },
-    "1557801966.6469789": {
-        "domain": "blockmunch.club",
-        "extension": "club"
-    },
-    "1557801966.724068": {
-        "domain": "www.blockmunch.club",
-        "extension": "club"
-    },
-    "1557804482.4342687": {
-        "domain": "xci.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557810082.057615": {
-        "domain": "email.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557812277.8852718": {
-        "domain": "reservedoffers.club",
-        "extension": "club"
-    },
-    "1557812277.9499717": {
-        "domain": "www.reservedoffers.club",
-        "extension": "club"
-    },
-    "1557812342.347801": {
-        "domain": "mail.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557814143.097524": {
-        "domain": "www.cryptocoinz.club",
-        "extension": "club"
-    },
-    "1557814143.1139972": {
-        "domain": "cryptocoinz.club",
-        "extension": "club"
-    },
-    "1557814206.2983787": {
-        "domain": "etn.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557814490.6279278": {
-        "domain": "beta.madmining.club",
-        "extension": "club"
-    },
-    "1557816584.800768": {
-        "domain": "bic.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557819037.2700822": {
-        "domain": "zenblockx.minez.zone",
-        "extension": "zone"
-    },
-    "1557819164.7189674": {
-        "domain": "www.hitbtc.zone",
-        "extension": "zone"
-    },
-    "1557821606.8757782": {
-        "domain": "api.cointrend.club",
-        "extension": "club"
-    },
-    "1557821728.9565706": {
-        "domain": "cryptocoin.club",
-        "extension": "club"
-    },
-    "1557821729.0130637": {
-        "domain": "www.cryptocoin.club",
-        "extension": "club"
-    },
-    "1557821916.8340633": {
-        "domain": "xmr.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557824138.8346477": {
-        "domain": "wittyoffers.club",
-        "extension": "club"
-    },
-    "1557824138.8551395": {
-        "domain": "www.wittyoffers.club",
-        "extension": "club"
-    },
-    "1557828369.8539398": {
-        "domain": "monero.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557828747.166275": {
-        "domain": "ftp.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557835723.8358915": {
-        "domain": "latestpromotions.club",
-        "extension": "club"
-    },
-    "1557835724.001908": {
-        "domain": "www.latestpromotions.club",
-        "extension": "club"
-    },
-    "1557837382.4513826": {
-        "domain": "minez.zone",
-        "extension": "zone"
-    },
-    "1557837382.5673172": {
-        "domain": "www.minez.zone",
-        "extension": "zone"
-    },
-    "1557837648.3293495": {
-        "domain": "pc.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557839798.8887432": {
-        "domain": "bbr.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557842338.442996": {
-        "domain": "webmail.bittank.club",
-        "extension": "club"
-    },
-    "1557842693.6971507": {
-        "domain": "www.gemini.zone",
-        "extension": "zone"
-    },
-    "1557842693.7044456": {
-        "domain": "gemini.zone",
-        "extension": "zone"
-    },
-    "1557854443.463858": {
-        "domain": "karbo.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557857367.8911545": {
-        "domain": "electroneum.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557857908.5725856": {
-        "domain": "www.madmining.club",
-        "extension": "club"
-    },
-    "1557857908.5951755": {
-        "domain": "madmining.club",
-        "extension": "club"
-    },
-    "1557860560.9803991": {
-        "domain": "us.madmining.club",
-        "extension": "club"
-    },
-    "1557860904.8710167": {
-        "domain": "www.earncoins.club",
-        "extension": "club"
-    },
-    "1557860904.958823": {
-        "domain": "earncoins.club",
-        "extension": "club"
-    },
-    "1557863589.6007516": {
-        "domain": "mail.bittank.club",
-        "extension": "club"
-    },
-    "1557863609.9715316": {
-        "domain": "bitmining.zone",
-        "extension": "zone"
-    },
-    "1557863610.060622": {
-        "domain": "www.bitmining.zone",
-        "extension": "zone"
-    },
-    "1557864063.039225": {
-        "domain": "bip.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557865936.4958932": {
-        "domain": "d.cpufan.club",
-        "extension": "club"
-    },
-    "1557868460.3080757": {
-        "domain": "www.intactoffers.club",
-        "extension": "club"
-    },
-    "1557868460.3238366": {
-        "domain": "intactoffers.club",
-        "extension": "club"
-    },
-    "1557871210.4417899": {
-        "domain": "xlc.crypto-coins.club",
-        "extension": "club"
-    },
-    "1557874064.4498312": {
-        "domain": "thenewgamer.club",
-        "extension": "club"
-    },
-    "1557874064.5858297": {
-        "domain": "www.thenewgamer.club",
-        "extension": "club"
-    },
-    "1557876059.2545018": {
-        "domain": "cpanel.bittank.club",
-        "extension": "club"
-    },
-    "1557876093.642931": {
-        "domain": "asia.madmining.club",
-        "extension": "club"
+    "1558018784.3395452": {
+        "domain": "zen2.zencudo.co.uk",
+        "extension": "uk"
+    },
+    "1558018790.3865263": {
+        "domain": "ads242.hpg.com.br",
+        "extension": "br"
+    },
+    "1558018792.2025208": {
+        "domain": "ws4.300ca0d0.space",
+        "extension": "space"
+    },
+    "1558018802.4754374": {
+        "domain": "uk.mahjong.dk",
+        "extension": "dk"
+    },
+    "1558018804.4513052": {
+        "domain": "www.kaoline.dk",
+        "extension": "dk"
+    },
+    "1558018804.4674366": {
+        "domain": "kaoline.dk",
+        "extension": "dk"
+    },
+    "1558018804.9469059": {
+        "domain": "banners112.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018806.5434043": {
+        "domain": "mobile-nec.jeux.com.ar",
+        "extension": "ar"
+    },
+    "1558018806.5910802": {
+        "domain": "www.mobile-nec.jeux.com.ar",
+        "extension": "ar"
+    },
+    "1558018807.3314445": {
+        "domain": "advert8.hpg.com.br",
+        "extension": "br"
+    },
+    "1558018812.7713864": {
+        "domain": "ad138.hpg.com.br",
+        "extension": "br"
+    },
+    "1558018814.0513062": {
+        "domain": "advertising.tv",
+        "extension": "tv"
+    },
+    "1558018814.115084": {
+        "domain": "www.advertising.tv",
+        "extension": "tv"
+    },
+    "1558018816.6659997": {
+        "domain": "ads27.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018819.4315603": {
+        "domain": "www.jptest1.co.uk",
+        "extension": "uk"
+    },
+    "1558018819.5149207": {
+        "domain": "jptest1.co.uk",
+        "extension": "uk"
+    },
+    "1558018825.1026368": {
+        "domain": "scat.dk",
+        "extension": "dk"
+    },
+    "1558018825.1194057": {
+        "domain": "www.scat.dk",
+        "extension": "dk"
+    },
+    "1558018827.7057078": {
+        "domain": "ads223.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018828.8211365": {
+        "domain": "advert93.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018835.4614007": {
+        "domain": "d.unanimis.co.uk",
+        "extension": "uk"
+    },
+    "1558018838.3756323": {
+        "domain": "banners153.hpg.com.br",
+        "extension": "br"
+    },
+    "1558018840.3469949": {
+        "domain": "webtrends.telegraph.co.uk",
+        "extension": "uk"
+    },
+    "1558018843.2326844": {
+        "domain": "cheats.cc",
+        "extension": "cc"
+    },
+    "1558018843.2468286": {
+        "domain": "banners196.hpg.com.br",
+        "extension": "br"
+    },
+    "1558018858.1764607": {
+        "domain": "dashboard.adskeeper.co.uk",
+        "extension": "uk"
+    },
+    "1558018858.4983273": {
+        "domain": "www.carpena.co.uk",
+        "extension": "uk"
+    },
+    "1558018858.5453436": {
+        "domain": "carpena.co.uk",
+        "extension": "uk"
+    },
+    "1558018863.1344504": {
+        "domain": "banners136.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018867.2845473": {
+        "domain": "ads233.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018869.7073424": {
+        "domain": "ad04.hpg.com.br",
+        "extension": "br"
+    },
+    "1558018871.6706681": {
+        "domain": "scat.dk",
+        "extension": "dk"
+    },
+    "1558018871.7091649": {
+        "domain": "www.scat.dk",
+        "extension": "dk"
+    },
+    "1558018877.5999746": {
+        "domain": "ads45.hpg.com.br",
+        "extension": "br"
+    },
+    "1558018878.6477232": {
+        "domain": "www.kabaler.dk",
+        "extension": "dk"
+    },
+    "1558018878.7306166": {
+        "domain": "kabaler.dk",
+        "extension": "dk"
+    },
+    "1558018883.702512": {
+        "domain": "advert97.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018895.1630592": {
+        "domain": "worker.minero.cc",
+        "extension": "cc"
+    },
+    "1558018895.5596445": {
+        "domain": "statensbilinspektion.dk",
+        "extension": "dk"
+    },
+    "1558018895.5708318": {
+        "domain": "www.statensbilinspektion.dk",
+        "extension": "dk"
+    },
+    "1558018898.2392497": {
+        "domain": "crocodile-syllable-reactions.co.cc",
+        "extension": "cc"
+    },
+    "1558018909.3163862": {
+        "domain": "ad3.hpg.com.br",
+        "extension": "br"
+    },
+    "1558018931.522938": {
+        "domain": "delv.co.uk",
+        "extension": "uk"
+    },
+    "1558018931.5331903": {
+        "domain": "www.delv.co.uk",
+        "extension": "uk"
+    },
+    "1558018936.6223934": {
+        "domain": "ads104.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018938.7324498": {
+        "domain": "ad9.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018940.4209223": {
+        "domain": "www.kongeligeteater.dk",
+        "extension": "dk"
+    },
+    "1558018940.4315078": {
+        "domain": "kongeligeteater.dk",
+        "extension": "dk"
+    },
+    "1558018945.767871": {
+        "domain": "s12ds2.ewizard.cc",
+        "extension": "cc"
+    },
+    "1558018945.829719": {
+        "domain": "www.s12ds2.ewizard.cc",
+        "extension": "cc"
+    },
+    "1558018946.5522175": {
+        "domain": "ads248.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018957.9403346": {
+        "domain": "banners77.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018965.0128791": {
+        "domain": "ads.tripod.jubii.dk",
+        "extension": "dk"
+    },
+    "1558018978.7097096": {
+        "domain": "flycast.co.uk",
+        "extension": "uk"
+    },
+    "1558018978.7638254": {
+        "domain": "www.flycast.co.uk",
+        "extension": "uk"
+    },
+    "1558018982.8708296": {
+        "domain": "ads.terra.com.br",
+        "extension": "br"
+    },
+    "1558018986.157167": {
+        "domain": "blztotal.sites.uol.com.br",
+        "extension": "br"
+    },
+    "1558018998.494384": {
+        "domain": "ads232.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558018998.6612694": {
+        "domain": "ad231.hpg.com.br",
+        "extension": "br"
+    },
+    "1558018999.5798125": {
+        "domain": "nttstziinpa.widescreenhd.tv",
+        "extension": "tv"
+    },
+    "1558019001.6118536": {
+        "domain": "banners.estaminas.com.br",
+        "extension": "br"
+    },
+    "1558019013.893847": {
+        "domain": "banners235.hpg.com.br",
+        "extension": "br"
+    },
+    "1558019016.4434571": {
+        "domain": "banners132.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558019032.0729294": {
+        "domain": "ads15.hpg.com.br",
+        "extension": "br"
+    },
+    "1558019043.511717": {
+        "domain": "www.fremmedordbog.dk",
+        "extension": "dk"
+    },
+    "1558019043.5487177": {
+        "domain": "fremmedordbog.dk",
+        "extension": "dk"
+    },
+    "1558019044.760575": {
+        "domain": "ads00.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558019046.6029587": {
+        "domain": "worker9.minero.cc",
+        "extension": "cc"
+    },
+    "1558019047.2217457": {
+        "domain": "ad79.hpg.com.br",
+        "extension": "br"
+    },
+    "1558019048.4844086": {
+        "domain": "openx.ecomedia.bg",
+        "extension": "bg"
+    },
+    "1558019050.490459": {
+        "domain": "rzero.com.br",
+        "extension": "br"
+    },
+    "1558019050.5614185": {
+        "domain": "www.rzero.com.br",
+        "extension": "br"
+    },
+    "1558019050.802972": {
+        "domain": "ad14.hpg.com.br",
+        "extension": "br"
+    },
+    "1558019053.2840278": {
+        "domain": "aidgo.com.br",
+        "extension": "br"
+    },
+    "1558019053.3476624": {
+        "domain": "www.aidgo.com.br",
+        "extension": "br"
+    },
+    "1558019056.1950383": {
+        "domain": "ad201.hpg.com.br",
+        "extension": "br"
+    },
+    "1558019057.508878": {
+        "domain": "tc.barclays.co.uk",
+        "extension": "uk"
+    },
+    "1558019064.3165522": {
+        "domain": "aservices.party",
+        "extension": "party"
+    },
+    "1558019064.3410113": {
+        "domain": "www.aservices.party",
+        "extension": "party"
+    },
+    "1558019064.8399947": {
+        "domain": "bodegazonen.dk",
+        "extension": "dk"
+    },
+    "1558019064.8873029": {
+        "domain": "www.bodegazonen.dk",
+        "extension": "dk"
+    },
+    "1558019067.3657303": {
+        "domain": "ads236.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558019071.2601438": {
+        "domain": "jeronimkali23.co.cc",
+        "extension": "cc"
+    },
+    "1558019071.6559129": {
+        "domain": "www.fopc.org.ar",
+        "extension": "ar"
+    },
+    "1558019071.7113235": {
+        "domain": "fopc.org.ar",
+        "extension": "ar"
+    },
+    "1558019081.5533915": {
+        "domain": "banner.gre.ac.uk",
+        "extension": "uk"
+    },
+    "1558019085.7560124": {
+        "domain": "ad180.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558019087.3487022": {
+        "domain": "freeipoduk.co.uk",
+        "extension": "uk"
+    },
+    "1558019087.437004": {
+        "domain": "www.freeipoduk.co.uk",
+        "extension": "uk"
+    },
+    "1558019090.141149": {
+        "domain": "ads116.hpg.com.br",
+        "extension": "br"
+    },
+    "1558019090.4033663": {
+        "domain": "banners164.hpg.com.br",
+        "extension": "br"
+    },
+    "1558019094.8429985": {
+        "domain": "stratum.sye.host",
+        "extension": "host"
+    },
+    "1558019097.265088": {
+        "domain": "banners185.hpg.com.br",
+        "extension": "br"
+    },
+    "1558019106.4347506": {
+        "domain": "bjvvhk.t.muxa.cc",
+        "extension": "cc"
+    },
+    "1558019108.147189": {
+        "domain": "ad225.hpg.com.br",
+        "extension": "br"
+    },
+    "1558019113.4720674": {
+        "domain": "webmail.visaotur.com.br",
+        "extension": "br"
+    },
+    "1558019117.2280624": {
+        "domain": "gxl.dk",
+        "extension": "dk"
+    },
+    "1558019117.2753713": {
+        "domain": "www.gxl.dk",
+        "extension": "dk"
+    },
+    "1558019120.5012639": {
+        "domain": "banners85.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558019120.680672": {
+        "domain": "eroticbabe.dk",
+        "extension": "dk"
+    },
+    "1558019120.803984": {
+        "domain": "www.eroticbabe.dk",
+        "extension": "dk"
+    },
+    "1558019121.0112164": {
+        "domain": "api.minero.cc",
+        "extension": "cc"
+    },
+    "1558019122.6869228": {
+        "domain": "www.mirago.co.uk",
+        "extension": "uk"
+    },
+    "1558019122.7275865": {
+        "domain": "mirago.co.uk",
+        "extension": "uk"
+    },
+    "1558019124.8727467": {
+        "domain": "banners177.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558019128.508086": {
+        "domain": "see-work.top",
+        "extension": "top"
+    },
+    "1558019128.5367057": {
+        "domain": "www.see-work.top",
+        "extension": "top"
+    },
+    "1558019141.3827198": {
+        "domain": "traffic.spot.im",
+        "extension": "im"
+    },
+    "1558019141.5607607": {
+        "domain": "ad23.hpg.com.br",
+        "extension": "br"
+    },
+    "1558019144.8792324": {
+        "domain": "24zz.co.cc",
+        "extension": "cc"
+    },
+    "1558019146.8883572": {
+        "domain": "pumpkin.co.uk",
+        "extension": "uk"
+    },
+    "1558019146.920054": {
+        "domain": "www.pumpkin.co.uk",
+        "extension": "uk"
+    },
+    "1558019171.8014464": {
+        "domain": "advert33.hpg.ig.com.br",
+        "extension": "br"
     }
 }
