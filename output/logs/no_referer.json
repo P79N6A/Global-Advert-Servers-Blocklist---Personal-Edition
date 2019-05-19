@@ -1,634 +1,602 @@
 {
-    "1558287218.4226499": {
-        "domain": "ppi.terra.com.br",
-        "extension": "br"
-    },
-    "1558287232.1808748": {
-        "domain": "ads.commerce.co.uk",
-        "extension": "uk"
-    },
-    "1558287250.5544322": {
-        "domain": "banners15.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558287270.5972166": {
-        "domain": "level4u.top",
-        "extension": "top"
-    },
-    "1558287270.6638534": {
-        "domain": "www.level4u.top",
-        "extension": "top"
-    },
-    "1558287972.1812327": {
-        "domain": "www.fourthgroup-ltd.cc",
+    "1558291768.8082988": {
+        "domain": "system-scanner-jess.co.cc",
         "extension": "cc"
     },
-    "1558287972.2897658": {
-        "domain": "fourthgroup-ltd.cc",
-        "extension": "cc"
-    },
-    "1558287988.7922847": {
-        "domain": "ads.gooshing.co.uk",
-        "extension": "uk"
-    },
-    "1558287996.538576": {
-        "domain": "ad40.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288005.2574792": {
-        "domain": "banners80.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288006.5123441": {
-        "domain": "ws8.3c0cb3b4.space",
-        "extension": "space"
-    },
-    "1558288014.7361844": {
-        "domain": "ad103.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288025.0008984": {
-        "domain": "ads150.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288069.2529054": {
-        "domain": "ads200.hpg.com.br",
-        "extension": "br"
-    },
-    "1558288077.5077593": {
-        "domain": "ad32.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288088.1073172": {
-        "domain": "banners240.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288094.0727086": {
-        "domain": "banners208.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288095.280941": {
-        "domain": "advert55.hpg.com.br",
-        "extension": "br"
-    },
-    "1558288100.169298": {
-        "domain": "ad112.hpg.com.br",
-        "extension": "br"
-    },
-    "1558288104.0522187": {
-        "domain": "ads156.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288117.883375": {
-        "domain": "ads116.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288129.4322424": {
-        "domain": "decideinteractive.co.uk",
-        "extension": "uk"
-    },
-    "1558288129.4566708": {
-        "domain": "www.decideinteractive.co.uk",
-        "extension": "uk"
-    },
-    "1558288141.8504024": {
-        "domain": "ad141.hpg.com.br",
-        "extension": "br"
-    },
-    "1558288146.4738877": {
-        "domain": "fr-db5.suprnova.cc",
-        "extension": "cc"
-    },
-    "1558288146.63224": {
-        "domain": "thebigoutdoors.co.uk",
-        "extension": "uk"
-    },
-    "1558288146.6603482": {
-        "domain": "www.thebigoutdoors.co.uk",
-        "extension": "uk"
-    },
-    "1558288148.6138828": {
-        "domain": "www.educan.co.uk",
-        "extension": "uk"
-    },
-    "1558288148.6155784": {
-        "domain": "educan.co.uk",
-        "extension": "uk"
-    },
-    "1558288154.0565908": {
-        "domain": "banners105.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288178.2526655": {
-        "domain": "advert187.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288191.6099198": {
-        "domain": "ads185.hpg.com.br",
-        "extension": "br"
-    },
-    "1558288202.0544362": {
-        "domain": "nupecampus2.uneb.br",
-        "extension": "br"
-    },
-    "1558288224.0863717": {
-        "domain": "bilder.cc",
-        "extension": "cc"
-    },
-    "1558288224.0905602": {
-        "domain": "www.bilder.cc",
-        "extension": "cc"
-    },
-    "1558288232.7524915": {
-        "domain": "mediaathay.org.uk",
-        "extension": "uk"
-    },
-    "1558288232.785749": {
-        "domain": "www.mediaathay.org.uk",
-        "extension": "uk"
-    },
-    "1558288236.321765": {
-        "domain": "c1.counter4all.dk",
-        "extension": "dk"
-    },
-    "1558288249.4070284": {
-        "domain": "ws5.1beb2a44.space",
-        "extension": "space"
-    },
-    "1558288252.901516": {
-        "domain": "ad125.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288255.946854": {
-        "domain": "ads.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288258.530305": {
-        "domain": "spse.com.ar",
-        "extension": "ar"
-    },
-    "1558288258.6884146": {
-        "domain": "www.spse.com.ar",
-        "extension": "ar"
-    },
-    "1558288272.2595034": {
-        "domain": "ads41.hpg.com.br",
-        "extension": "br"
-    },
-    "1558288304.9282436": {
-        "domain": "blitz2008.xpg.com.br",
-        "extension": "br"
-    },
-    "1558288348.7031221": {
-        "domain": "ads10.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288350.6608844": {
-        "domain": "ad107.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288356.4151986": {
-        "domain": "advert58.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288366.1370919": {
-        "domain": "www.loans4.co.uk",
-        "extension": "uk"
-    },
-    "1558288366.1422763": {
-        "domain": "loans4.co.uk",
-        "extension": "uk"
-    },
-    "1558288367.802947": {
-        "domain": "www.targetmarketgroup-llc.cc",
-        "extension": "cc"
-    },
-    "1558288367.923136": {
-        "domain": "targetmarketgroup-llc.cc",
-        "extension": "cc"
-    },
-    "1558288386.4052877": {
-        "domain": "carol.omoura.sites.uol.com.br",
-        "extension": "br"
-    },
-    "1558288415.4235418": {
-        "domain": "ad178.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288419.0754478": {
-        "domain": "banners20.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288430.0734766": {
-        "domain": "banners66.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288458.0984619": {
-        "domain": "ad179.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288468.368807": {
-        "domain": "banner.senzor.dk",
-        "extension": "dk"
-    },
-    "1558288480.7742448": {
-        "domain": "banners245.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288488.1067502": {
-        "domain": "ads117.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288496.3977973": {
-        "domain": "ads198.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288529.5420735": {
-        "domain": "ad30.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288540.8596134": {
-        "domain": "15zz.co.cc",
-        "extension": "cc"
-    },
-    "1558288544.319576": {
-        "domain": "ws4.310ca263.space",
-        "extension": "space"
-    },
-    "1558288570.756717": {
-        "domain": "dl.ask.co.uk",
-        "extension": "uk"
-    },
-    "1558288574.9960408": {
-        "domain": "worker7.minero.cc",
-        "extension": "cc"
-    },
-    "1558288576.4982193": {
-        "domain": "dl.fast-malware-scan.co.cc",
-        "extension": "cc"
-    },
-    "1558288581.074354": {
-        "domain": "ads113.hpg.com.br",
-        "extension": "br"
-    },
-    "1558288603.6485069": {
-        "domain": "web26.f3.k8.com.br",
-        "extension": "br"
-    },
-    "1558288607.4793756": {
-        "domain": "ads223.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288613.7956734": {
-        "domain": "ad244.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288623.8183038": {
-        "domain": "banners200.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288625.1286738": {
-        "domain": "dkrt.co.cc",
-        "extension": "cc"
-    },
-    "1558288639.0426593": {
-        "domain": "ads75.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288650.0446217": {
-        "domain": "scrooge.nbc4.tv",
+    "1558291772.2425413": {
+        "domain": "adobecodec-02.co.tv",
         "extension": "tv"
     },
-    "1558288659.5631342": {
-        "domain": "es.noronha.sites.uol.com.br",
+    "1558291775.5330632": {
+        "domain": "ad109.hpg.ig.com.br",
         "extension": "br"
     },
-    "1558288693.5390751": {
-        "domain": "advert178.hpg.ig.com.br",
+    "1558291778.9106095": {
+        "domain": "banners61.hpg.ig.com.br",
         "extension": "br"
     },
-    "1558288717.3206089": {
-        "domain": "call4u.top",
-        "extension": "top"
-    },
-    "1558288717.4010353": {
-        "domain": "www.call4u.top",
-        "extension": "top"
-    },
-    "1558288731.898997": {
-        "domain": "ads27.hpg.com.br",
+    "1558291779.8910644": {
+        "domain": "cabanasdopontal.com.br",
         "extension": "br"
     },
-    "1558288736.1818695": {
-        "domain": "advert115.hpg.ig.com.br",
+    "1558291779.9657793": {
+        "domain": "www.cabanasdopontal.com.br",
         "extension": "br"
     },
-    "1558288741.426523": {
-        "domain": "ads53.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288748.911301": {
-        "domain": "www.partnershop.co.uk",
-        "extension": "uk"
-    },
-    "1558288748.9356818": {
-        "domain": "partnershop.co.uk",
-        "extension": "uk"
-    },
-    "1558288774.5135887": {
-        "domain": "advert244.hpg.com.br",
-        "extension": "br"
-    },
-    "1558288793.278876": {
-        "domain": "cairujp.sites.uol.com.br",
-        "extension": "br"
-    },
-    "1558288797.7570384": {
-        "domain": "advert18.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558288802.6986551": {
-        "domain": "ads224.hpg.com.br",
-        "extension": "br"
-    },
-    "1558288806.080981": {
-        "domain": "banners152.hpg.com.br",
-        "extension": "br"
-    },
-    "1558288838.13466": {
-        "domain": "ads75.hpg.com.br",
-        "extension": "br"
-    },
-    "1558289832.3812873": {
-        "domain": "banners112.hpg.com.br",
-        "extension": "br"
-    },
-    "1558289837.262679": {
-        "domain": "ad73.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558289847.4425726": {
-        "domain": "banner2.ofir.dk",
-        "extension": "dk"
-    },
-    "1558289848.8526359": {
-        "domain": "meggadistribuidora.sites.uol.com.br",
-        "extension": "br"
-    },
-    "1558289862.1952288": {
-        "domain": "ads69.hpg.com.br",
-        "extension": "br"
-    },
-    "1558289894.3684208": {
-        "domain": "banners29.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558289895.686432": {
-        "domain": "ads187.hpg.com.br",
-        "extension": "br"
-    },
-    "1558289913.5341017": {
-        "domain": "advert249.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558289920.8637915": {
-        "domain": "worker10.minero.cc",
-        "extension": "cc"
-    },
-    "1558289924.4211302": {
-        "domain": "banner.quick-data.dk",
-        "extension": "dk"
-    },
-    "1558289951.5572252": {
-        "domain": "inet.mobifreedom.co.uk",
-        "extension": "uk"
-    },
-    "1558289958.876771": {
-        "domain": "ad47.hpg.com.br",
-        "extension": "br"
-    },
-    "1558289960.9682157": {
-        "domain": "freecontent.racing",
-        "extension": "racing"
-    },
-    "1558289961.0888343": {
-        "domain": "www.freecontent.racing",
-        "extension": "racing"
-    },
-    "1558289986.3859003": {
-        "domain": "faint.ir",
-        "extension": "ir"
-    },
-    "1558289986.4851124": {
-        "domain": "www.faint.ir",
-        "extension": "ir"
-    },
-    "1558289992.5468814": {
-        "domain": "fast-av-scan.co.cc",
-        "extension": "cc"
-    },
-    "1558290007.84466": {
-        "domain": "banners24.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558290027.974245": {
-        "domain": "www.kosova.cc",
-        "extension": "cc"
-    },
-    "1558290028.003506": {
-        "domain": "kosova.cc",
-        "extension": "cc"
-    },
-    "1558290030.3238766": {
-        "domain": "banners151.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558290049.6819038": {
-        "domain": "ws3.360caa42.space",
+    "1558291784.7791836": {
+        "domain": "api.330ca589.space",
         "extension": "space"
     },
-    "1558290056.7670991": {
-        "domain": "freeware-alternative.uni.cc",
-        "extension": "cc"
-    },
-    "1558290056.7765071": {
-        "domain": "www.freeware-alternative.uni.cc",
-        "extension": "cc"
-    },
-    "1558290067.221261": {
-        "domain": "advert215.hpg.ig.com.br",
+    "1558291793.5189214": {
+        "domain": "ad134.hpg.com.br",
         "extension": "br"
     },
-    "1558290074.3563643": {
-        "domain": "worker6.minero.cc",
-        "extension": "cc"
+    "1558291815.8311265": {
+        "domain": "bwp.zdnet.co.uk",
+        "extension": "uk"
     },
-    "1558290075.20589": {
-        "domain": "ad162.hpg.ig.com.br",
+    "1558291817.1512396": {
+        "domain": "dwn.jamster.co.uk",
+        "extension": "uk"
+    },
+    "1558291821.8597014": {
+        "domain": "tdkads.ads.dk",
+        "extension": "dk"
+    },
+    "1558291831.353752": {
+        "domain": "ad19.hpg.ig.com.br",
         "extension": "br"
     },
-    "1558290110.1322186": {
-        "domain": "ad170.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558290125.9631593": {
-        "domain": "ads.ibest.com.br",
-        "extension": "br"
-    },
-    "1558290148.537419": {
-        "domain": "banners65.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558290151.5475416": {
-        "domain": "vdocstat.co.cc",
-        "extension": "cc"
-    },
-    "1558290164.557886": {
-        "domain": "ws7.370cabd5.space",
+    "1558291833.8921742": {
+        "domain": "ws6.3d0cb547.space",
         "extension": "space"
     },
-    "1558290212.4382823": {
-        "domain": "v1ru5.co.cc",
+    "1558291839.356102": {
+        "domain": "ad152.hpg.com.br",
+        "extension": "br"
+    },
+    "1558291865.8146088": {
+        "domain": "ads166.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558291866.1252956": {
+        "domain": "ad111.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558291881.4684777": {
+        "domain": "ads144.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558291895.7150893": {
+        "domain": "ad6.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558291904.843855": {
+        "domain": "advert127.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558291910.9356625": {
+        "domain": "settings.myhomeplace.hk",
+        "extension": "hk"
+    },
+    "1558291914.7513535": {
+        "domain": "rjmvcdld.co.cc",
         "extension": "cc"
     },
-    "1558290214.709573": {
-        "domain": "ads142.hpg.com.br",
+    "1558291917.8033638": {
+        "domain": "emediate.dk",
+        "extension": "dk"
+    },
+    "1558291917.834798": {
+        "domain": "www.emediate.dk",
+        "extension": "dk"
+    },
+    "1558291928.8937771": {
+        "domain": "banners60.hpg.com.br",
         "extension": "br"
     },
-    "1558290265.308119": {
-        "domain": "tabex.sopharma.bg",
-        "extension": "bg"
-    },
-    "1558290267.1234627": {
-        "domain": "padrejonacir.sites.uol.com.br",
+    "1558291936.304369": {
+        "domain": "scripts.insite.com.br",
         "extension": "br"
     },
-    "1558290269.9868882": {
-        "domain": "ads70.hpg.ig.com.br",
+    "1558291943.249226": {
+        "domain": "ad81.hpg.com.br",
         "extension": "br"
     },
-    "1558290270.8465164": {
-        "domain": "www.hfh.blig.ig.com.br",
+    "1558291944.2599964": {
+        "domain": "rafiltros.sites.uol.com.br",
         "extension": "br"
     },
-    "1558290284.625441": {
-        "domain": "pasc.suprnova.cc",
+    "1558291946.7463815": {
+        "domain": "visualdna-widgets.mirror.co.uk",
+        "extension": "uk"
+    },
+    "1558291951.0058882": {
+        "domain": "frisaprodutora.com.br",
+        "extension": "br"
+    },
+    "1558291951.0725553": {
+        "domain": "www.frisaprodutora.com.br",
+        "extension": "br"
+    },
+    "1558291960.3769445": {
+        "domain": "astech-groupde.cc",
         "extension": "cc"
     },
-    "1558290304.5859652": {
-        "domain": "advert136.hpg.ig.com.br",
+    "1558291960.4698865": {
+        "domain": "www.astech-groupde.cc",
+        "extension": "cc"
+    },
+    "1558291960.8072143": {
+        "domain": "ad239.hpg.ig.com.br",
         "extension": "br"
     },
-    "1558290312.648974": {
-        "domain": "www.romz.cc",
-        "extension": "cc"
+    "1558291960.9364197": {
+        "domain": "www.addictive247.co.uk",
+        "extension": "uk"
     },
-    "1558290312.6898007": {
-        "domain": "romz.cc",
-        "extension": "cc"
+    "1558291960.9566972": {
+        "domain": "addictive247.co.uk",
+        "extension": "uk"
     },
-    "1558290317.3792334": {
-        "domain": "devocionalpc.com.ar",
+    "1558291971.1939366": {
+        "domain": "webmail.bittank.club",
+        "extension": "club"
+    },
+    "1558291974.8117208": {
+        "domain": "mobile-nec.jeux.com.ar",
         "extension": "ar"
     },
-    "1558290317.3955047": {
-        "domain": "www.devocionalpc.com.ar",
+    "1558291974.8479078": {
+        "domain": "www.mobile-nec.jeux.com.ar",
         "extension": "ar"
     },
-    "1558290328.0074272": {
-        "domain": "a.pool.ml",
-        "extension": "ml"
+    "1558291978.4241664": {
+        "domain": "shared-domain.top",
+        "extension": "top"
     },
-    "1558290332.6493783": {
-        "domain": "ad172.hpg.com.br",
+    "1558291978.5088665": {
+        "domain": "www.shared-domain.top",
+        "extension": "top"
+    },
+    "1558291996.006353": {
+        "domain": "aeon.pools.e-scavo.net.ar",
+        "extension": "ar"
+    },
+    "1558292000.0697587": {
+        "domain": "ad63.hpg.com.br",
         "extension": "br"
     },
-    "1558290343.2944047": {
-        "domain": "advert31.hpg.ig.com.br",
+    "1558292003.4800253": {
+        "domain": "ads143.hpg.com.br",
         "extension": "br"
     },
-    "1558290349.5320117": {
-        "domain": "banners53.hpg.ig.com.br",
+    "1558292008.7129216": {
+        "domain": "banners56.hpg.com.br",
         "extension": "br"
     },
-    "1558290355.48069": {
-        "domain": "banners20.hpg.com.br",
+    "1558292013.0834038": {
+        "domain": "ad157.hpg.ig.com.br",
         "extension": "br"
     },
-    "1558290382.3657155": {
-        "domain": "banners212.hpg.com.br",
+    "1558292018.9316046": {
+        "domain": "www.livrariaviasapiens.com.br",
         "extension": "br"
     },
-    "1558290428.7781763": {
-        "domain": "openx.angelsgroup.org.uk",
-        "extension": "uk"
-    },
-    "1558290432.2839422": {
-        "domain": "ad51.hpg.com.br",
+    "1558292018.9641037": {
+        "domain": "livrariaviasapiens.com.br",
         "extension": "br"
     },
-    "1558290433.596738": {
-        "domain": "ads.sift.co.uk",
-        "extension": "uk"
-    },
-    "1558290437.285265": {
-        "domain": "ads116.hpg.com.br",
+    "1558292034.7505598": {
+        "domain": "lb-adserver.ig.com.br",
         "extension": "br"
     },
-    "1558290477.7434237": {
-        "domain": "www.gemini.express",
-        "extension": "express"
-    },
-    "1558290477.758033": {
-        "domain": "gemini.express",
-        "extension": "express"
-    },
-    "1558290479.3940244": {
-        "domain": "cleanwaters.sites.uol.com.br",
+    "1558292039.4146037": {
+        "domain": "ads94.hpg.com.br",
         "extension": "br"
     },
-    "1558290521.076989": {
-        "domain": "ads89.hpg.com.br",
+    "1558292040.9137137": {
+        "domain": "banners41.hpg.com.br",
         "extension": "br"
     },
-    "1558290553.3041537": {
-        "domain": "ad176.hpg.ig.com.br",
+    "1558292044.1551332": {
+        "domain": "ads92.hpg.ig.com.br",
         "extension": "br"
     },
-    "1558290577.4583247": {
-        "domain": "banners252.hpg.ig.com.br",
+    "1558292049.3288045": {
+        "domain": "advert233.hpg.com.br",
         "extension": "br"
     },
-    "1558290579.675237": {
-        "domain": "eac.suprnova.cc",
+    "1558292051.8962615": {
+        "domain": "kraksvejviser.dk",
+        "extension": "dk"
+    },
+    "1558292051.9580684": {
+        "domain": "www.kraksvejviser.dk",
+        "extension": "dk"
+    },
+    "1558292056.7937095": {
+        "domain": "banners57.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292060.3058424": {
+        "domain": "megatechservicegroup-ltd.cc",
         "extension": "cc"
     },
-    "1558290586.0831792": {
-        "domain": "banners130.hpg.ig.com.br",
-        "extension": "br"
-    },
-    "1558290594.8623676": {
-        "domain": "www.cyberit.co.uk",
-        "extension": "uk"
-    },
-    "1558290594.8928216": {
-        "domain": "cyberit.co.uk",
-        "extension": "uk"
-    },
-    "1558290600.0429626": {
-        "domain": "uro.suprnova.cc",
+    "1558292060.3804395": {
+        "domain": "www.megatechservicegroup-ltd.cc",
         "extension": "cc"
     },
-    "1558290604.9486654": {
-        "domain": "y.nbc4.tv",
+    "1558292074.687763": {
+        "domain": "ad24.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292076.6304133": {
+        "domain": "advert125.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292078.0165725": {
+        "domain": "ads192.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292091.2529771": {
+        "domain": "nzqhjcss.co.cc",
+        "extension": "cc"
+    },
+    "1558292095.2909539": {
+        "domain": "banners199.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292109.6064057": {
+        "domain": "advert31.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292126.9211636": {
+        "domain": "banners49.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292131.331782": {
+        "domain": "banner.gre.ac.uk",
+        "extension": "uk"
+    },
+    "1558292133.6965823": {
+        "domain": "advert175.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292136.8148587": {
+        "domain": "banners36.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292147.5285888": {
+        "domain": "ad25.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292147.8328364": {
+        "domain": "advert231.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292154.2512379": {
+        "domain": "molesa.xpg.com.br",
+        "extension": "br"
+    },
+    "1558292154.298089": {
+        "domain": "www.molesa.xpg.com.br",
+        "extension": "br"
+    },
+    "1558292158.021131": {
+        "domain": "vhnlyt.t.muxa.cc",
+        "extension": "cc"
+    },
+    "1558292160.3087554": {
+        "domain": "ads239.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292170.3502958": {
+        "domain": "banners73.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292172.6955087": {
+        "domain": "banners107.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292174.7072942": {
+        "domain": "banners125.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292178.1574576": {
+        "domain": "advert41.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292182.481213": {
+        "domain": "baski11.co.tv",
         "extension": "tv"
     },
-    "1558290628.636663": {
-        "domain": "ad28.hpg.ig.com.br",
+    "1558292189.8511012": {
+        "domain": "advert254.hpg.ig.com.br",
         "extension": "br"
     },
-    "1558290661.513345": {
-        "domain": "advert14.hpg.ig.com.br",
+    "1558292197.5700486": {
+        "domain": "advert170.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292210.8999212": {
+        "domain": "ads138.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292224.4509451": {
+        "domain": "ad94.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292231.2465558": {
+        "domain": "banners239.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292231.9228122": {
+        "domain": "dwnsft9t73.co.cc",
+        "extension": "cc"
+    },
+    "1558292238.1253252": {
+        "domain": "ads.bham.ac.uk",
+        "extension": "uk"
+    },
+    "1558292253.2982955": {
+        "domain": "adserver-4.ig.com.br",
+        "extension": "br"
+    },
+    "1558292254.656665": {
+        "domain": "gmc.suprnova.cc",
+        "extension": "cc"
+    },
+    "1558292272.453747": {
+        "domain": "ecto.kung-foo.tv",
+        "extension": "tv"
+    },
+    "1558292284.3687396": {
+        "domain": "delivery.vidible.tv",
+        "extension": "tv"
+    },
+    "1558292298.7096896": {
+        "domain": "www.360caa42.space",
+        "extension": "space"
+    },
+    "1558292298.7368417": {
+        "domain": "360caa42.space",
+        "extension": "space"
+    },
+    "1558292309.8937957": {
+        "domain": "orgasmed.tv",
+        "extension": "tv"
+    },
+    "1558292309.9211202": {
+        "domain": "www.orgasmed.tv",
+        "extension": "tv"
+    },
+    "1558292312.2453153": {
+        "domain": "ad122.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292323.0637796": {
+        "domain": "gabfrei.sites.uol.com.br",
+        "extension": "br"
+    },
+    "1558292329.385011": {
+        "domain": "mine.ubq.mypool.online",
+        "extension": "online"
+    },
+    "1558292332.9024858": {
+        "domain": "ads1.capitalinteractive.co.uk",
+        "extension": "uk"
+    },
+    "1558292339.669727": {
+        "domain": "www.chart.dk",
+        "extension": "dk"
+    },
+    "1558292339.723333": {
+        "domain": "chart.dk",
+        "extension": "dk"
+    },
+    "1558292341.0405154": {
+        "domain": "banners140.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292345.7745068": {
+        "domain": "adserver2.fluent.ltd.uk",
+        "extension": "uk"
+    },
+    "1558292350.4792953": {
+        "domain": "banners.fucker.dk",
+        "extension": "dk"
+    },
+    "1558292352.0717304": {
+        "domain": "www.komplett.co.uk",
+        "extension": "uk"
+    },
+    "1558292352.161502": {
+        "domain": "komplett.co.uk",
+        "extension": "uk"
+    },
+    "1558292361.791656": {
+        "domain": "www.piratemovies.tv",
+        "extension": "tv"
+    },
+    "1558292361.8695": {
+        "domain": "piratemovies.tv",
+        "extension": "tv"
+    },
+    "1558292363.4317904": {
+        "domain": "banners249.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292365.7816198": {
+        "domain": "unixpoint02.xpg.com.br",
+        "extension": "br"
+    },
+    "1558292365.8391283": {
+        "domain": "www.unixpoint02.xpg.com.br",
+        "extension": "br"
+    },
+    "1558292374.823309": {
+        "domain": "ads160.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292396.1943893": {
+        "domain": "ads80.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292396.2874837": {
+        "domain": "iballs.tv",
+        "extension": "tv"
+    },
+    "1558292396.2997785": {
+        "domain": "www.iballs.tv",
+        "extension": "tv"
+    },
+    "1558292404.883326": {
+        "domain": "advert231.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292414.597812": {
+        "domain": "banners167.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292431.6485715": {
+        "domain": "ad215.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292444.6287882": {
+        "domain": "advert217.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292448.8846204": {
+        "domain": "best-domain.link",
+        "extension": "link"
+    },
+    "1558292460.3772147": {
+        "domain": "advert242.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292478.6849551": {
+        "domain": "banners255.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292489.0522144": {
+        "domain": "www.goldoffer.online",
+        "extension": "online"
+    },
+    "1558292489.0957341": {
+        "domain": "goldoffer.online",
+        "extension": "online"
+    },
+    "1558292489.4367127": {
+        "domain": "api.exp.mypool.online",
+        "extension": "online"
+    },
+    "1558292499.8984663": {
+        "domain": "collins-ltdusa.cc",
+        "extension": "cc"
+    },
+    "1558292499.9360757": {
+        "domain": "www.collins-ltdusa.cc",
+        "extension": "cc"
+    },
+    "1558292503.6297195": {
+        "domain": "ad10.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292533.2748592": {
+        "domain": "ads9.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292556.1648257": {
+        "domain": "ads94.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292558.7826793": {
+        "domain": "technicalsquad247.co.uk",
+        "extension": "uk"
+    },
+    "1558292558.8315732": {
+        "domain": "www.technicalsquad247.co.uk",
+        "extension": "uk"
+    },
+    "1558292560.2852066": {
+        "domain": "intelignet.com.br",
+        "extension": "br"
+    },
+    "1558292560.3173397": {
+        "domain": "www.intelignet.com.br",
+        "extension": "br"
+    },
+    "1558292565.7752447": {
+        "domain": "ads192.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292579.9578764": {
+        "domain": "ad126.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292580.3350115": {
+        "domain": "ad140.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292587.4514637": {
+        "domain": "advert132.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292589.0196671": {
+        "domain": "ads.blueline.mg",
+        "extension": "mg"
+    },
+    "1558292593.0655203": {
+        "domain": "ads38.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292597.0881453": {
+        "domain": "celeb.cc",
+        "extension": "cc"
+    },
+    "1558292597.1360624": {
+        "domain": "www.celeb.cc",
+        "extension": "cc"
+    },
+    "1558292603.1652474": {
+        "domain": "celgmed.com.br",
+        "extension": "br"
+    },
+    "1558292603.190443": {
+        "domain": "www.celgmed.com.br",
+        "extension": "br"
+    },
+    "1558292607.0091922": {
+        "domain": "ad53.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1558292623.3399453": {
+        "domain": "binance.express",
+        "extension": "express"
+    },
+    "1558292623.3873348": {
+        "domain": "www.binance.express",
+        "extension": "express"
+    },
+    "1558292626.4586318": {
+        "domain": "offercity.co.uk",
+        "extension": "uk"
+    },
+    "1558292626.5718892": {
+        "domain": "www.offercity.co.uk",
+        "extension": "uk"
+    },
+    "1558292626.9459155": {
+        "domain": "advert50.hpg.com.br",
+        "extension": "br"
+    },
+    "1558292634.1757162": {
+        "domain": "reed-cw.grapeshot.co.uk",
+        "extension": "uk"
+    },
+    "1558292635.7775314": {
+        "domain": "ad00.hpg.ig.com.br",
         "extension": "br"
     }
 }
