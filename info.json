@@ -1,8 +1,10 @@
 {
     "clean_list_file": "clean.list",
     "convert_to_idna": "1",
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
+    "last_autosave_datetime": "Sun Jun  9 14:12:13 2019",
+    "last_autosave_epoch": 1560089533.324816,
     "last_test": 1546787694,
     "list_name": "domains.list",
     "name": "Global-Advert-Servers-Blocklist---Personal-Edition",
