@@ -2,18 +2,18 @@
     "clean_list_file": "clean.list",
     "convert_to_idna": "1",
     "current_stats": {
-        "builds": 35,
+        "builds": 36,
         "counter": {
-            "down": 15401,
+            "down": 15769,
             "invalid": 10,
-            "tested": 39218,
-            "up": 23807
+            "tested": 40161,
+            "up": 24382
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
-    "last_autosave_datetime": "Tue Jun 11 05:29:45 2019",
-    "last_autosave_epoch": 1560230985.331916,
+    "last_autosave_datetime": "Tue Jun 11 05:48:39 2019",
+    "last_autosave_epoch": 1560232119.067027,
     "list_name": "domains.list",
     "name": "Global-Advert-Servers-Blocklist---Personal-Edition",
     "raw_link": "https://hostsfile.mine.nu/hosts0.txt",
